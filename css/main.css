@@ -73,6 +73,7 @@ body,html{
       margin-left: -160px;
       float: left;
       margin-bottom: 0px;
+      border-radius: 0px;
     }
 
     nav.sidebar li {
@@ -116,3 +117,14 @@ body,html{
   section{
     padding-left: 15px;
   }
+
+
+.welcome-headline {
+    padding: 40px 0px;
+    margin-top: 2px;
+    margin-bottom: 50px;
+    font: 700 70px/1.1 "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    color: #1ABC9C;
+    text-align: center;
+    word-wrap: break-word;
+}
