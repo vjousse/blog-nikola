@@ -8,74 +8,82 @@
 {% endblock %}
 {{ template_hooks['extra_head']() }}
 </head>
-<body>
+<body class="stretched side-header no-transition">
 <a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
 
-<!-- Menubar -->
 
 
-<nav class="navbar navbar-inverse sidebar" role="navigation">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ abs_link(_link("root", None, lang)) }}">
-            {% if logo_url %}
-                <img src="{{ logo_url }}" alt="{{ blog_title|e }}" id="logo">
-            {% endif %}
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
 
-            {% if show_blog_title %}
-                <span id="blog-title">{{ blog_title|e }}</span>
-            {% endif %}
-            </a>
-        </div><!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-                {{ base.html_navigation_links() }}
-                {{ template_hooks['menu']() }}
+		<!-- Header
+		============================================= -->
+		<header id="header" class="no-sticky">
 
-            </ul>
-            {% if search_form %}
-                {{ search_form }}
-            {% endif %}
-<!--
-            <ul class="nav navbar-nav navbar-right">
-                {% block belowtitle %}
-                {% if translations|length > 1 %}
-                    <li>{{ base.html_translations() }}</li>
-                {% endif %}
-                {% endblock %}
-                {% if show_sourcelink %}
-                    {% block sourcelink %}{% endblock %}
-                {% endif %}
-                {{ template_hooks['menu_alt']() }}
-            </ul>
--->
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container -->
-</nav>
+			<div id="header-wrap">
 
-<!-- End of Menubar -->
+				<div class="container clearfix">
 
-    <div class="container-fluid">
-    <div class="body-content">
-        <!--Body content-->
-        <div class="row">
-            {{ template_hooks['page_header']() }}
-            {% block content %}{% endblock %}
-        </div>
-        <!--End of body content-->
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
-        <footer id="footer">
-            {{ content_footer }}
-            {{ template_hooks['page_footer']() }}
-        </footer>
-    </div>
-</div>
+					<!-- Logo
+					============================================= -->
+					<div id="logo" class="nobottomborder text-center" style="height: 70px;">
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul>
+							<li class="current"><a href="index.html"><div>Home</div></a></li>
+							<li><a href="#"><div>Tech</div></a></li>
+							<li><a href="#"><div>Research</div></a></li>
+							<li><a href="#"><div>About</div></a></li>
+						</ul>
+
+					</nav><!-- #primary-menu end -->
+
+					<div class="clearfix visible-md visible-lg">
+						<a href="#" class="social-icon si-small si-borderless si-facebook">
+							<i class="icon-facebook"></i>
+							<i class="icon-facebook"></i>
+						</a>
+
+						<a href="#" class="social-icon si-small si-borderless si-twitter">
+							<i class="icon-twitter"></i>
+							<i class="icon-twitter"></i>
+						</a>
+
+						<a href="#" class="social-icon si-small si-borderless si-github">
+							<i class="icon-github"></i>
+							<i class="icon-github"></i>
+						</a>
+					</div>
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		<!-- Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap">
+
+                {{ template_hooks['page_header']() }}
+                {% block content %}{% endblock %}
+
+			</div>
+
+		</section><!-- #content end -->
+
+
+	</div><!-- #wrapper end -->
+
 
 {{ base.late_load_js() }}
     <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>

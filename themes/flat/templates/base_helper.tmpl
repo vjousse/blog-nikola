@@ -63,9 +63,11 @@ lang="{{ lang }}">
 
     {{ mathjax_config }}
     {% if use_cdn %}
-        <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
     {% else %}
-        <!--[if lt IE 9]><script src="{{ url_replacer(permalink, '/assets/js/html5.js', lang) }}"></script><![endif]-->
+        <!--[if lt IE 9]><script src="{{ url_replacer(permalink, '/assets/js/css3-mediaqueries.js', lang) }}"></script><![endif]-->
     {% endif %}
 
     {{ extra_head_data }}
@@ -75,7 +77,6 @@ lang="{{ lang }}">
     {% if use_bundles %}
         {% if use_cdn %}
             <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
             <script src="/assets/js/all.js"></script>
         {% else %}
             <script src="/assets/js/all-nocdn.js"></script>
@@ -83,14 +84,10 @@ lang="{{ lang }}">
     {% else %}
         {% if use_cdn %}
             <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         {% else %}
-            <script src="/assets/js/jquery.min.js"></script>
-            <script src="/assets/js/bootstrap.min.js"></script>
-            <script src="/assets/js/moment-with-locales.min.js"></script>
-            <script src="/assets/js/fancydates.js"></script>
+            <script src="/assets/js/jquery.js"></script>
         {% endif %}
-        <script src="/assets/js/jquery.colorbox-min.js"></script>
+        <script src="/assets/js/plugins.js"></script>
     {% endif %}
     {% if colorbox_locales[lang] %}
         <script src="/assets/js/colorbox-i18n/jquery.colorbox-{{ colorbox_locales[lang] }}.js"></script>
@@ -112,17 +109,24 @@ lang="{{ lang }}">
             <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
         {% else %}
             <!-- Loading Bootstrap -->
-            <link href="/assets/css/vendor/bootstrap.min.css" rel="stylesheet">
+            <link href="/assets/css/bootstrap.css" rel="stylesheet">
         {% endif %}
 
 
-        <link href="/assets/css/flat-ui.css" rel="stylesheet">
-        <link href="/assets/css/main.css" rel="stylesheet">
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
 
-        <link href="/assets/css/rst.css" rel="stylesheet" type="text/css">
-        <link href="/assets/css/code.css" rel="stylesheet" type="text/css">
-        <link href="/assets/css/colorbox.css" rel="stylesheet" type="text/css">
-        <link href="/assets/css/theme.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/bootstrap.css" rel="stylesheet">
+        <link href="/assets/style.css" rel="stylesheet">
+
+        <link href="/assets/css/dark.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/font-icons.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/animate.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/responsive.css" rel="stylesheet" type="text/css">
+
+        <!--[if lt IE 9]>
+            <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
 
         {% if has_custom_css %}
             <link href="/assets/css/custom.css" rel="stylesheet" type="text/css">

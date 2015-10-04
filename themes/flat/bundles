@@ -1,1 +1,1 @@
-assets/css/all-nocdn.css=vendor/bootstrap.min.css,flat-ui.css,main.css,rst.css,code.css,colorbox.css,custom.css
+assets/css/all-nocdn.css=../style.css,bootstrap.css,dark.css,font-icons.css,animate.css,magnific-popup.css,responsive.css,custom.css
