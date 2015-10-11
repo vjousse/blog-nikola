@@ -1,0 +1,71 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'comments_helper.tmpl' as comments with context %}
+
+{% macro html_title() %}
+{% if title and not post.meta('hidetitle') %}
+
+<!-- Entry Title
+============================================= -->
+<div class="entry-title">
+    <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
+</div><!-- .entry-title end -->
+
+{% endif %}
+{% endmacro %}
+
+{% macro html_translations(post) %}
+    {% if post.translated_to|length > 1 %}
+        <div class="metadata posttranslations translations">
+            <h3 class="posttranslations-intro">{{ messages("Also available in:") }}</h3>
+            {% for langname in translations|sort %}
+                {% if langname != lang and post.is_translation_available(langname) %}
+                <p><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></p>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endif %}
+{% endmacro %}
+
+{% macro html_sourcelink() %}
+    {% if show_sourcelink %}
+        <p class="sourceline"><a href="{{ post.source_link() }}" id="sourcelink">{{ messages("Source") }}</a></p>
+    {% endif %}
+{% endmacro %}
+
+{% macro html_post_header() %}
+    <header>
+        {{ html_title() }}
+
+        <!-- Entry Meta
+        ============================================= -->
+        <ul class="entry-meta clearfix">
+            <li><i class="icon-calendar3"></i> <a href="{{ post.permalink() }}" rel="bookmark"><time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></a></li>
+
+            <li>
+            {% if author_pages_generated %}
+                <a href="{{ _link('author', post.author()) }}"><i class="icon-user"></i> {{ post.author()|e }}</a>
+            {% else %}
+                <i class="icon-user"></i> {{ post.author()|e }}
+            {% endif %}
+            </li>
+
+            {% if post.tags %}
+                <li><i class="icon-folder-open"></i> 
+                {% for tag in post.tags %}
+                {% if tag not in hidden_tags %}
+                <a class="tag p-category" href="{{ _link('tag', tag) }}" rel="tag">{{ tag|e }}</a>
+                {% if not loop.last %},{% endif %}
+
+                {% endif %}
+                {% endfor %}
+                </li>
+            {% endif %}
+
+            {% if not post.meta('nocomments') and site_has_comments %}
+                <li><i class="icon-comments"></i> {{ comments.comment_link(post.permalink(), post._base_path) }}</li>
+            {% endif %}
+        </ul><!-- .entry-meta end -->
+        {{ html_translations(post) }}
+    </header>
+{% endmacro %}

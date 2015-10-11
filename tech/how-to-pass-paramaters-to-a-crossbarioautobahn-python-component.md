@@ -2,7 +2,7 @@
 .. title: How to pass paramaters to a crossbar.io/autobahn python component
 .. slug: how-to-pass-paramaters-to-a-crossbarioautobahn-python-component
 .. date: 2015-09-19 20:39:20 UTC+02:00
-.. tags: 
+.. tags: python, crossbar
 .. category: 
 .. link: 
 .. description: 
