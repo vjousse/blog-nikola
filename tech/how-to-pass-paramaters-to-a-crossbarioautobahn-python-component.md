@@ -19,7 +19,7 @@ One of the main problem of crossbar/autobahn is the lack of a clear documentatio
 
 When you run your autobahn component in your console, you certainly have something like that in your python file:
 
-```Python
+```python
 # File test.py
 
 from twisted.internet.defer import inlineCallbacks
@@ -57,7 +57,7 @@ python test.py value1 value2
 
 Now in your main code:
 
-```Python
+```python
 import sys
 
 #...
@@ -79,7 +79,7 @@ But how can you use the values in your AppSession class, as you are not responsi
 
 Well, you can pass a parameter called `extra` to the ApplicationRunner constructor and then use it in your code with `self.config.extra`.
 
-```Python
+```python
 # -*- coding: utf-8 -*-
 import sys
 from twisted.internet.defer import inlineCallbacks
@@ -115,7 +115,7 @@ if __name__ == '__main__':
 
 If you run your component in production using crossbar.io and not the command line, you can pass the parameters in your crossbar.io config file:
 
-```Json
+```json
 
       {
          "type": "container",
