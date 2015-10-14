@@ -1,0 +1,28 @@
+<!-- 
+.. title: About
+.. slug: about
+.. date: 2015-10-13 07:05:43 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+-->
+
+<p>
+My name is <a href="http://twitter.com/vjousse"><strong>Vincent Jousse</strong></a>, I'm a french guy living in Le Mans (1 hour from Paris). As you may have already noticed, I love to share. And to be honest, it's the only purpose of this blog: the pleasure of sharing.
+</p>
+<p>I'm doing things:</p>
+<ul>
+    <li>I'm the <strong>CEO of <a href="http://voxolab.com">Voxolab</a></strong>, a company doing speech recognition</li>
+    <li>I'm <strong>writing</strong> in french on the blog <a href="http://viserlalune.com">Viser la lune</a></li>
+    <li>I'm <strong>coding using Scala, Python or PHP</strong> on <a href="http://github.com/vjousse/">github</a></li>
+    <li>I'm <strong>teaching computer science</strong> at the <a href="http://www.univ-lemans.fr/en/index.html">University of Le Mans</a> and at <a href="http://www.ecoledunumerique.com/">L'École du Numérique</a></li>
+    <li>I'm doing <strong>research about speech recognition and speaker diarization</strong> in a french laboratory: <a href="http://www-lium.univ-lemans.fr/en/content/welcome">LIUM</a></li>
+    <li>I wrote a <a href="http://vimebook.com">book about Vim</a> called "<strong>Vim for humans</strong>" (currently in french)</li>
+</ul>
+
+<h2>Source code</h2>
+<p>
+    The source code of this blog (Scala/Play2) is <a href="https://github.com/vjousse/play2-blog-jousse">available on Github</a>.
+</p>
