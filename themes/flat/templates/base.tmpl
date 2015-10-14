@@ -39,8 +39,8 @@
 						<ul>
 							<li class="current"><a href="/"><div>Home</div></a></li>
 							<li><a href="/tech"><div>Tech</div></a></li>
-							<li><a href="#"><div>Research</div></a></li>
-							<li><a href="#"><div>About</div></a></li>
+							<li><a href="/research"><div>Research</div></a></li>
+							<li><a href="/about"><div>About</div></a></li>
 						</ul>
 
 					</nav><!-- #primary-menu end -->
@@ -68,18 +68,10 @@
 
 		</header><!-- #header end -->
 
-		<!-- Content
-		============================================= -->
-		<section id="content">
 
-			<div class="content-wrap">
+        {{ template_hooks['page_header']() }}
+        {% block content %}{% endblock %}
 
-                {{ template_hooks['page_header']() }}
-                {% block content %}{% endblock %}
-
-			</div>
-
-		</section><!-- #content end -->
 
 
 	</div><!-- #wrapper end -->

@@ -28,62 +28,70 @@
 {% endblock %}
 
 {% block content %}
+<!-- Content
+============================================= -->
+<section id="content">
 
-<div class="container clearfix">
+    <div class="content-wrap">
 
-    <div class="single-post nobottommargin">
+        <div class="container clearfix">
 
-        <!-- Single Post
-        ============================================= -->
-        <div class="entry clearfix">
+            <div class="single-post nobottommargin">
 
-            {{ pheader.html_post_header() }}
-
-            <!-- Entry Content
-            ============================================= -->
-            <div class="entry-content notopmargin">
-                {{ post.text() }}
-
-                {{ helper.html_tags(post) }}
-
-                <!-- Post Single - Share
+                <!-- Single Post
                 ============================================= -->
-                <div class="si-share noborder clearfix">
-                    <span>Share this Post:</span>
-                    <div>
+                <div class="entry clearfix">
 
-                        <a class="social-icon si-borderless si-facebook" href="http://www.facebook.com/sharer.php?u={{ abs_link(post.permalink()) }}&t={{ blog_title|e }}" target="_blank"> 
+                    {{ pheader.html_post_header() }}
 
-                            <i class="icon-facebook"></i>
-                            <i class="icon-facebook"></i>
-                        </a>
+                    <!-- Entry Content
+                    ============================================= -->
+                    <div class="entry-content notopmargin">
+                        {{ post.text() }}
 
-                        <a class="social-icon si-borderless si-twitter" href="https://twitter.com/share?url={{ abs_link(post.permalink()) }}&text={{ post.title()|e }}{{ ' | '|e }}{{ blog_title|e }}{{ ' via @vjousse'|e }}" target="_blank">
+                        {{ helper.html_tags(post) }}
 
-                            <i class="icon-twitter"></i>
-                            <i class="icon-twitter"></i>
-                        </a>
-                        <a class="social-icon si-borderless si-gplus" href="https://plus.google.com/share?url={{ abs_link(post.permalink()) }}" target="_blank">
-                            <i class="icon-gplus"></i>
-                            <i class="icon-gplus"></i>
-                        </a>
-                        <a class="social-icon si-borderless si-rss" title="RSS" href="{{ _link('rss', None) }}">
-                            <i class="icon-rss"></i>
-                            <i class="icon-rss"></i>
-                        </a>
-                    </div>
-                </div><!-- Post Single - Share End -->
+                        <!-- Post Single - Share
+                        ============================================= -->
+                        <div class="si-share noborder clearfix">
+                            <span>Share this Post:</span>
+                            <div>
 
-            </div><!-- .entry-content end -->
-        </div><!-- .entry end -->
+                                <a class="social-icon si-borderless si-facebook" href="http://www.facebook.com/sharer.php?u={{ abs_link(post.permalink()) }}&t={{ blog_title|e }}" target="_blank"> 
 
-        {{ helper.html_pager(post) }}
+                                    <i class="icon-facebook"></i>
+                                    <i class="icon-facebook"></i>
+                                </a>
 
-        {{ helper.mathjax_script(post) }}
-        
+                                <a class="social-icon si-borderless si-twitter" href="https://twitter.com/share?url={{ abs_link(post.permalink()) }}&text={{ post.title()|e }}{{ ' | '|e }}{{ blog_title|e }}{{ ' via @vjousse'|e }}" target="_blank">
 
-    </div><!-- .single-post end -->
-</div><!-- .container end -->
+                                    <i class="icon-twitter"></i>
+                                    <i class="icon-twitter"></i>
+                                </a>
+                                <a class="social-icon si-borderless si-gplus" href="https://plus.google.com/share?url={{ abs_link(post.permalink()) }}" target="_blank">
+                                    <i class="icon-gplus"></i>
+                                    <i class="icon-gplus"></i>
+                                </a>
+                                <a class="social-icon si-borderless si-rss" title="RSS" href="{{ _link('rss', None) }}">
+                                    <i class="icon-rss"></i>
+                                    <i class="icon-rss"></i>
+                                </a>
+                            </div>
+                        </div><!-- Post Single - Share End -->
+
+                    </div><!-- .entry-content end -->
+                </div><!-- .entry end -->
+
+                {{ helper.html_pager(post) }}
+
+                {{ helper.mathjax_script(post) }}
+                
+
+            </div><!-- .single-post end -->
+        </div><!-- .container end -->
+    </div>
+
+</section><!-- #content end -->
 
 {{ comments.comment_link_script() }}
 {% endblock %}

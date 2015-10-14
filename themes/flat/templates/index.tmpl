@@ -14,33 +14,41 @@
 {% block content_header %}{% endblock %}
 
 
-<!-- Posts
+<!-- Content
 ============================================= -->
-<div id="posts" class="post-grid post-masonry post-masonry-full clearfix">
+<section id="content">
 
-    {% for post in posts %}
+    <div class="content-wrap">
+        <!-- Posts
+        ============================================= -->
+        <div id="posts" class="post-grid post-masonry post-masonry-full clearfix">
 
-    <div class="entry clearfix post-{{ post.meta('type') }}">
-        <div class="entry-title">
-            <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
-        </div>
-        <ul class="entry-meta clearfix">
-            <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
-        </ul>
+            {% for post in posts %}
 
-        {% if index_teasers %}
-        <div class="p-summary entry-content">
-        {{ post.text(teaser_only=True) }}
-        {% else %}
-        <div class="e-content entry-content">
-        {{ post.text(teaser_only=False) }}
-        {% endif %}
+            <div class="entry clearfix post-{{ post.meta('type') }}">
+                <div class="entry-title">
+                    <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+                </div>
+                <ul class="entry-meta clearfix">
+                    <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
+                </ul>
 
-        </div>
+                {% if index_teasers %}
+                <div class="p-summary entry-content">
+                {{ post.text(teaser_only=True) }}
+                {% else %}
+                <div class="e-content entry-content">
+                {{ post.text(teaser_only=False) }}
+                {% endif %}
+
+                </div>
+            </div>
+        {% endfor %}
+
+        </div><!-- #posts end -->
     </div>
-{% endfor %}
 
-</div><!-- #posts end -->
+</section><!-- #content end -->
 
 {{ helper.html_pager() }}
 {{ comments.comment_link_script() }}
