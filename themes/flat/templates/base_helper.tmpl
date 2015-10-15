@@ -44,12 +44,6 @@ lang="{{ lang }}">
     {{ html_feedlinks() }}
     <link rel="canonical" href="{{ abs_link(permalink) }}">
 
-    {% if favicons %}
-        {% for name, file, size in favicons %}
-            <link rel="{{ name }}" href="{{ file }}" sizes="{{ size }}"/>
-        {% endfor %}
-    {% endif %}
-
     {% if comment_system == 'facebook' %}
         <meta property="fb:app_id" content="{{ comment_system_id }}">
     {% endif %}
