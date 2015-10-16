@@ -9,6 +9,16 @@
 {% endblock %}
 
 {% block content %}
+<!-- Page Title
+============================================= -->
+<section id="page-title" class="page-title-right">
+
+    <div class="container clearfix">
+        <h1>{{ posts[0].section_name() }}</h1>
+        <span class="feedlink"><a href="{{ _link('section_index_atom', posts[0].section_slug()) }}" type="application/atom+xml"><i class="icon-rss"></i> {{ messages('RSS feed') }}</a></span>
+    </div>
+
+</section><!-- #page-title end -->
 <div class="sectionindex">
 <!--
     <header>

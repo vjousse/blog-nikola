@@ -1,0 +1,93 @@
+{#  -*- coding: utf-8 -*- #}
+{% extends 'list_post.tmpl' %}
+
+{% block extra_head %}
+    {{ super() }}
+    {% if translations|length > 1 and generate_rss %}
+        {% for language in translations|sort %}
+            <link rel="alternate" type="application/rss+xml" title="RSS for {{ kind }} {{ tag|e }} ({{ language }})" href="{{ _link(kind + "_rss", tag, language) }}">
+        {% endfor %}
+    {% elif generate_rss %}
+        <link rel="alternate" type="application/rss+xml" title="RSS for {{ kind }} {{ tag|e }}" href="{{ _link(kind + "_rss", tag) }}">
+    {% endif %}
+{% endblock %}
+
+
+{% block content %}
+
+<!-- Page Title
+============================================= -->
+<section id="page-title" class="page-title-right">
+
+    <div class="container clearfix">
+        <h1>{{ title|e }}</h1>
+
+        <span class="feedlink"><a href="{{ _link(kind + "_rss", tag) }}" type="application/rss+xml"><i class="icon-rss"></i> {{ messages('RSS feed') }}</span>
+
+    </div>
+
+</section><!-- #page-title end -->
+
+
+<!-- Content
+============================================= -->
+<section id="content">
+
+    <div class="content-wrap">
+        <!-- Posts
+        ============================================= -->
+        <div id="posts" class="post-grid post-masonry post-masonry-full clearfix">
+
+            {% for post in posts %}
+
+            <div class="entry clearfix post-{{ post.meta('type') }}">
+                <div class="entry-title">
+                    <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+                </div>
+                <ul class="entry-meta clearfix">
+                    <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
+                </ul>
+
+                <div class="p-summary entry-content">
+                {{ post.text(teaser_only=True) }}
+                </div>
+            </div>
+        {% endfor %}
+
+        </div><!-- #posts end -->
+    </div>
+
+</section><!-- #content end -->
+
+
+<article class="tagpage">
+    <header>
+        {% if subcategories %}
+        {{ messages('Subcategories:') }}
+        <ul>
+            {% for name, link in subcategories %}
+            <li><a href="{{ link }}">{{ name|e }}</a></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        <div class="metadata">
+            {% if translations|length > 1 and generate_rss %}
+                {% for language in translations|sort %}
+                <p class="feedlink">
+                    <a href="{{ _link(kind + "_rss", tag, language) }}" hreflang="{{ language }}" type="application/rss+xml">{{ messages('RSS feed', language) }} ({{ language }})</a>&nbsp;
+                </p>
+                {% endfor %}
+            {% elif generate_rss %}
+                <p class="feedlink"><a href="{{ _link(kind + "_rss", tag) }}" type="application/rss+xml">{{ messages('RSS feed') }}</a></p>
+            {% endif %}
+        </div>
+    </header>
+    {% if posts %}
+    <ul class="postlist">
+    {% for post in posts %}
+        <li><time class="listdate" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time><a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}<a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</article>
+{% endblock %}
