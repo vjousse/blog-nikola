@@ -126,15 +126,17 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/", "Home"),
+        ("/tech/", "Tech"),
+        ("/research/", "Research"),
+        ("/about/", "About"),
     ),
 
     "fr": (
-        ("/fr/archive.html", "Archives"),
-        ("/fr/categories/", "Étiquettes"),
-        ("/fr/rss.xml", "Flux RSS"),
+        ("/", "Accueil"),
+        ("/tech/", "Tech"),
+        ("/research/", "Recherche"),
+        ("/about/", "À propos"),
     ),
 }
 
@@ -364,12 +366,12 @@ POSTS_SECTION_NAME = {
 # }
 
 # Set special titles for tag pages. The default is "Posts about TAG".
-TAG_PAGES_TITLES = {
-   DEFAULT_LANG: {
-       "blogging": "Meta-posts about blogging",
-       "open source": "Posts about open source software"
-   },
-}
+# TAG_PAGES_TITLES = {
+#    DEFAULT_LANG: {
+#        "blogging": "Meta-posts about blogging",
+#        "open source": "Posts about open source software"
+#    },
+# }
 
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page, the tag cloud and posts.

@@ -24,26 +24,28 @@
         <div id="posts" class="post-grid post-masonry post-masonry-full clearfix">
 
             {% for post in posts %}
+            {% if post.text() != "<span></span>" %}
 
-            <div class="entry clearfix post-{{ post.meta('type') }}">
-                <div class="entry-title">
-                    <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+                <div class="entry clearfix post-{{ post.meta('type') }}">
+                    <div class="entry-title">
+                        <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+                    </div>
+                    <ul class="entry-meta clearfix">
+                        <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
+                    </ul>
+
+                    {% if index_teasers %}
+                    <div class="p-summary entry-content">
+                    {{ post.text(teaser_only=True) }}
+                    {% else %}
+                    <div class="e-content entry-content">
+                    {{ post.text(teaser_only=False) }}
+                    {% endif %}
+
+                    </div>
                 </div>
-                <ul class="entry-meta clearfix">
-                    <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
-                </ul>
-
-                {% if index_teasers %}
-                <div class="p-summary entry-content">
-                {{ post.text(teaser_only=True) }}
-                {% else %}
-                <div class="e-content entry-content">
-                {{ post.text(teaser_only=False) }}
-                {% endif %}
-
-                </div>
-            </div>
-        {% endfor %}
+            {% endif %}
+            {% endfor %}
 
         </div><!-- #posts end -->
     </div>
