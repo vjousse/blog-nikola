@@ -178,6 +178,7 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.html", "", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
 )
 
 

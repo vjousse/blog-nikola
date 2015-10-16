@@ -1,6 +1,6 @@
 <!-- 
-.. title: test
-.. slug: test
+.. title: placeholder
+.. slug: placeholder
 .. date: 2015-10-13 07:02:07 UTC+02:00
 .. tags: 
 .. category: 
