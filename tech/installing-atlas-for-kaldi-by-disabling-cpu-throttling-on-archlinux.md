@@ -2,7 +2,7 @@
 .. title: Installing ATLAS for Kaldi by disabling CPU Throttling on Archlinux
 .. slug: archlinux-compile-lapack-atlas-kaldi
 .. date: 2015-04-26 20:09:01 UTC+02:00
-.. tags: linux
+.. tags: archlinux
 .. category: 
 .. link: 
 .. description: 
