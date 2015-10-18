@@ -23,35 +23,48 @@
 
         <div class="container clearfix">
 
-            <!-- Posts
-            ============================================= -->
-            <div id="posts">
-
-            {% for post in posts %}
-                {% if post.text() != "<span></span>" %}
-
-                    <div class="entry clearfix post-{{ post.meta('type') }}">
-                        <div class="entry-title">
-                            <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
-                        </div>
-                        <ul class="entry-meta clearfix">
-                            <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
-                        </ul>
-
-                        {% if index_teasers %}
-                        <div class="p-summary entry-content">
-                        {{ post.text(teaser_only=True) }}
-                        {% else %}
-                        <div class="e-content entry-content">
-                        {{ post.text(teaser_only=False) }}
-                        {% endif %}
-
+            <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false" style="margin-top: 100px;">
+                    <div class="flexslider">
+                        <div class="slider-wrap">
+                            <div class="slide">
+                                <div class="testi-image">
+                                    <a href="#"><img src="assets/img/twain.png" alt="Mark Twain"></a>
+                                </div>
+                                <div class="testi-content">
+                                    <p>They did not know it was impossible so they did it.</p>
+                                    <div class="testi-meta">
+                                        Mark Twain
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="testi-image">
+                                    <a href="#"><img src="assets/img/einstein.png" alt="Albert Einstein"></a>
+                                </div>
+                                <div class="testi-content">
+                                    <p>We can't solve problems by using the same kind of thinking we used when we created them.</p>
+                                    <div class="testi-meta">
+                                        Albert Einstein
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="testi-image">
+                                    <a href="#"><img src="assets/img/wilde.png" alt="Oscar Wilde"></a>
+                                </div>
+                                <div class="testi-content">
+                                    <p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+                                    <div class="testi-meta">
+                                        Oscar Wilde
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                {% endif %}
-            {% endfor %}
+                </div>
+            </div>
 
-            </div><!-- #posts end -->
+
         </div><!-- .container end -->
     </div>
 
