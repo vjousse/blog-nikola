@@ -23,7 +23,7 @@
 
         <div class="container clearfix">
 
-            <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false" style="margin-top: 100px;">
+            <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
                     <div class="flexslider">
                         <div class="slider-wrap">
                             <div class="slide">
@@ -64,12 +64,37 @@
                 </div>
             </div>
 
+            <div class="section center footer-stick">
+
+                <div id="twitter-scroller" class="fslider testimonial testimonial-full twitter-scroll" data-animation="slide" data-arrows="false">
+                    <i class="i-plain i-large color icon-twitter divcenter bottommargin-sm"></i>
+                    <div class="flexslider">
+                        <div class="slider-wrap">
+                            <div class="slide"></div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
 
         </div><!-- .container end -->
     </div>
 
 </section><!-- #content end -->
 
+{% block extra_js %}
+<script type="text/javascript">
+
+    jQuery(document).ready(function($){
+        $.getJSON('http://data.jousse.org/twitter/tweets.php?username=vjousse&count=3', function(tweets){
+            $("#twitter-scroller .slider-wrap").html(sm_format_twitter3(tweets));
+        });
+    });
+
+</script>
+
+{% endblock %}
 {{ helper.html_pager() }}
 {{ comments.comment_link_script() }}
 {{ helper.mathjax_script(posts) }}
