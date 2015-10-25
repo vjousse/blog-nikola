@@ -83,12 +83,6 @@
 
 {{ base.late_load_js() }}
 	<script type="text/javascript" src="assets/js/functions.js"></script>
-    <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
-    <!-- fancy dates -->
-    <script>
-    moment.locale("{{ momentjs_locales[lang] }}");
-    fancydates({{ date_fanciness }}, {{ js_date_format }});
-    </script>
     <!-- end fancy dates -->
     {% block extra_js %}{% endblock %}
     {% if annotations and post and not post.meta('noannotations') %}
