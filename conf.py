@@ -24,7 +24,7 @@ BLOG_TITLE = "Vince's"  # (translatable)
 SITE_URL = "http://localhost:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://vincent.jousse.org/"
+BASE_URL = "http://vincent.jousse.org/"
 BLOG_EMAIL = "vincent@jousse.org"
 BLOG_DESCRIPTION = "Personal blog of Vincent Jousse"  # (translatable)
 
@@ -533,11 +533,11 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-#     ]
-# }
+DEPLOY_COMMANDS = {
+    'default': [
+        "rsync -rav --delete output/ vimebook@marty.jousse.org:/home/vimebook/python/nikola",
+    ]
+}
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
