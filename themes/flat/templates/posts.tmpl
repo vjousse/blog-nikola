@@ -28,7 +28,7 @@
             <div id="posts">
 
             {% for post in posts %}
-                {% if post.text() != "<span></span>" %}
+                {% if post.text() != "<span></span>" and post.is_translation_available(lang) %}
 
                     <div class="entry clearfix post-{{ post.meta('type') }}">
                         <div class="entry-title">
