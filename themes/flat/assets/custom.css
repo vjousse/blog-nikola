@@ -2,3 +2,15 @@ pre.code {
     font-family: 'Inconsolata';
     font-size: 14px;
 }
+
+.posttranslations ul{
+    display: inline-block;
+    padding:0;
+    margin:0;
+}
+.posttranslations ul>li{
+    display: inline;
+    list-style: none; /* pour enlever les puces sur IE7 */
+    padding:0;
+    margin:0;
+}
