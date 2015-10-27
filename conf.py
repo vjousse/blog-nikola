@@ -134,9 +134,9 @@ NAVIGATION_LINKS = {
     ),
 
     "fr": (
-        ("/", "Accueil"),
-        ("/tech/", "Tech"),
-        ("/research/", "Recherche"),
+        ("/fr/", "Accueil"),
+        ("/fr/tech/", "Tech"),
+        ("/fr/research/", "Recherche"),
         ("http://vimebook.com/fr", "Vim pour les humains "),
     ),
 }
