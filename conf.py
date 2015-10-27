@@ -331,6 +331,9 @@ POSTS_SECTION_NAME = {
        'tech': 'Technical blog',
        'uncategorized': 'Odds and Ends',
    },
+   'fr': {
+       'tech': 'Blog technique',
+    }
 }
 
 # Titles for per-section index pages. Can be either one string where "{name}"
