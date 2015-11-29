@@ -1101,6 +1101,8 @@ body.stretched #header.full-header .container {
 
 #primary-menu ul li span { display: none; }
 
+#primary-menu ul li span[class~="flag-icon"] { display: inline-block; }
+
 #primary-menu ul li i {
 	position: relative;
 	font-size: 14px !important;

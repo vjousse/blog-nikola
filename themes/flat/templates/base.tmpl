@@ -39,8 +39,12 @@
 
 					    <ul>
 					    {{ base.html_navigation_links() }}
+					    {% if lang == 'fr' %}
+					        <li><a href="/en"><span class="flag-icon flag-icon-gb"></span></a></li>
+					    {% else %}
+					        <li><a href="/"><span class="flag-icon flag-icon-fr"></span></a></li>
+					    {% endif %}
 					    </ul>
-
 					</nav><!-- #primary-menu end -->
 
 					<div class="clearfix visible-md visible-lg">

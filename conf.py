@@ -79,14 +79,14 @@ BLOG_DESCRIPTION = "Personal blog of Vincent Jousse"  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "fr"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    "fr": "./fr",
+    "en": "./en",
 }
 
 # What will translated input files be named like?
@@ -125,18 +125,19 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/", "Home"),
-        ("/tech/", "Tech"),
-        ("/research/", "Research"),
-        ("/about/", "About"),
+    "en": (
+        ("/en/", "Home"),
+        ("/en/tech/", "Tech"),
+        ("/en/research/", "Research"),
+        ("/en/about/", "About"),
         ("http://vimebook.com/en", "Vim for humans"),
     ),
 
-    "fr": (
-        ("/fr/", "Accueil"),
-        ("/fr/tech/", "Tech"),
-        ("/fr/research/", "Recherche"),
+    DEFAULT_LANG: (
+        ("/", "Accueil"),
+        ("/tech/", "Tech"),
+        ("/blog/", "Blog"),
+        ("/research/", "Recherche"),
         ("http://vimebook.com/fr", "Vim pour les humains "),
     ),
 }
@@ -327,7 +328,7 @@ POSTS_SECTIONS = True
 # metadata label. Unless overwritten below, names will use title cased and
 # hyphens replaced by spaces.
 POSTS_SECTION_NAME = {
-   DEFAULT_LANG: {
+   'en': {
        'tech': 'Technical blog',
        'uncategorized': 'Odds and Ends',
    },
