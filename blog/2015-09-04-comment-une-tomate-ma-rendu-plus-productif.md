@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Je suis un [procrastinateur en chef](https://fr.wikipedia.org/wiki/Procrastination). Vous savez, celui qui a tendance de base, __à remettre tout au lendemain__. Ou plus exactement, à toujours trouver mieux à faire que ce qu'il doit vraiment faire et qu'il n'a pas envie de faire. C'est un souci aussi bien dans la vie professionnelle que personnelle. 
+Je suis un [procrastinateur en chef](https://fr.wikipedia.org/wiki/Procrastination). Vous savez, celui qui a tendance de base, __à remettre tout au lendemain__. Ou plus exactement, à toujours trouver mieux à faire que ce qu'il doit vraiment faire et qu'il n'a pas envie de faire. C'est un souci aussi bien dans la vie professionnelle que personnelle. <!-- TEASER_END -->
 
 Au boulot, tu stresses car __tu cours toujours après le temps__, tu t'en veux parce que tu n'as pas fait tout ce que tu « aurais du faire ». À la maison, tu ne profites pas de ton temps libre car __tu culpabilises de ne pas avoir bossé__ comme tu aurais voulu.
 
