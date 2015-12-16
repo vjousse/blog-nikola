@@ -10,7 +10,7 @@
 -->
 
 <p></p><p>J'ai l'occasion d'être confronté régulièrement à des lettres de motivation et des CV, si bien qu'à un moment, j'ai juste envie de demander : « est-ce que vous réalisez que quelqu'un va devoir les lire ? ». Je me propose ici de lister les choses qui me paraissent évidentes mais qui ne semblent pas l'être pour tout le monde. Je vous donne ensuite quelques conseils pour sortir du lot et créer les conditions de votre métier de rêve.</p><p></p>
-
+<!-- TEASER_END -->
 <p></p><h2>Le CV</h2><p></p>
 
 <p></p><p><em>Avertissement : travaillant principalement dans le secteur du Web, mes remarques sont très ciblées « développeur informatique », je n'ai pas la prétention de dire que ça s'applique à tous les métiers.</em> Mais je pense qu'il doit y avoir une part de vrai pour tout le monde.</p><p></p>

@@ -10,7 +10,7 @@
 -->
 
 <p>Qui n'a pas rêvé de travailler quatre heures par semaine tout en gagnant bien sa vie ? C'est ce que <a href="http://www.fourhourworkweek.com/">Timothy Ferriss</a> vous propose de découvrir dans son best-seller « <a href="http://www.amazon.fr/gp/product/2744064173/ref=as_li_ss_tl?ie=UTF8&amp;tag=vincjous-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2744064173">La Semaine de 4 heures: Travaillez moins, gagnez plus et vivez mieux !</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.fr/e/ir?t=vincjous-21&amp;l=as2&amp;o=8&amp;a=2744064173" style="border: none !important; margin: 0px !important;" width="1" /> ». Ce livre a été pour moi une révélation : il ouvre la voix à une autre façon de vivre sa vie.</p>
-
+<!-- TEASER_END -->
 <p><div style="text-align: center;"></div></p>
 
 <p><h2>Travailler moins pour gagner plus : La semaine de 4 heures</h2></p>

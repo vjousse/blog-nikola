@@ -10,7 +10,7 @@
 -->
 
 Je n'en croyais pas mes yeux. Tranquillement assis dans un train, je tombe nez à nez avec cette phrase placardée en énormes lettres sur la première page d'un magazine : « __L'INVASION qu'on nous cache__ ». À côté, une photo toute aussi grande d'une femme portant le niqab. Français, tremblez, on vient vous envahir « votre » pays. L'homme lisant ce magazine est calme, droit, posé : __la peur fait partie intégrante de sa vie, elle est sa vie__.
-
+<!-- TEASER_END -->
 C'est quand même incroyable d'en arriver là : la peur de l'autre affichée en lettres capitales sur un magazine national. À l'image des passagers fatigués de ce train, __tout le monde dort__.
 
 Les gens ne se rendent même plus compte qu'ils ne sont que peur. Peur de l'autre, peur de l'étranger, peur d'être au chômage, peur de se retrouver seul, j'en passe et des meilleures. La vie devient __une géante organisation pour gérer ses peurs__.

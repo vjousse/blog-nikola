@@ -10,7 +10,7 @@
 -->
 
 <p>Comme le disait un présentateur bien connu <em>« les enfants sont formidables »</em>. Certes, mais ça m'a personnellement pris un certain temps pour pouvoir totalement profiter d'eux. 7 ans après mon premier et maintenant que la dernière va avoir 2 ans (j'ai 3 enfants en tout), voici quelques conseils tirés de mon expérience de papa pour apprendre à <strong>profiter pleinement de vos enfants</strong>.</p>
-
+<!-- TEASER_END -->
 <p><h2>Profiter de ses enfants : plus facile à dire qu'à faire</h2></p>
 
 <p>Soyons honnête, savoir profiter de ses enfants n'est <strong>pas une tâche aisée</strong>. Ils demandent beaucoup d'attention et nous avons parfois l'impression de ne pas pouvoir leur fournir toute l'attention qu'ils mériteraient. Il peut même nous arriver de <strong>culpabiliser</strong> de temps en temps en se rendant compte qu'ils grandissent trop vite, qu'on devrait jouer plus avec eux, qu'on ne devrait pas <em>« avoir la flemme »</em>, que les <em>« parents bien »</em> prennent toujours plaisir à jouer avec leurs enfants, j'en passe et des meilleures.</p>

@@ -10,7 +10,7 @@
 -->
 
 <p></p><p>À un moment où à un autre, la maladie ou plus généralement la souffrance viendra s'introduire dans votre vie, c'est inévitable. Cela peut aller du simple mal de tête à la maladie chronique incurable. Et pourtant, ce n'est pas la maladie elle même qui importe, c'est la façon dont vous allez la gérer.</p><p></p>
-
+<!-- TEASER_END -->
 <p></p><h2>La faute à pas de chance : uniquement si vous y croyez</h2><p></p>
 
 <p></p><p>Tout d'abord, ça semble évident mais il est toujours bon de le rappeler, un corps parfait n'existe pas. Ce n'est pas parce que vous semblez être la seule personne à être malade que c'est le cas. Tout le monde a, à un moment ou un autre, un problème à gérer avec son <strong>corps imparfait</strong>. Que vous ayiez 20 ou 60 ans vous êtes malheureusement tout aussi vulnérable à un accident, une maladie ou une infirmité.</p><p></p>

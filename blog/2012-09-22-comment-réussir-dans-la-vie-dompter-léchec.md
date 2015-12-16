@@ -10,7 +10,7 @@
 -->
 
 <p><em>Ahhhh</em> l'échec, la réussite, la chance, tant de notions qui nous font rêver et pleurer au quotidien. Certains semblent avoir plus de chance que d'autres et il semblerait même que <strong>ça tombe toujours sur les mêmes</strong>. Et si le <em>problème</em> ne venait <strong>pas des autres</strong>, mais <strong>de vous</strong> ?</p>
-
+<!-- TEASER_END -->
 <p></p><h2>L'échec, un ami qui vous veut du bien</h2><p></p>
 
 <p>Imaginons un instant que <strong>votre vie est ce que vous en faites</strong>, et que la seule personne responsable de votre vie, c'est vous (si vous n'en êtes pas convaincu, il va falloir travailler ça). Quelle est la personne responsable de votre échec ? <strong>Peu importe la nature de l'échec, le responsable, c'est vous</strong>. Ce n'est ni la personne qui est passée devant vous à ce concours que vous prépariez depuis une année, ni votre patron qui ne comprend pas que la personne qui mérite d'être promue c'est vous et encore moins le policier qui vous a arrêté avec 1 gramme d'alcool dans le sang. Le responsable, c'est vous, et c'est la meilleure chose qui puisse vous arriver, car cela signifie que vous faites encore partie de ce monde et que <strong>vous pouvez y changer quelque chose</strong>.</p>

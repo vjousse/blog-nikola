@@ -10,7 +10,7 @@
 -->
 
 <p><p><em>« Il faut être un peu sérieux. Il va être temps d'arrêter de faire des plans sur la comète. C'est bien beau d'avoir des rêves, mais à un moment il faut redescendre sur Terre »</em>. Et en quel honneur ? Êtes-vous sûr qu'il est <strong>plus raisonnable</strong> de <strong>tirer un trait sur ses rêves</strong> que de passer sa vie à <strong>essayer de les atteindre</strong> ? À mon avis, c'est de la connerie. Comme le dit Paulo Coelho dans <strong><a href="http://www.amazon.fr/gp/product/2290004448/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1642&amp;creative=6746&amp;creativeASIN=2290004448&amp;linkCode=as2&amp;tag=vincjous-21">L'alchimiste</a></strong> : <em>« C'est justement la possibilité de réaliser un rêve qui rend la vie intéressante »</em>.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>On vous a menti</h2></p>
 
 <p><p>Les rêves et les idéaux c'est bon pour les 68ards. L'homme « moderne » se doit d'être réaliste. Pour être intégré dans la société, il faut avoir un travail, une bonne situation, payer son loyer, ses factures, vous voyez le tableau. Le problème avec ça, c'est qu'<strong>être « intégré dans la société » n'a pas grand sens</strong>. Réfléchissez un peu. Est-ce que, une fois dans votre vie, vous vous êtes posé la question de savoir si, oui ou non, vous vouliez être intégré dans le type de société de référence dont vous avez hérité ?</p></p>

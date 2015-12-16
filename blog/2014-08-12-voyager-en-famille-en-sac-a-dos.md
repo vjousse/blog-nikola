@@ -12,7 +12,7 @@
 Trois enfants (3, 6 et 9 ans), deux gros sacs à dos pour les parents, deux petits pour les enfants, trois semaines de vadrouille et vingt-huit heures de vol aller-retour sans les escales : voilà de quoi remplir un beau voyage en Thaïlande !
 
 Et pourtant, la décision de partir « à l'aventure » avec trois enfants en relativement bas âge n'a pas été évidente à prendre. Les __questions et les fausses excuses__ pour rester à la maison ont été nombreuses :
-
+<!-- TEASER_END -->
 - __Trois ans, ça fait pas un peu petit quand même__ ? _Réponse_ : non, ça a été la plus tranquille à gérer !
 - __Et s'ils attrapent la dengue, le palu ou un truc dans le style__ ? _Réponse_ : ils peuvent aussi bien attraper la grippe, une méningite, le chikungunya ou pire en France. Ça serait pas de chance, mais ça peut arriver. On fera tout pour prendre en compte ce risque.
 - __Les 28 heures d'avion et les 52 heures de transport sur place (train, bus, bateau), ça va être l'enfer__ ! _Réponse_ : c'est un des moments qu'ils ont préféré ! Papa/Maman pour eux tout seul, jeux et films au programme.

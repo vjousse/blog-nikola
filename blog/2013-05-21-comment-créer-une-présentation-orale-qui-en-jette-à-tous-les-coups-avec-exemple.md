@@ -10,7 +10,7 @@
 -->
 
 <p></p><p>Voici <a href="http://data.jousse.org/opensource/opensource-presentation/opensource-fr.html">un exemple de présentation</a> que je donne actuellement sur <a href="http://data.jousse.org/opensource/opensource-presentation/opensource-fr.html">l'Open Source</a> (utilisez les flèches de votre clavier pour vous déplacer). Et pourtant, <strong>je suis mauvais en design</strong>. Vraiment.</p><p></p>
-
+<!-- TEASER_END -->
 <div class="text-center" style=""><a href="http://data.jousse.org/opensource/opensource-presentation/opensource-fr.html"><img alt="presentation-orale-exemple" class="aligncenter size-medium wp-image-571" height="180" src="http://data.jousse.org/opensource/presentation-orale-exemple-300x180.png" width="300"></a></div><p></p>
 
 <p></p><p>Les couleurs, les formes, l'aspect visuel, tout ça, c'est pas mon truc. À tel point que ma femme me demande souvent lorsque j'ai habillé les enfants <em>« tu comptes vraiment les laisser sortir comme ça ? »</em>. Uhuh.</p><p></p>

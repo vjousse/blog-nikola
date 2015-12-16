@@ -10,7 +10,7 @@
 -->
 
 <p><p>Faire bien, faire vite, faire plus, encore plus vite. Recommencer. Faire mieux. Recommencer. S'épuiser. Ne rien avoir fait d'autre que <strong>courir après le temps</strong>.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Être productif, est-ce occuper son temps au maximum ?</h2></p>
 
 <p><p><em>« Le temps c'est de l'argent »</em>, cette phrase de Benjamin Franklin nous suit depuis plus de 250 ans maintenant. Et on la prend toujours en référence de nos jours. Moi le premier, lorsque j'ai commencé à travailler à mon propre compte, rien ne comptait plus que de travailler le plus souvent possible. Après tout, si le temps est de l'argent, <strong>plus je passe de temps à travailler, plus je devrais maximiser les chances d'en gagner</strong>. Et comme je ne m'étais jamais posé la question de savoir si oui ou non, gagner plus d'argent était ce que je recherchais dans la vie, je le faisais à défaut.</p></p>

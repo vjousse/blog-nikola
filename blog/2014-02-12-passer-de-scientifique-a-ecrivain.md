@@ -10,7 +10,7 @@
 -->
 
 Un scientifique, voilà ce que je suis, je ne sais pas écrire. Je ferai des études d'ingénieur, d'informaticien ou de toute autre bête à poil ras ressemblant à un scientifique. 32 ans que je suis sur cette Terre, et j'y ai cru pendant 31 ans. Les idées reçues lors de ma domestication en tant qu'enfant et jeune adulte sont encore tenaces. Et pourtant, les articles de ce blog sont la plus belle preuve que __chacun peut faire des choses pour lesquelles il se pensait incapable__.
-
+<!-- TEASER_END -->
 ## La domestication
 
 J'ai toujours été « bon à l'école ». Des bonnes notes, des [bons points](http://fr.wikipedia.org/wiki/Bon_point), des « très bon semestre mais se repose un peu sur ses lauriers ». À bien y réfléchir, ce à quoi j'étais bon, c'était à __reproduire ce qu'on m'avait mis dans le crâne__, ni plus, ni moins. Des formules de maths, des cours d'Histoire, des verbes irréguliers en allemand. On ne m'a jamais appris à penser par moi-même, on m'a appris des vérités que j'arrivais à ressortir le moment venu. J'en oubliais la majeure partie le jour d'après.

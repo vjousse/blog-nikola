@@ -12,7 +12,7 @@
 <p><h2>1 - Vous n'êtes pas ce que les autres pensent de vous.</h2></p>
 
 <p><p>Ce que les autres pensent de vous est important pour votre égo, certes. Mais ça ne vous définit pas. Vous êtes peut-être juste entouré de personnes qui ne correspondent pas à ce que vous êtes.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>2 - Vos erreurs et vous, c'est deux choses différentes.</h2></p>
 
 <p><p>Vos erreurs ne vous définissent pas. Ne soyez pas plus dur avec vous-même que les autres ne le sont. Tout le monde fait des erreurs, et vous en ferez encore beaucoup. Mais ces erreurs ne définissent pas qui vous êtes. Ce qui le définit, c'est la manière dont vous y réagissez. Voyez les choses du bon côté : vous ne les ferez pas une deuxième fois.</p></p>

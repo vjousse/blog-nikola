@@ -11,7 +11,7 @@
 
 Maintenant que vous avez repéré le signal, la partie suivante du processus est de se recentrer sur soi et de chercher ce qui cause ce signal, ce symptôme.
 
-Ça n'arrive pas juste par hasard : il y a une cause à ce signal. Si vous êtes en colère, ce n'est pas juste la faute des autres. Certes, ils ont surement fait quelque chose, mais c'est juste un évènement classique du monde qui vous entoure, comme une feuille qui tombe, le vent qui souffle ou un rocher qui tombe d'une falaise. Ces évènements se produisent juste, mais ils ne sont pas la cause de votre colère. Vous êtes en colère car vous ne voulez pas que ces évènements arrivent.
+Ça n'arrive pas juste par hasard : il y a une cause à ce signal. Si vous êtes en colère, ce n'est pas juste la faute des autres.<!-- TEASER_END --> Certes, ils ont surement fait quelque chose, mais c'est juste un évènement classique du monde qui vous entoure, comme une feuille qui tombe, le vent qui souffle ou un rocher qui tombe d'une falaise. Ces évènements se produisent juste, mais ils ne sont pas la cause de votre colère. Vous êtes en colère car vous ne voulez pas que ces évènements arrivent.
 
 C'est le fait que vous ne vouliez pas que ce qui arrive arrive, ou que vous ne vouliez pas que les choses soient de la manière dont elles sont qui cause votre colère ou votre frustration.
 

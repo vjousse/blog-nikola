@@ -10,7 +10,7 @@
 -->
 
 <p><p>Il y a de ça un peu plus d'une semaine, j'avais décidé de <a href="/soirees-sans-ecrans-ca-commence-aujourdhui/">passer mes soirées sans aucun écran après 19h</a>. Les bénéfices attendus ont été presque tous au rendez-vous :</p></p>
-
+<!-- TEASER_END -->
 <p><ul><br /><li>J'ai fini deux livres en une semaine, contre un tous les mois environ d'habitude.</li><br /><li>J'ai passé du temps de qualité avec ma famille.</li><br /></ul></p>
 
 <p><p>En revanche, il y a quelque chose que je n'avais pas prévu. Je me suis rendu compte que le simple fait <strong>de restreindre le choix de mes soirées</strong> me faisait passer de <strong>meilleures soirées</strong>, quoique j'y fasse. Ça semble assez paradoxal, mais il est maintenant prouvé que plus on a de choix, moins on est satisfait (cf. la vidéo de <a href="http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html">Barry Schwartz : The paradox of choice</a>).</p></p>

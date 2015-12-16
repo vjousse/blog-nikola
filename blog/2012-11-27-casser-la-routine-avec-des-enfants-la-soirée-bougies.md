@@ -12,7 +12,7 @@
 <p><p><strong>Temps de lecture indicatif : 2 minutes.</strong></p></p>
 
 <p><p>Devoir s'occuper de ses enfants tous les soirs peut être très rapidement <strong>fatiguant</strong>, voir même usant pour certaines personnes. La monotonie, <strong>la routine</strong> entrainée par toutes les tâches répétitives qu'il faut accomplir (les leçons, les bains, faire à manger, les faire manger, ...) peut parfois démoraliser. Ça ne fait pas pour autant de vous des mauvais parents, juste <strong>des parents comme beaucoup d'autres</strong>.</p></p>
-
+<!-- TEASER_END -->
 <p><p>Il y a deux solutions pour remédier à cela :</p></p>
 
 <p><ul><br /><li>vous changez votre quotidien du tout au tout et décidez d'aller <strong>faire le tour du monde</strong> avec vos enfants,</li><br /><li>en attendant de pouvoir aller faire le tour du monde, vous acceptez les faits, et trouvez des moyens de <strong>rendre la situation plus agréable</strong>.</li><br /></ul></p>

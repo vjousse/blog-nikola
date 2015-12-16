@@ -10,7 +10,7 @@
 -->
 
 <p></p><p>Il éteind la lumière. Le réveil est réglé à 6h30, ce qui lui laisse à peine 6 heures pour oublier sa journée avant qu'une autre ne vienne <strong>dévorer son esprit</strong>. Paul est un homme qui a <a href="/jai-pourtant-tout-ce-quil-faut-pour-etre-heureux/">tout ce qu'il faut pour être heureux</a>. En théorie.</p><p></p>
-
+<!-- TEASER_END -->
 <p></p><p>Paul ne se sent pas à sa place. Il est là mais aimerait être autre part, tant et si bien qu'il n'est nulle part. Il survit plus qu'il ne vit, il transpire plus qu'il ne respire. En somme, Paul est poussé au fond par les vagues, <strong>il a appris à nager, jamais à surfer</strong>.</p><p></p>
 
 <p></p><p>Il est propriétaire, il a une belle voiture, un <a href="/pourquoi-et-comment-ne-pas-devenir-cadre/">poste de cadre</a> dans une grande entreprise et une feuille de paye à en faire pâlir plus d'un. Il a beaucoup mais il n'est rien. Paul a récemment réalisé que <strong>nous ne sommes pas ce que nous possédons</strong>, et que, quoiqu'il possède, ça ne fera pas de lui un homme plus épanoui et plus heureux. Cette idée lui trotte dans la tête, mais <strong>il la repousse</strong> au fond de son placard, <strong>avec ses rêves d'enfance et son désir de devenir peintre</strong>.</p><p></p>

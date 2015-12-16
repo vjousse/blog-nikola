@@ -13,7 +13,7 @@ _Cet article fait partie de [la traduction du livre « The one skill » de zenha
 
 Lâcher prise peut être un acte de compassion lorsque nos idéaux nous causent des soucis.
 
-Voici comment lâcher prise avec compassion et amour :
+Voici comment lâcher prise avec compassion et amour :<!-- TEASER_END -->
 
 Tout d'abord, commencez par vouloir votre bonheur et celui de vos proches.
 

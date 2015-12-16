@@ -10,7 +10,7 @@
 -->
 
 Le nombre de Like, le nombre de retweets, le nombre d'affichages enregistrés dans Google Analytics, __les chiffres et les statistiques dirigent nos vies numériques__. Si ce n'est pas partagé, ce n'est pas bon, si ce n'est pas visité, c'est un échec, et réciproquement. Et si ces [observables](http://ploum.net/mefiez-vous-des-observables/) dont nous ne pouvons plus nous passer __diminuaient la qualité__ de ce que nous produisons ? Et si se passer de stats pouvait nous être bénéfique ?
-
+<!-- TEASER_END -->
 ## Vivre sans Google Analytics
 
 Ça fait plusieurs mois maintenant qu'il n'y a plus de statistiques sur ce site. Je n'ai aucune idée de combien de personnes viennent ici quotidiennement. Et bizarrement ça n'a rien changé à mon envie d'écrire. Je dirais même que ça m'a libéré d'un poids.

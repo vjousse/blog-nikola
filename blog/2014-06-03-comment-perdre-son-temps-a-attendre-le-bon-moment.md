@@ -10,7 +10,7 @@
 -->
 
 Cette notion de « bon moment », de « déclic » est une vaste fumisterie. Si vous attendez le bon moment, l'inspiration divine pour faire quelque chose, vous pourrez attendre longtemps. C'est d'ailleurs ce à quoi vous finirez par __passer votre vie : attendre__.
-
+<!-- TEASER_END -->
 __Le bon moment n'existe pas__. C'est à vous de prendre un moment ordinaire et d'en faire un moment exceptionnel. On a tous tendance à regarder le « succès » des autres avec envie : « il a eu la bonne idée », « c'était le moment idéal pour lui », « c'était facile pour lui car… ». En fait tout ce qu'on fait, c'est __se trouver des excuses__. On cherche chez les autres des choses que nous n'avons pas et qui nous permettraient finalement de réaliser ce que l'on veut. En effet, comment « réussir » s'il nous manque ce que les autres avaient pour réussir ? En fait, c'est cette façon de raisonner qui est la source du problème.
 
 __Les autres n'ont pas eu de choses spéciales__, ils n'ont pas eu de déclic ou d'inspiration divine pour faire ce qu'ils ont fait. Ils ont juste eu le courage d'essayer. De réussir mais aussi d'échouer, puis de recommencer. Ils se rendent compte après coup que c'était « le bon moment », car ce sont eux qui ont créé ce bon moment en passant à l'action. Il est toujours facile de parler du « bon moment », de « déclic » après coup, mais dans le présent le bon moment n'existe pas. Le bon moment n'existe que dans le futur. On ne peut juger une idée bonne ou mauvaise qu'après l'avoir essayée. Rien ne distingue un coup de génie d'une idée sans avenir. Il faut essayer pour savoir.

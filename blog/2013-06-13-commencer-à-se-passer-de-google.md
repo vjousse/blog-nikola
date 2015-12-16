@@ -10,7 +10,7 @@
 -->
 
 <p><p>Au cas où vous seriez passé à côté, un scandale est en train de faire le tour de net ces derniers jours : <a href="http://www.numerama.com/magazine/26171-prism-la-nsa-a-acces-aux-donnees-de-tous-les-geants-du-web.html">la NSA (l'agence nationale de la sécurité américaine) espionne les américains et des millions d'étrangers</a> sur internet. Peut-être vous. Même s'il était toujours plus ou moins convenu qu'avoir un compte Facebook ou Google comportait un risque pour sa vie privée, <strong>là on parle d'espionnage au niveau mondial par un état</strong>.</p></p>
-
+<!-- TEASER_END -->
 <p><p>Microsoft, Apple, Facebook, Google, personne n'est épargné. Le problème n'est pas tant ce que la NSA a fait ou pas de ces données. La <strong>seule possibilité que quelqu'un puisse connaître</strong> de manière précise tous <strong>vos faits et gestes, vos opinions</strong>, et <strong>puisse un jour s'en servir</strong> contre vous devrait suffire à vous révolter. C'est comme ça que nombre de régimes totalitaires ont commencé. Et encore, l'accès aux données leur était sûrement moins facile.</p></p>
 
 <p><p>Quoiqu'il en soit, il est bon de commencer à réfléchir sur notre dépendance à toutes ces sociétés tierces qui <strong>détiennent l'ensemble de nos données et peuvent en faire ce qu'elles veulent</strong>. Une des sociétés dont nous dépendons énormément est Google. Certaines personnes font même <strong>la confusion entre Google et Internet</strong>. C'est un comble.</p></p>

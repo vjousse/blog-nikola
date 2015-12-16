@@ -12,7 +12,7 @@
 — Bon, si je m'endors dans les 5 minutes, il me reste 2H20 de sommeil avant la prochaine tétée, je suis large.
 
 — Qu'est-ce que tu comprends pas dans le concept de "nuit" ? C'est pas parce que t'as 3 mois qu'il faut faire style tu comprends pas !
-
+<!-- TEASER_END -->
 — À table ! À tableeeeeeeee !<br>
 — À tabbbbblllllleeeeeeee ou j'éteinds la télé.<br>
 — Clic<br>

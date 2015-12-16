@@ -10,7 +10,7 @@
 -->
 
 <p><p>Essayer de se persuader que l'on doit être heureux parce que l'on a tout ce qu'il faut pour l'être est une <strong>totale aberration</strong>. Pensez-y un peu 2 secondes. Le fait même de prononcer cette phrase affirme le contraire : si vous aviez tout ce qu'il fallait pour être heureux, vous ne seriez pas en train de vous demander pourquoi vous ne l'êtes pas, ou pas totalement.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Le bonheur hérité des autres</h2></p>
 
 <p><p>La seule chose que cela met en évidence c'est que vous <strong>écoutez plus les autres</strong> et le monde extérieur que vous même. Personne ne pourra être heureux à votre place, vous seul avez les clés de votre propre bonheur. Alors pourquoi vous obstiner à tout le temps vous référer à des modèles de bonheur extérieur ?</p></p>

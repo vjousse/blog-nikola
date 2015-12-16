@@ -10,7 +10,7 @@
 -->
 
 J'ai un truc à vous avouer, je suis un looser. Si je regarde les 15 dernières années de ma vie, ce n'est qu'__échec, déception et malchance__ :
-
+<!-- TEASER_END -->
 - __Je loupe la mention bien au BAC__ à cause d'un 5 en philo : j'ai oublié de rendre une partie de ma copie que j'ai retrouvée dans mon sac ensuite.
 - __Je refuse d'aller en classe préparatoire__ aux grandes écoles alors que j'y étais accepté. Par facilité, je choisi un IUT informatique pour obtenir un BAC+2.
 - __J'obtiens tant bien que mal mon DUT après deux années laborieuses__ et je trouve un boulot de développeur informatique dans une boîte au Mans.

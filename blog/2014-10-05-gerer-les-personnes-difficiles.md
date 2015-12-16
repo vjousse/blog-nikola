@@ -14,7 +14,7 @@ _Cet article fait partie de [la traduction du livre « The one skill » de zenha
 Du chauffard désagréable au collègue de bureau aux manies énervantes en passant par les enfants qui ne font pas ce qu'on leur demande, les gens peuvent être frustrants.
 
 Même si je ne prétends pas que nous devrions juste être contents avec le comportement horrible des autres, apprendre à se libérer de la manière dont nous voulons qu'ils se comportent peut nous rendre beaucoup plus heureux.
-
+<!-- TEASER_END -->
 Prenons Marie comme exemple : elle est en colère car Scott s'est énervé méchamment contre elle et a été particulièrement odieux et insultant.
 
 Scott n'a aucune excuse pour son mauvais comportement… mais la colère de Marie en réponse ne va surement rien arranger du tout, pas plus que son énervement ne va la rendre heureuse.

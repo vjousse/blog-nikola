@@ -10,7 +10,7 @@
 -->
 
 <p>J'ai quelque chose à vous avouer : pendant longtemps, peu importe ce que je faisais, je n'ai jamais vraiment été fier de moi-même. Et j'ai dans l'idée que c'est le cas de pas mal d'entre vous aussi. J'ai récemment trouvé la raison, et la solution qui va avec.</p>
-
+<!-- TEASER_END -->
 <h2>Être fier de soi : de la façon de voir les choses</h2>
 
 <p>Voici une histoire qui résume bien la situation :</p>

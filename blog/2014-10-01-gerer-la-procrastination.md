@@ -14,7 +14,7 @@ _Cet article fait partie de [la traduction du livre « The one skill » de zenha
 Tout le monde procrastine et remet les choses au lendemain, mais pourquoi ?
 
 Tout simplement à cause de la peur : la peur de l'échec, la peur de la difficulté, de l'inconfort ou de la confusion.
-
+<!-- TEASER_END -->
 Et d'où vient cette peur ? Elle vient d'un idéal : l'idéal qui veut que l'on réussisse, que les choses soient confortables et faciles, que nous connaissions ce que nous serons amenés à faire.
 
 Prenons le cas de Nathan qui a un manuscrit de thèse à écrire. Il n'arrête pas d'en repousser l'écriture depuis des mois. Il n'est d'ailleurs probablement pas la première personne à repousser l'écriture d'une thèse.

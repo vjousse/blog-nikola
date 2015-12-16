@@ -10,7 +10,7 @@
 -->
 
 1981, Mitterand prenait le pouvoir et toute une ribambelle d'enfants en profitait pour voir le jour. Je faisais partie du lot. Un peu plus de 30 ans et quelques enfants plus tard, nous voici en 2014. Il est temps de regarder où les __joggings en peau de pêche__, les __Reebook Pump__ et les __Mystérieuses Cités d'or__ nous ont menés.
-
+<!-- TEASER_END -->
 ## Une jeunesse insouciante
 
 Nous faisons partie de cette génération qui croyait encore qu'__avoir un diplôme suffisait à avoir du travail__. Travaille bien à l'école, décroche ton diplôme, trouve-toi un boulot et ta vie sera belle et heureuse. Ça a marché pour moi de 20 à 30 ans. Et puis « la crise » est arrivée. Premier gros évènement pour lequel je disposais d'assez de maturité pour ne pas le considérer comme un évènement dû à la fatalité.

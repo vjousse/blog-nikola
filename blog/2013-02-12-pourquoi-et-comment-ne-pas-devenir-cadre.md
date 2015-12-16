@@ -10,7 +10,7 @@
 -->
 
 <p><p>J'ai l'occasion d'enseigner en Université de temps en temps et il semblerait que depuis le temps où je l'ai quittée, rien n'a vraiment changé : une grande partie des étudiants veut être chef de projet. Allons bon ! À ce rythme là, il y aura bientôt <strong>plus de dirigeants que de personnes à diriger</strong>. Vous êtes-vous seulement posé les bonnes questions ? À commencer par : pourquoi être cadre ou accepter un poste avec « plus de responsabilités » ?</p></p>
-
+<!-- TEASER_END -->
 <p><p><strong>Temps de lecture</strong> : 5 minutes.</p></p>
 
 <p><h2>Devenir cadre pour de mauvaises raisons</h2></p>

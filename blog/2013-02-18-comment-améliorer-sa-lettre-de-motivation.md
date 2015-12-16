@@ -12,7 +12,7 @@
 <p><p><em>Temps de lecture indicatif : 6 minutes.</em></p></p>
 
 <p><p>Je vous ai parlé il y a de ça quelques mois de <a href="/recrutement-developpeur-web-comment-sortir-du-lot-cv-lettre-de-motivation/">« Comment sortir du lot en tant que développeur web »</a> en vous donnant quelques pistes pour améliorer vos candidatures. Suite à ce post un de vous a eu la bonne idée de me demander ce que je pensais de sa lettre. Avec son autorisation, je vais m'en servir comme <strong>exemple concret de lettre que je préfère ne pas recevoir du tout</strong>. Dans le sens où ce sont des lettres qui desservent la candidature au lieu de la servir.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Exemple de lettre de motivation à éviter</h2></p>
 
 <p><p>Voici le contenu mot pour mot de la lettre de motivation que j'ai reçue de Mr X. (j'ai toujours rêvé d'avoir un Mr X. dans un de mes posts, c'est chose faite). Rappelons que dans le contexte de la personne qui recrute, des lettres de motivation vous en recevez quelques paquets. Vous attendez donc d'une <strong>lettre de motivation qu'elle se différencie</strong> des autres.</p></p>

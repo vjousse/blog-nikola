@@ -10,7 +10,7 @@
 -->
 
 Il y a de ça un peu plus d'un an je mettais ce blog en ligne. Le but était de partager mes idées, mes découvertes et les différents apprentissages que [ma remise en question personnelle](/blog/le-développement-personnel-pour-qui-pourquoi/) n'allaient pas manquer de provoquer. Alors nous y voilà.
-
+<!-- TEASER_END -->
 ### 1. Chercher quoi faire de sa vie ne sert à rien
 
 J'ai longtemps cherché quoi faire de ma vie, quel métier, quelle voie choisir. Tant et si bien que ça a fini par me fatiguer et j'ai __décidé de renoncer__. Je me suis rendu compte que ce que je fais n'a pas d'importance. Ce qui a de l'importance c'est [pourquoi je le fais](/blog/comment-%C3%AAtre-simplement-fier-de-soi/). J'ai donc passé du temps à [définir mes valeurs et qui je voulais être](/blog/je-quitte-mon-emploi/). J'ai décidé d'__exprimer cet être dans tout ce que je fais__. Je n'ai donc __plus besoin de chercher à faire pour être__.

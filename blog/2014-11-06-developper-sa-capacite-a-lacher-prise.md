@@ -12,7 +12,7 @@
 _Cet article fait partie de [la traduction du livre « The one skill » de zenhabits](/blog/traduction-du-livre-the-one-skill-de-zenhabits/)_
 
 Nous commençons à apercevoir les bénéfices du lâcher prise et à comprendre comment il fonctionne. C'est une bonne première chose, mais comment faire pour développer cette capacité ? Ça ne se fait pas juste avec un claquement de doigts.
-
+<!-- TEASER_END -->
 Au lieu de ça, nous devons pratiquer la technique du lâcher prise.
 
 Et pour pratiquer une nouvelle compétence, nous devons tout d'abord la découper en plus petites parties et les examiner une par une avant de les réunir toutes pour former la plus grande compétence.

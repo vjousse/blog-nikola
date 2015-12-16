@@ -10,7 +10,7 @@
 -->
 
 <p><p>L'article d'aujourd'hui est un peu particulier. Il inaugure (enfin je l'espère) une série d'articles sur <strong>vos expériences de vie, sur vos aventures</strong> qui valent la peine d'être racontées et qui pourront motiver d'autres personnes.</p></p>
-
+<!-- TEASER_END -->
 <p><p>C'est <a href="http://www.flor-esser.com/fr/">Antonia</a> (du <a href="http://www.flor-esser.com/fr">site Flor-Esser</a>) qui ouvre le bal aujourd'hui. Elle nous raconte comment elle est passée d'une vie "classique" mais ennuyeuse (elle travaillait dans l'évènementiel) a une vie pleine de sens à <strong>vivre de sa passion</strong> (en tant qu'aromathérapeute et écrivain). On se rend compte ici que les « mauvais » moments sont généralement ceux qui font avancer.</p></p>
 
 <p><p><strong>Si vous aussi vous voulez partager votre aventure de vie, n'hésitez pas à <a href="/contact/">me contacter</a>.</strong></p></p>

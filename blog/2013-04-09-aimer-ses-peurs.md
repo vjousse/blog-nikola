@@ -10,7 +10,7 @@
 -->
 
 <p><p>La peur n'est pas quelque chose qu'il faut chercher à éliminer. Le jour où vous apprendrez à <strong>aimer vos peurs</strong>, une nouvelle vie s'ouvrira à vous.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Les deux types de peur</h2></p>
 
 <p><p>Avant de parler de pourquoi aimer la peur peut être salutaire, il convient de distinguer <strong>de quelle peur l'on parle</strong>. En tant qu'animal, nous réagissons par la peur à tout danger qui <strong>menace notre intégrité physique</strong>. Cette peur est un signal envoyé par notre cerveau pour nous obliger à réagir lorsque l'on se sent menacé par un <strong>danger imminent</strong>. C'est le type de peur que vous ressentirez lorsque vous vous trouverez face à face à un ours en pleine forêt, ou encore lorsque vous serez sur le point de tomber de 10 mètres de haut. Cette peur est naturelle et bénéfique : elle va vous permettre de <strong>rester en vie</strong>. Elle est <strong>attachée uniquement à <a href="/le-pouvoir-du-moment-present/">l'instant présent</a></strong>, elle n'a de raison d'être que votre survie à un instant T. Elle n'anticipe pas d'évènement futur ou ne se remémore pas des faits passés, non, elle est là uniquement pour réagir à l'instant présent et vous <strong>maintenir en vie</strong>.</p></p>

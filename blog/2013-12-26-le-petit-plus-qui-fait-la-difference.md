@@ -10,7 +10,7 @@
 -->
 
 On a toujours tendance à __attendre la révélation__. L'idée de génie qui fera la différence, celle qui nous rendra riche, celle qui fera de nous quelqu'un d'autre et qui changera notre vie. Le problème, c'est qu'on se trompe sur toute la ligne. Il n'existe pas de moment miracle ou d'idée de génie sortie de nulle part. Tout ce qui existe ce sont de petits moments, des __petites décisions__ qui, misent __bout à bout suffisamment longtemps__, font la différence. C'est clairement moins sexy que l'idée de génie qu'on s'imagine, et pourtant, c'est comme ça que ça marche.
-
+<!-- TEASER_END -->
 ## Réaliser ses rêves est facile
 
 On adore __se trouver des excuses__, à vrai dire, beaucoup d'entre nous passent leur vie à ça. Attendre l'idée parfaite, l'éclair de génie, le moment idéal, c'est ni plus ni moins se trouver des excuses. Vous avez envie de changer quelque chose dans votre vie ? Vous avez envie de réaliser quelque chose depuis que vous êtes tout petit ? C'est bon signe, mais ça ne suffit pas. __Sans action, des idées restent des idées__. Et au risque de vous décevoir, les réaliser est plus facile que vous ne le pensez, ça prend juste du temps et un changement de mentalité.

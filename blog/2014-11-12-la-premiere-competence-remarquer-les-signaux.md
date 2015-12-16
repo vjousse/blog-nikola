@@ -14,7 +14,7 @@ _Cet article fait partie de [la traduction du livre « The one skill » de zenha
 La première compétence à acquérir est celle de pouvoir remarquer lorsque l'on s'accroche à quelque chose de nocif : une sorte de signal apparaitra, un signe que vous êtes en train de souffrir.
 
 Ce signal signifie que vous devriez pratiquer votre capacité à lâcher prise.
-
+<!-- TEASER_END -->
 Quels sont certains de ces signaux ? Il y en a beaucoup, mais voici les plus communs :
 
 - Colère

@@ -10,7 +10,7 @@
 -->
 
 <p><p>Nous compliquons tout. Tout doit être contrôlé, mesuré, optimisé, maitrisé et calculé. Nous avons besoin d'une iApp pour tout. Il nous faudra bientôt une iApp pour choisir quelle iApp installer et quels amis fréquenter. Mais nous oublions le facteur essentiel pour attraper ce bonheur qui nous tend les bras : <strong>la simplicité</strong>.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Faire compliqué</h2></p>
 
 <p><p>Il y a de ça peu de temps, j'ai été <strong>confronté à quelques sérieux ennuis</strong>. Le style d'ennui qui peut vous ponctionner quelques dizaines de milliers d'euros sur votre compte. J'étais inquiet et je n'arrivais pas à me sortir cette histoire de la tête.</p></p>

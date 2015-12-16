@@ -10,7 +10,7 @@
 -->
 
 Apprendre est difficile. Mais si vous n'apprenez plus, vous vous détruisez. Et plus vous vous détruisez, plus il sera long de vous reconstruire. Il n'y pas 36 choix à faire dans la vie : ou __vous choisissez de vous construire__, ou vous __laissez le temps vous déconstruire__. Et par défaut, c'est la deuxième solution qui s'applique.
-
+<!-- TEASER_END -->
 ## La flemme
 
 Soyons honnêtes, on a tous plus ou moins la flemme. La flemme de travailler, de faire le ménage, d'aller faire du sport, de sortir de chez soi quand il fait un peu moche, j'en passe et des meilleures. De base, on a la flemme. 

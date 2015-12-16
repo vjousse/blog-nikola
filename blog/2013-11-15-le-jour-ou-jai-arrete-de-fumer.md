@@ -13,7 +13,7 @@ _N'étant pas fumeur moi-même, c'est [Tim](https://twitter.com/timbarray) du bl
 
 ## Le moment fatidique
 Lundi 28 octobre 2013, 19h passé, j'arrive chez moi après ma journée de travail, seul, ma chère et tendre étant parti travailler, elle. Depuis la veille j'ai justement décidé que ce serait ce moment où j'allais transformer mon premier et seul essai d'arrêter de fumer. Aucun patch, aucun substitut, **juste moi et mon désir d'arrêter**.  
-Tout a été calculé, mon paquet ne contient plus qu'une seule cigarette, mon verre de citronnade à la main (très bon la citronnade mais c'est une autre histoire) je me dirige vers mon balcon où je fume matin et soir. Je me sens prêt.
+<!-- TEASER_END -->Tout a été calculé, mon paquet ne contient plus qu'une seule cigarette, mon verre de citronnade à la main (très bon la citronnade mais c'est une autre histoire) je me dirige vers mon balcon où je fume matin et soir. Je me sens prêt.
 Je me lance… Quelques instants plus tard, tout est parti en fumée et me voilà libéré. Enfin je crois.
 
 La première cigarette non consommée est celle après le repas. Il m'est déjà arrivé de ne pas la fumer, je sais donc que ça ne sera pas compliqué. J'avais raison. L'heure de se coucher arrive, aucun signe inquiétant, au contraire un grand sentiment de fierté me berce et je dors bien. Premier obstacle franchi.

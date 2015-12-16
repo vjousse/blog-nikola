@@ -12,7 +12,7 @@
 _Cet article fait partie de [la traduction du livre « The one skill » de zenhabits](/blog/traduction-du-livre-the-one-skill-de-zenhabits/)_
 
 Vous avez remarqué le signal et vous êtes maintenant capable de voir l'idéal qui en est la cause. Mais qu'est-ce qui pose problème dans le fait d'être en colère, jaloux ou d'éprouver des sentiments de malaise ? Est-ce que ce n'est pas aussi ça, être humain ?
-
+<!-- TEASER_END -->
 En effet, cela fait partie intégrante de notre condition humaine, et il n'y a aucun souci avec le fait d'éprouver ces sentiments. En revanche, s'accrocher à ces sentiments peut être la source de notre malheur et prolonger notre stress jusqu'à ce qu'il atteigne un niveau malsain. Ce stress endommage nos relations : nous avons tendance à en vouloir aux gens autour de nous. Il se peut même que notre relation à nous-même s'en trouve endommagée, à force d'être en colère et frustré contre nous-même, à force de s'accrocher à nos idéaux.
 
 Avoir des sentiments ou des idéaux n'est donc pas le problème : ils font partie de notre condition humaine. Mais si ces idéaux portent préjudice aussi bien à nous-même qu'aux autres, il est peut-être temps de s'en débarrasser.

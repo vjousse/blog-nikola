@@ -10,7 +10,7 @@
 -->
 
 <p><p>Ça fait un mois. Un mois que j'ai abandonné mon Smartphone (Samsung Galaxy S3) pour un téléphone qui sent bon les années 2000 : le <a href="http://www.amazon.fr/gp/product/B004OYUMCE/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1642&amp;creative=6746&amp;creativeASIN=B004OYUMCE&amp;linkCode=as2&amp;tag=vincjous-21">Samsung GT-E2530</a>. Plus d'internet, plus d'applications et encore moins d'écran tactile. Résultat plutôt surprenant pour moi.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Un ennemi dans votre poche</h2></p>
 
 <p><p>Je suis tout fraîchement revenu de vacances, et pour moi vacances signifie <strong>déconnexion</strong>, je n'emmène jamais d'ordinateur. Mais ce satané Smartphone, que vous vous en rendiez compte ou non, il est bien pire qu'un ordinateur.</p></p>

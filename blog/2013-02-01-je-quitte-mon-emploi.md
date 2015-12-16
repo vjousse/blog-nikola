@@ -12,7 +12,7 @@
 <p></p><p><strong>Temps de lecture indicatif : 4 minutes.</strong></p><p></p>
 
 <p></p><p>Vous la connaissez, vous l'avez déjà certainement entendue vous aussi. Cette partie de vous qui vous dit que vous feriez mieux de faire autre chose, que <strong>vous n'êtes pas à votre place</strong>. Vous ne savez pas bien pourquoi ni comment, mais vous avez besoin d'autre chose. Vous avez besoin d'un peu plus d'authenticité, vous avez besoin d'un peu plus de vous-même. Vous savez au fond de vous que ce que vous faites n'est pas la meilleure façon pour vous de contribuer au monde qui vous entoure. Ça vous procure stabilité et confort, mais trop peu de joie et de bonheur au quotidien. Vous ne vous levez pas avec enthousiasme tous les matins.</p><p></p>
-
+<!-- TEASER_END -->
 <p></p><h2>Je quitte mon travail à Jirafe</h2><p></p>
 
 <p></p><p>Il était donc temps pour moi de suivre mon instinct et d'écouter cette voix. J'ai donc décidé de quitter <a href="http://jirafe.com">Jirafe</a>, la start-up américaine pour laquelle je travaillais depuis maintenant plus de deux ans. Je passe officiellement le flambeau à <a href="http://twitter.com/cchantep">Cédric Chantepie</a> déjà connu sur Le Mans grâce à <a href="http://www.applicius.fr/">sa société Applicius</a>.</p><p></p>

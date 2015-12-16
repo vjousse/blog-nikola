@@ -10,7 +10,7 @@
 -->
 
 <p>Plus j'avance dans la vie plus je réalise qu'il est <strong>important d'apprendre à se connaître</strong>. Pas seulement pour améliorer sa vie au quotidien, mais aussi pour apprendre à connaître les autres et pour comprendre nos comportements au jour le jour. En tant que développeur informatique, apprendre de nouvelles choses est ce qui me motive quotidiennement. C'est ce que je retrouve en pratiquant le développement personnel : <strong>un apprentissage quotidien</strong> et sans limites de soi-même.</p>
-
+<!-- TEASER_END -->
 <p><h2>La situation parfaite, et pourtant</h2></p>
 
 <p>J'ai fait de l'informatique pendant ces 13 dernières années. Apprendre un nouveau langage de programmation tous les 6 mois, une nouvelle méthodologie tous les ans, et je ne sais quoi d'autre encore est mon quotidien. C'est intellectuellement très enrichissant et ça paye très bien.</p>

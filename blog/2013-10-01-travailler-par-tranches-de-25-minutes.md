@@ -10,7 +10,7 @@
 -->
 
 Qui n'a jamais eu l'impression, le soir, en rentrant du boulot, de n'avoir rien fait de sa journée ? Vous les connaissez ces journées où vous étiez pourtant au travail de 9h à 18h mais vous avez l'__impression de ne pas avoir été productif__ du tout. Bienvenue au club. J'ai essayé pas mal de choses, des todolist à rallonge aux méthodes de productivité qui étaient censées changer ma vie. Rien n'y a fait jusqu'à ce que je travaille uniquement par __tranches de 25 minutes__.
-
+<!-- TEASER_END -->
 ## 25 mn ça suffit largement
 
 Cette habitude m'est venue grâce à la [technique Pomodoro](http://pomodorotechnique.com/). Vous pouvez allez lire [le livre (gratuit)](http://www.clubbienetre.com/TechniquePomodoro.pdf) si vous le souhaitez, sinon je vous la fait courte :

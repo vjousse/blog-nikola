@@ -14,7 +14,7 @@ _Cet article fait partie de [la traduction du livre « The one skill » de zenha
 Une des choses que j'ai apprises est que tout change : chaque personne, chaque situation, chaque objet, chaque être.
 
 Nous se sommes pas des être permanents. Même le _moi_ que nous pensons être change continuellement : il y a une certaine continuité, sûrement, mais ce n'est pas le même _moi_. Tout le monde est comme cela.
-
+<!-- TEASER_END -->
 Même les objets qui semblent rester les mêmes changent. Ils se décomposent, ils vieillissent, ils se fossilisent, ils sont marqués par le temps, ils deviennent fragiles.
 
 L'impermanence est effrayante, mais elle est aussi libératrice.

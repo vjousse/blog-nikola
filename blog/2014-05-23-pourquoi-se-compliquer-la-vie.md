@@ -12,7 +12,7 @@
 Quelqu'un vous manque ?         ...__Appelez__
 
 Besoin de voir du monde ?        ...__Invitez__
-
+<!-- TEASER_END -->
 Besoin d'être compris ?              ...__Expliquez__
 
 Des questions ?                           ...__Demandez__

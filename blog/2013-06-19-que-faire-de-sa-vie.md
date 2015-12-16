@@ -10,7 +10,7 @@
 -->
 
 <p><p>Je ne sais pas ce que je veux faire, mais <strong>je sais ce que je ne veux pas faire</strong>. Ça vous semble familier comme sentiment ? Bienvenue au club ! La question qui suit est généralement : « <strong>mais qu'est-ce que je vais faire de ma vie</strong> » ? Voici la conclusion à laquelle je suis arrivé : pour savoir ce que vous ferez, il faut commencer par <strong>savoir ce que vous voulez être</strong>.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Se poser la bonne question</h2></p>
 
 <p><p>Lorsque que vous savez ce que vous ne voulez pas (ou plus) faire, c'est qu'il y a une raison. C'est que ce « faire » ne correspond pas avec votre « être ». <strong>Ça sonne faux</strong>, instinctivement vous le savez, vous le sentez. Et pourtant, vous ne savez pas quoi « faire » pour « être » mieux.</p></p>

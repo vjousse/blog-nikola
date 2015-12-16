@@ -10,7 +10,7 @@
 -->
 
 <p><p>On regrette souvent d'avoir pris <strong>la mauvaise décision</strong>, d'avoir fait le mauvais choix. Le fameux « Ah si j'avais su ». Tout ça pourquoi ? Parce que le résultat de notre décision est pénible, douloureux, difficile à vivre, non conforme à nos attentes. On a quitté notre zone de confort. Mais est-ce que ce sont les bons critères de jugement ? Est-ce que finalement, s'être mis dans la position de vivre quelque chose de pénible est forcément quelque chose que l'on aurait du éviter ? Il m'est avis que non.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>Soyez prêt à en baver</h2></p>
 
 <p><p>À l'opposé de survivre, vivre c'est prendre des risques. Et forcément lorsque l'on prend des risques, on sort de sa zone de confort (qui ne s'appelle pas comme ça pour rien). Dans le coup, inévitablement, des choses vont <strong>« aller de travers »</strong>.</p></p>

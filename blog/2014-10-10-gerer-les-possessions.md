@@ -12,7 +12,7 @@
 _Cet article fait partie de [la traduction du livre « The one skill » de zenhabits](/blog/traduction-du-livre-the-one-skill-de-zenhabits/)_
 
 Une des meilleurs choses que j'ai pu faire est d'avoir fait le ménage dans ma vie en me débarrassant d'un grand nombre de trucs et de possessions inutiles : meubles, vêtements, gadgets, outils, livres, vaisselle, souvenirs et bien plus encore.
-
+<!-- TEASER_END -->
 À mes yeux, avoir une maison épurée est quelque chose de beau et de joyeux. Mais plus important encore, j'ai appris sur moi-même en me débarrassant de mes possessions.
 
 Pourquoi avais-je accumulé autant de possessions en premier lieu ? Il s'avère que ma famille (moi y compris) avait l'habitude d'acheter de manière impulsive et aussi par tradition. Nous acquérions de nouvelles choses sans nous débarrasser des anciennes. Nous mettions de côté nos anciens trucs pour faire de la place pour les nouveaux, et puis nous les oubliions.

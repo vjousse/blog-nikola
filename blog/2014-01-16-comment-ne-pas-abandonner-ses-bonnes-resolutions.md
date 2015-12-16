@@ -10,7 +10,7 @@
 -->
 
 Les résolutions de la nouvelle année ne servent à rien. Enfin si, elles servent uniquement à se rendre compte qu'on n'est pas capable d'en tenir une seule, une fois le mois de janvier passé. C'est triste mais c'est comme ça. Ce qui est encore plus triste c'est de se rendre compte que peu de personnes se posent la question essentielle : pourquoi et comment y remédier.
-
+<!-- TEASER_END -->
 ## Cherchez pas docteur, c'est la tête
 
 La notion de résolution de la nouvelle année est en elle-même complètement absurde. Prendre une résolution c'est « décider volontairement, après réflexion, d'accomplir quelque chose ». Il faut donc un pourquoi, une raison d'accomplir cette résolution. En ce qui concerne la nouvelle année, ce pourquoi c'est un +1 sur le nombre d'années depuis la naissance d'un certain JC. Sérieusement ? Un +1 sur une date ? Et après vous vous étonnez de ne pas tenir vos résolutions ?

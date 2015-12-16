@@ -10,7 +10,7 @@
 -->
 
 Il semblerait que le CDI (Contrat à Durée Indéterminée) soit la solution à tout. Le CDI c'est la solution au travail précaire, le CDI c'est la solution à l'exploitation des travailleurs, le CDI c'est la solution à son prêt bancaire. Le CDI c'est la vie ©. Et si on réfléchissait un peu ? Et si le **CDI était finalement ce qui nous posait le plus de soucis** ?
-
+<!-- TEASER_END -->
 ## Commençons par le début
 
 Qu'est-ce qu'on cherche quand on veut obtenir un CDI ? On veut quelque chose de stable pour pouvoir planifier sa vie, être sûr de ce qui rentre à la fin du mois, on veut réduire les risques. On peut alors faire des projets : envisager d'acheter une maison, d'avoir des enfants, de voyager, de s'endetter. Je parle en connaissance de cause, je suis passé par là. Grosso modo, le CDI, c'est notre passeport de vie : **CDI =&gt; vie facile, pas de CDI =&gt; vie galère**.

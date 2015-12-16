@@ -10,7 +10,7 @@
 -->
 
 <p><p>Rien n'est gravé dans la pierre. <strong>Nous créons le monde que nous voulons créer</strong>. Nous ne pouvons pas changer le monde en une fois, et une bonne fois pour toute. En revanche, nous pouvons changer notre petit monde à nous. Notre monde personnel qui, une fois lié à tous les autres mondes des personnes qui nous entourent, forme le Monde avec un grand M.</p></p>
-
+<!-- TEASER_END -->
 <p><p>C'est en ce sens que le monde est ce que nous en faisons. La seule façon de changer le monde c'est de le changer petit à petit, un monde après l'autre. Et devinez quoi ? C'est par <strong>le votre qu'il faut commencer</strong>. Le plus grand service que vous pouvez vous rendre et rendre aux autres c'est de passer du temps à vous connaître. C'est en découvrant qui vous êtes vraiment que vous pourrez faire une réelle différence dans ce monde. Attention, c'est le travail de toute une vie.</p></p>
 
 <p><p>La bonne nouvelle, c'est qu'il suffit de vous poser une et une seule question : <strong>pourquoi</strong> ? Pourquoi êtes-vous sur cette Terre ? Sans <em>« pourquoi »</em>, le <em>« comment »</em> et le <em>« quoi »</em> n'ont aucune raison d'être. Ne passez pas votre vie à faire des choses sans savoir pourquoi, il ne sera plus temps de vous poser la question sur votre lit de mort.</p></p>

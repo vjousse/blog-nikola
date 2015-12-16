@@ -11,7 +11,7 @@
 
 J'ai écrit [un livre](https://vimebook.com). Deux ans de travail et de réflexion pour accoucher d'un livre technique de 60 pages sur un éditeur de texte répondant au doux nom de [Vim](http://vim-fr.org/index.php/Accueil).
 
-Vous allez me dire que deux ans pour 60 pages c'est beaucoup, et vous avez raison. Ayant tendance à procrastiner sur ce genre de tâche, je suis d'autant plus fier d'avoir réussi à aller jusqu'au bout. Naturellement, tous ces efforts devaient être récompensés. Les personnes voulant apprendre Vim en lisant ma prose auraient à payer 9,99€. __Tout travail mérite salaire n'est-ce pas ?__
+Vous allez me dire que deux ans pour 60 pages c'est beaucoup, et vous avez raison. Ayant tendance à procrastiner sur ce genre de tâche, je suis d'autant plus fier d'avoir réussi à aller jusqu'au bout. Naturellement, tous ces efforts devaient être récompensés. Les personnes voulant apprendre Vim en lisant ma prose auraient à payer 9,99€. __Tout travail mérite salaire n'est-ce pas ?__<!-- TEASER_END -->
 
 
 J'ai mis mon livre à la vente en avril 2013, copyrighté comme il se doit. D'avril 2013 à fin août 2014, j'en ai __vendu 90, soit 899,10€__ de « Chiffre d'Affaires ». Étant auto-entrepreneur, j'enlève environ 26% de taxes/impôts et 5% de charges de la plateforme que j'utilisais pour vendre le livre ([Payhip](http://payhip.com)), ce qui fait environ __620€ dans ma poche__. Pas si mal pour 90 ventes.

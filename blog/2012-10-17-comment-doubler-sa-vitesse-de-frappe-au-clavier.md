@@ -10,7 +10,7 @@
 -->
 
 <p>Si comme moi vous passez la majeure partie de votre activité à <strong>taper sur un clavier</strong>, la vitesse de frappe (et la précision) peuvent devenir des atouts importants. Malheureusement en France personne ne nous apprend comment taper correctement. J'ai donc décidé de prendre les choses en main moi même, et je suis passé en quelques mois d'environ 25 mots par minute avec une précision de 90%, à <strong>60 mots par minute avec une précision de 98%</strong>.</p>
-
+<!-- TEASER_END -->
 <p></p><h2>Le secret pour augmenter sa vitesse de frappe : le touch typing</h2><p></p>
 
 <p>Le <strong>touch typing</strong> est une expression anglaise qui signifie taper sans regarder son clavier. Sans vous entraîner au touch typing, il y a peu de chance que vous fassiez de quelconques progrès significatifs. Il va falloir vous forcer à <strong>ne pas regarder votre clavier</strong>. Il va falloir, avec un peu d'entraînement acquérir une représentation mentale de votre clavier, de façon à ce que taper une lettre ne soit plus conscient, mais juste un <strong>réflexe</strong>. Votre clavier doit devenir un prolongement de vos mains comme peut l'être votre souris, et non pas quelque chose que vous devez constamment regarder pour taper.</p>

@@ -12,7 +12,7 @@
 <p><p><strong>Temps de lecture indicatif : 3 minutes.</strong></p></p>
 
 <p><p>Le web est un espace de communication formidable qu'une bonne partie d'entre nous a vu grandir. Et sans spécialement en prendre conscience, nous sommes en train de mettre cet espace en péril. Il est temps d'au moins en prendre conscience et si possible de commencer à agir.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>« Sur internet, tout est gratuit »</h2></p>
 
 <p><p>Vous avez la plus grande encyclopédie en ligne gratuitement avec Wikipedia alors qu'il fallait débourser des milliers de Francs pour acquérir une encyclopédie Bordas il y a de ça un peu plus de dix ans. Pas grand monde pouvait se le permettre d'ailleurs, seuls les enfants de parents aisés pouvaient en avoir une chez eux. De mémoire ça avoisinait les 6000/7000 Francs, soit environ 1000 euros pour ceux qui sont trop jeunes.</p></p>

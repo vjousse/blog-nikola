@@ -16,7 +16,7 @@ _Ce texte de fiction est le deuxième épisode de la [série « Une autre véri
  — Mathias, on en est où ?
 
  Comment ça on en est où ? À ton avis ? Il s'est passé 20 minutes depuis que tu m'as demandé la dernière fois triple andouille ! J'ai à peine eu le temps de vérifier Facebook en fait. Mais bon, je ne suis pas sûr que ce soit le type de réponse que tu attendes. Je vais plutôt me tenter un truc plus soft.
-
+<!-- TEASER_END -->
  — Ça avance patron. Je devrais avoir fini ce soir.  
  — Ça tombe bien, il faut que ça soit envoyé avant 22H.  
 

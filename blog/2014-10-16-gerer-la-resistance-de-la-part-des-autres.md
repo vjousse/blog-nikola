@@ -14,7 +14,7 @@ _Cet article fait partie de [la traduction du livre « The one skill » de zenha
 Souvent nous voudrions que les autres personnes changent ou nous voudrions changer mais d'autres personnes résistent à ce changement.
 
 Pourquoi est-ce qu'elles ne peuvent pas juste lâcher prise et accepter le changement ? Parce que nous ne pouvons forcer d'autres personnes à changer : nous ne les contrôlons pas.
-
+<!-- TEASER_END -->
 Alors, lâcher prise devient un processus d'acceptation car on ne peut contrôler les autres et on ne peut contrôler la plus part de ce qui se passe dans le monde. Qu'on le veuille ou non, la vie n'est pas quelque chose que l'on contrôle.
 
 Laissons allez notre illusion de contrôle.

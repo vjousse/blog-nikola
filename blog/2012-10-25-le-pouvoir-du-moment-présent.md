@@ -10,7 +10,7 @@
 -->
 
 <p></p><p>Être heureux en toutes circonstances, prendre plaisir et ne plus avoir de soucis. Programme alléchant non ? La bonne nouvelle, c'est que vous n'avez <strong>besoin de rien</strong> de plus que ce que vous avez déjà, vous avez juste besoin de le découvrir. Cette découverte c'est : comment profiter de l' « ici-maintenant », puisque c'est de tout façon tout ce qui a une véritable existence.</p><p></p>
-
+<!-- TEASER_END -->
 <p></p><h2>Profiter de la vie</h2><p></p>
 
 <p></p><p><em>« Le voyage est la récompense »</em>. J'ai toujours été <strong>perplexe</strong> devant de telles phrases. C'est bien joli d'entendre dire qu'il faut profiter de sa vie de tous les jours, que le temps passe vite, que les enfants grandissent trop vite, j'en passe et des meilleures. Mais <strong>comment</strong> ? Comment ne plus se faire envahir par tous nos soucis, par ce travail qui n'en finit pas d'être oppressant ou par la culpabilité de ne pas s'occuper assez de ses enfants ?</p><p></p>

@@ -10,7 +10,7 @@
 -->
 
 <p><p>Prendre ses responsabilités n'est pas une question d'âge, vous pouvez avoir 60 ans et ne toujours pas prendre vos responsabilités. Inversement, des personnes de 20 ans ont appris très jeune à le faire.</p></p>
-
+<!-- TEASER_END -->
 <p><p>Soyons clair, <strong>la majeure partie d'entre nous ne prend pas ses responsabilités</strong>, y compris vous. Même si vous êtes convaincu du contraire, lisez un peu la suite pour voir.</p></p>
 
 <p><h2>La question magique à se poser pour prendre ses responsabilités</h2></p>

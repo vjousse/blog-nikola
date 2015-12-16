@@ -14,6 +14,7 @@ La mort reste un __taboo__ dans notre société actuelle. Elle l'était d'ailleu
 1. ce n'est pas parce qu'il est triste qu'un sujet doit être évité,
 2. parler de sa mort c'est __aider la vie des autres__.
 
+<!-- TEASER_END -->
 Aux personnes qui me parlaient du « moment où elles ne seraient plus là » j'ai souvent répondu : « ça ne va pas de parler de ça, il y a quand même plus gai comme sujet de conversation. Et puis bon, tu n'es pas encore mort(e) ! ». Vous noterez toute l'ironie du propos. Parler de sa mort lorsqu'elle est effective est sûrement un peu plus compliqué.
 
 On a souvent tendance à croire que les personnes qui souhaitent parler de leur mort sont des personnes qui veulent mourir. Comme si en parler pouvait faire en sorte qu'elle rapproche. Et pourtant, __apprendre à parler de la mort c'est apprendre à vivre__. L'un ne va pas sans l'autre.

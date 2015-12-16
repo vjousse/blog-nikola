@@ -10,7 +10,7 @@
 -->
 
 <p><p>S'autoriser à y croire, et à croire que l'on va réussir est la clé du succès. Sans toujours nous en rendre compte, <strong>nous nous limitons nous même</strong>, et nous créons des barrières artificielles à notre propre développement personnel.</p></p>
-
+<!-- TEASER_END -->
 <p><p>J'ai récemment réalisé que tout ce que j'ai accompli (et dont j'étais réellement fier) n'est arrivé que parce qu'à un moment je me suis dit que je pouvais le faire. J'ai « cru en moi », j'ai « forcé » la confiance que j'avais en moi et j'ai ainsi trouvé des moyens de réussir. Voici quelques exemples de choses que j'ai accomplies et pour lesquelles ce n'était pas gagné d'avance :</p></p>
 
 <p><ul><br /><li>J'ai passé une thèse en informatique</li><br /><li>Je parle anglais couramment</li><br /><li>J'ai chanté dans un concert en public</li><br /></ul></p>

@@ -10,7 +10,7 @@
 -->
 
 <p>Parler en public est <strong>effrayant</strong> pour beaucoup de personnes ; cela peut même devenir insurmontable. J'ai été moi même confronté à cette problématique : comment faire pour ne plus avoir peur de parler en public, voire même <strong>d'apprécier parler en public</strong>. Nous allons voir ici quelques astuces pour la fameuse <em>« Présentation PowerPoint »</em> (même si la plupart des conseils restent valable pour nombre de prises de parole en public). Ayant été moi même prof à la FAC et ayant donné des conférences sur mes sujets de recherche universitaire, j'ai appris à gérer <strong>des groupes allant de 10 à 300 personnes</strong>. Voici quelques conseils pour vous aider à faire de même.</p>
-
+<!-- TEASER_END -->
 <p><h2>Apprendre à se tromper</h2></p>
 
 <p>Généralement, <strong>la peur de parler en public</strong> vient de l'idée que vous vous faites de la manière dont <strong>votre public va interpréter vos erreurs</strong>. <em>« Qu'est-ce qui se passe si quelqu'un se rend compte que j'ai dit une grosse bêtise ? »</em>, <em>« et si je me trompe dans mon texte ? »</em>, <em>« et si je bafouille ? »</em>, <em>« et si ... »</em>. Le fait est que <strong>tout le monde se trompe</strong> et qu'évidemment ça vous arrivera à vous aussi. Il ne faut donc <strong>pas essayer de tout vouloir contrôler</strong> et de tout faire pour ne pas faire d'erreurs (apprendre son texte par cœur ou mettre tout son texte sur ses diapos par exemple). Si vous faites cela, vous pouvez être sûr que vous aurez du mal à mener votre présentation sereinement.</p>

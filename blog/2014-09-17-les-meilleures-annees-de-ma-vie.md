@@ -10,7 +10,7 @@
 -->
 
 Vivre les « meilleurs années de sa vie », __quelle tristesse__. Personne ne vous a jamais conseillé d'en profiter car c'était « les meilleurs années de ta vie » ? Car après c'était plus pareil ? Que ça soit ses parents ou ses proches, on y a généralement le droit à plusieurs moments de sa vie :
-
+<!-- TEASER_END -->
 - Au collège/lycée car on n'a __pas d'autres soucis que celui d'apprendre et de s'amuser__,
 - À la vingtaine car __on a la vie devant nous__,
 - À la trentaine car on a encore __la chance d'être en bonne santé__,

@@ -12,7 +12,7 @@
 <p><p>« <em>Si vous pensez que l'aventure est dangereuse, essayez la routine. Elle est mortelle.</em> » — <strong>Paulo Coelho</strong></p></p>
 
 <p><p>Nous <strong>adorons la sécurité</strong>. Nous aimons contrôler, planifier, prévoir, anticiper. Tout doit filer droit. Et lorsqu'un grain de sable vient enrayer la machine, nous sommes perdus. Notre monde s'écroule, notre illusion de contrôle part en fumée. Nous appelons ça « la faute à pas de chance », une « <a href="http://www.viedemerde.fr/">vie de merde</a> », la poisse, j'en passe et des meilleurs. Et pourtant, c'est dans ces moments là que vous <strong>construisez votre vie</strong>.</p></p>
-
+<!-- TEASER_END -->
 <p><h2>La bêtise du principe de précaution</h2></p>
 
 <p><p>Pensez-y deux minutes, la précaution est devenue un principe de base. Il vaut mieux être prudent. Quand on ne sait pas, quand il y a un risque, on <strong>retient le principe de précaution</strong>. Mais qui peut se vanter de savoir ? Qui peut dire qu'il est sûr à 100 % de ce qui arrivera ? Personne. Par défaut, il vaut donc mieux être prudent. « On ne sait jamais ».</p></p>

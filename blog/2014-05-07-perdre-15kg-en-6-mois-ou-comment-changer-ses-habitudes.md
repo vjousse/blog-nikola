@@ -10,7 +10,7 @@
 -->
 
 En mars 2012 je pesais 86 Kg pour 1m82. En septembre 2012 je ne pesais plus que 71 kg (oui toujours pour 1m82). Mai 2014 : je suis stabilisé entre 71kg et 72kg, ça dépend du nombre de fêtes dans le mois. Chouette alors, mais comment qu'il a fait le gars ?
-
+<!-- TEASER_END -->
 Pour ceux qui ne me connaissent pas j'ai 32 ans et suis père de 3 enfants. J'ai été confronté à ce qui arrive à bon nombre de jeunes papa :
 
 - Arrêt du sport pour pouvoir s'occuper de la famille.

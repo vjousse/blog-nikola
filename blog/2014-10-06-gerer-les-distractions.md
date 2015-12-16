@@ -12,7 +12,7 @@
 _Cet article fait partie de [la traduction du livre « The one skill » de zenhabits](/blog/traduction-du-livre-the-one-skill-de-zenhabits/)_
 
 Les distractions sont la face cachée de la procrastination : nous ne voulons pas nous concentrer sur quelque chose parce que c'est inconfortable ou compliqué, et donc nous nous laissons aller aux distractions.
-
+<!-- TEASER_END -->
 Ces distractions sont confortables et faciles. Nous sommes doués pour les réaliser. Nous n'avons pas à les craindre, nous n'avons pas à avoir peur d'échouer, nous n'avons pas à redouter l'inconfort ou l'incertitude. Des jeux vidéos, à la lecture sur internet, aux réseaux sociaux en passant par la télé, les distractions occupent nos esprits.
 
 Alors comment gérer l'attrait de ces distractions ?

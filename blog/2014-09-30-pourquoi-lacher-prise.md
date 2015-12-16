@@ -16,7 +16,7 @@ Tous nos problèmes viennent de notre incapacité à lâcher prise.
 J'ai glané cette idée il y a quelques années en lisant un livre sur le Bouddhisme Zen : sa simplicité m'a frappé.
 
 Est-ce que ça pourrait être vrai ?
-
+<!-- TEASER_END -->
 Imaginez : un oiseau en vol. L'oiseau vit ce moment entièrement, complètement concentré sur son vol, peut-être en train d'utiliser sa vue affûtée pour chercher de la nourriture.
 
 Il ne se met pas à se demander « Pourquoi est-ce qu'il fait si froid ici ? Qu'est-ce que les autres oiseaux pensent de moi ? Qu'est-ce que je vais bien pouvoir faire quand je vais rencontrer les autres oiseaux tout à l'heure ? Est-ce que je vais réussir à construire mon nid ? Pourquoi est-ce ma poitrine n'est pas plus grosse ? Pourquoi est-ce que je n'arrive pas à me réveiller plus tôt comme les autres oiseaux ? » et ainsi de suite.
