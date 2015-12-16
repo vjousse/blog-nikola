@@ -3363,7 +3363,9 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 #content ol, #content ul {
     margin-left: 25px;
 }
-
+#content ul.entry-meta {
+    margin-left:0;
+}
 
 /* ----------------------------------------------------------------
 	Portfolio
