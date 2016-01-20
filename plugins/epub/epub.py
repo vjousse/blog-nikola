@@ -24,9 +24,10 @@
 # OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+import tempfile
 from nikola.plugin_categories import Task
 from nikola.utils import LOGGER, config_changed
-
+from ebooklib import epub
 
 class Plugin(Task):
 
@@ -52,6 +53,10 @@ class Plugin(Task):
         yield self.group_task()
 
         for lang in kw["translations"]:
+            posts = self.site.timeline
+            self.make_epubs(posts, lang)
+            pass
+
             for post in self.site.timeline:
                 if not kw["show_untranslated_posts"] and not post.is_translation_available(lang):
                     continue
@@ -59,8 +64,84 @@ class Plugin(Task):
                     context = {'pagekind': ['post_page']}
                 else:
                     context = {'pagekind': ['story_page']}
+
+                LOGGER.notice(lang + " - " + post.title(lang=lang))
+                LOGGER.notice(lang + " - " + post.text())
                 for task in self.site.generic_page_renderer(lang, post, kw["filters"], context):
                     task['uptodate'] = task['uptodate'] + [config_changed(kw, 'nikola.plugins.task.pages')]
                     task['basename'] = self.name
                     task['task_dep'] = ['render_posts']
-                    yield task
+                    #yield task
+
+    def make_epubs(posts, lang):
+
+        book = epub.EpubBook()
+
+        # add metadata
+        book.set_title('Articles de Vincent Jousse')
+        book.set_language('fr')
+
+        book.add_author('Vincent Jousse')
+
+        chapters = []
+
+        for post in posts:
+            c1 = epub.EpubHtml(title=post.title(lang=lang), file_name='%s.xhtml' % post.section_slug(lang), lang='fr')
+            c1.content=u'<html><head></head><body><h1>%s</h1>%s</body></html>' % (post.title(lang=lang), post.text(lang=lang, show_read_more_link=False))
+            book.add_item(c1)
+            chapters.append(c1)
+
+
+        book.toc = tuple(chapters)
+
+        # add navigation files
+        book.add_item(epub.EpubNcx())
+        book.add_item(epub.EpubNav())
+
+
+        # define css style
+        style = '''
+@namespace epub "http://www.idpf.org/2007/ops";
+
+body {
+    font-family: Cambria, Liberation Serif, Bitstream Vera Serif, Georgia, Times, Times New Roman, serif;
+}
+
+h2 {
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 200;     
+}
+
+ol {
+        list-style-type: none;
+}
+
+ol > li:first-child {
+        margin-top: 0.3em;
+}
+
+
+nav[epub|type~='toc'] > ol > li > ol  {
+    list-style-type:square;
+}
+
+
+nav[epub|type~='toc'] > ol > li > ol > li {
+        margin-top: 0.3em;
+}
+
+'''
+
+        # add css file
+        nav_css = epub.EpubItem(uid="style_nav", file_name="style/nav.css", media_type="text/css", content=style)
+        book.add_item(nav_css)
+
+        # create spine
+        book.spine = ['nav'] + chapters
+
+        tf = tempfile.NamedTemporaryFile()
+        # create epub file
+        epub.write_epub(tf.name, book, {})
+
+        return tf
