@@ -65,22 +65,6 @@ class Plugin(Task):
             continue
             pass
 
-            for post in self.site.timeline:
-                if not kw["show_untranslated_posts"] and not post.is_translation_available(lang):
-                    continue
-                if post.is_post:
-                    context = {'pagekind': ['post_page']}
-                else:
-                    context = {'pagekind': ['story_page']}
-
-                LOGGER.notice(lang + " - " + post.title(lang=lang))
-                LOGGER.notice(lang + " - " + post.text())
-                for task in self.site.generic_page_renderer(lang, post, kw["filters"], context):
-                    task['uptodate'] = task['uptodate'] + [config_changed(kw, 'nikola.plugins.task.pages')]
-                    task['basename'] = self.name
-                    task['task_dep'] = ['render_posts']
-                    #yield task
-
     def make_epubs(self, posts, lang, kw):
 
         book = epub.EpubBook()
