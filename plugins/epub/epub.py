@@ -24,6 +24,7 @@
 # OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+import os
 import tempfile
 from nikola.plugin_categories import Task
 from nikola.utils import LOGGER, config_changed
@@ -41,6 +42,7 @@ class Plugin(Task):
             "filters": self.site.config["FILTERS"],
             "show_untranslated_posts": self.site.config['SHOW_UNTRANSLATED_POSTS'],
             "demote_headers": self.site.config['DEMOTE_HEADERS'],
+            "output_folder": self.site.config["OUTPUT_FOLDER"],
         }
 
         LOGGER.notice('BYE EPUB')
@@ -53,8 +55,14 @@ class Plugin(Task):
         yield self.group_task()
 
         for lang in kw["translations"]:
-            posts = self.site.timeline
-            self.make_epubs(posts, lang)
+            if kw["show_untranslated_posts"]:
+                posts = self.site.posts
+            else:
+                posts = [x for x in self.site.posts if x.is_translation_available(lang)]
+
+            ebook_file = self.make_epubs(posts, lang, kw)
+            LOGGER.notice(lang + " - " + ebook_file.name)
+            continue
             pass
 
             for post in self.site.timeline:
@@ -73,20 +81,21 @@ class Plugin(Task):
                     task['task_dep'] = ['render_posts']
                     #yield task
 
-    def make_epubs(posts, lang):
+    def make_epubs(self, posts, lang, kw):
 
         book = epub.EpubBook()
 
         # add metadata
-        book.set_title('Articles de Vincent Jousse')
-        book.set_language('fr')
+        author=self.site.config['BLOG_AUTHOR'](lang)
+        book.set_title(author)
+        book.set_language(lang)
 
         book.add_author('Vincent Jousse')
 
         chapters = []
 
         for post in posts:
-            c1 = epub.EpubHtml(title=post.title(lang=lang), file_name='%s.xhtml' % post.section_slug(lang), lang='fr')
+            c1 = epub.EpubHtml(title=post.title(lang=lang), file_name='%s.xhtml' % post.meta[lang]['slug'])
             c1.content=u'<html><head></head><body><h1>%s</h1>%s</body></html>' % (post.title(lang=lang), post.text(lang=lang, show_read_more_link=False))
             book.add_item(c1)
             chapters.append(c1)
@@ -140,8 +149,10 @@ nav[epub|type~='toc'] > ol > li > ol > li {
         # create spine
         book.spine = ['nav'] + chapters
 
+        output_path = os.path.join(kw["output_folder"],
+                                    self.site.path("epub_dir", None, lang))
         tf = tempfile.NamedTemporaryFile()
         # create epub file
-        epub.write_epub(tf.name, book, {})
+        epub.write_epub(os.path.join(output_path, 'test.epub'), book, {})
 
         return tf
