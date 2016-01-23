@@ -1,0 +1,13 @@
+[Core]
+name = render_posts_epub
+module = posts_epub
+
+[Documentation]
+author = Vincent Jousse
+version = 1.0
+website = https://getnikola.com/
+description = Create epubs out of posts.
+
+[Nikola]
+plugincategory = Task
+
