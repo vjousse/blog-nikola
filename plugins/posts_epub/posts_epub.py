@@ -129,6 +129,16 @@ class RenderPostsEpub(Task):
 
     name = "render_posts_epub"
 
+    def set_site(self, site):
+        site.register_path_handler("post_epub", self.epub_path)
+        return super(RenderPostsEpub, self).set_site(site)
+
+
+    def epub_path(self, post, lang):
+        return [_f for _f in [
+            self.site.config['TRANSLATIONS'][lang],
+            post.post_name + ".epub"] if _f]
+
     def gen_tasks(self):
         """Build HTML fragments from metadata and text."""
         self.site.scan_posts()
@@ -165,8 +175,7 @@ class RenderPostsEpub(Task):
                     if p.startswith('####MAGIC####CONFIG:'):
                         k = p.split('####MAGIC####CONFIG:', 1)[-1]
                         deps_dict[k] = self.site.config.get(k)
-                dest = post.translated_base_path(lang)
-                dest = re.sub('html$', 'epub', dest)
+                dest = os.path.join(kw['output_folder'], post.post_name + '.epub')
 
                 LOGGER.notice('Dest {}'.format(dest))
 
