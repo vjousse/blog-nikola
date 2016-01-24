@@ -32,7 +32,7 @@ import re
 
 from nikola.plugin_categories import Task
 from nikola import filters, utils
-from nikola.utils import LOGGER, config_changed
+from nikola.utils import LOGGER, config_changed, get_translation_candidate
 from ebooklib import epub
 
 
@@ -175,7 +175,10 @@ class RenderPostsEpub(Task):
                     if p.startswith('####MAGIC####CONFIG:'):
                         k = p.split('####MAGIC####CONFIG:', 1)[-1]
                         deps_dict[k] = self.site.config.get(k)
-                dest = os.path.join(kw['output_folder'], post.post_name + '.epub')
+
+                dest = post.translated_base_path(lang)
+                dest = re.sub('html$', 'epub', dest)
+                dest = re.sub('^cache', kw['output_folder'], dest)
 
                 LOGGER.notice('Dest {}'.format(dest))
 
