@@ -45,8 +45,6 @@ def update_deps(post, lang, task):
     task.file_dep.update([p for p in post.fragment_deps(lang) if not p.startswith("####MAGIC####")])
 
 
-
-
 class RenderPostsEpub(Task):
     """Build epub from metadata and text."""
 
@@ -103,7 +101,7 @@ class RenderPostsEpub(Task):
                 dest = re.sub('html$', 'epub', dest)
                 dest = re.sub('^cache', kw['output_folder'], dest)
 
-                LOGGER.notice('Dest {}'.format(dest))
+                #LOGGER.notice('Dest {}'.format(dest))
 
                 file_dep = [p for p in post.fragment_deps(lang) if not p.startswith("####MAGIC####")]
                 task = {
