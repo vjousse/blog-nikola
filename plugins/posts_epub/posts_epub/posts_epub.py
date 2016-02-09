@@ -75,9 +75,12 @@ class RenderPostsEpub(Task):
 
 
     def epub_path(self, post, lang):
-        return [_f for _f in [
+        path = [_f for _f in [
             self.site.config['TRANSLATIONS'][lang],
             post.post_name + ".epub"] if _f]
+
+
+        return path
 
     def gen_tasks(self):
         """Build HTML fragments from metadata and text."""
@@ -122,10 +125,17 @@ class RenderPostsEpub(Task):
                         deps_dict[k] = self.site.config.get(k)
 
                 dest = post.translated_base_path(lang)
+                #LOGGER.notice('Dest 1 {}'.format(dest))
+                LOGGER.notice('Dest 2 {}'.format(post.translated_source_path(lang)))
                 dest = re.sub('html$', 'epub', dest)
-                dest = re.sub('^cache', kw['output_folder'], dest)
 
-                #LOGGER.notice('Dest {}'.format(dest))
+                if lang  is not kw['default_lang']:
+                    dest = re.sub('^cache', os.path.join(kw['output_folder'], lang), dest)
+                else:
+                    dest = re.sub('^cache', kw['output_folder'], dest)
+
+
+                #LOGGER.notice('Dest 3 "{}" "{}"'.format(dest, lang))
 
                 file_dep = [p for p in post.fragment_deps(lang) if not p.startswith("####MAGIC####")]
                 task = {
@@ -166,7 +176,9 @@ class RenderPostsEpub(Task):
             if epub_name == ".epub":
                 continue
 
-            dest = os.path.join(kw['output_folder'], epub_name)
+            dest = os.path.join(kw['output_folder'], 
+                                self.site.config['TRANSLATIONS'][lang], 
+                                epub_name)
 
             LOGGER.notice('Link epub index {}'.format(dest,))
 
