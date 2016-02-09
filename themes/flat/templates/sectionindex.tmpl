@@ -16,6 +16,9 @@
     <div class="container clearfix">
         <h1>{{ posts[0].section_name() }}</h1>
         <span class="feedlink"><a href="{{ _link('section_index_atom', posts[0].section_slug()) }}" type="application/atom+xml"><i class="icon-rss"></i> {{ messages('RSS feed') }}</a></span>
+        <span class="epublink"><a href="{{ _link('posts_epub', posts[0].section_slug()) }}" type="application/atom+xml"><i class="icon-book"></i> {{ messages('Download epub') }}</a></span>
+
+            
     </div>
 
 </section><!-- #page-title end -->

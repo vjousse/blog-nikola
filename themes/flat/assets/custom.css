@@ -14,3 +14,7 @@ pre.code {
     padding:0;
     margin:0;
 }
+
+.epublink a {
+    color:#C0392B;
+}

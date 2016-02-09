@@ -53,6 +53,7 @@ class RenderPostsEpub(Task):
 
     def set_site(self, site):
         site.register_path_handler("post_epub", self.epub_path)
+        site.register_path_handler("posts_epub", self.posts_epub_path)
         return super(RenderPostsEpub, self).set_site(site)
 
 
@@ -66,6 +67,11 @@ class RenderPostsEpub(Task):
             return self.site.posts
         else:
             return [x for x in self.site.posts if x.is_translation_available(lang)]
+
+    def posts_epub_path(self, section_name, lang):
+        return [_f for _f in [
+            self.site.config['TRANSLATIONS'][lang],
+            section_name + ".epub"] if _f]
 
 
     def epub_path(self, post, lang):
