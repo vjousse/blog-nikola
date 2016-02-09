@@ -26,6 +26,7 @@
 
 """Build HTML fragments from metadata and text."""
 
+from collections import defaultdict
 from copy import copy
 import os
 import re
@@ -53,6 +54,18 @@ class RenderPostsEpub(Task):
     def set_site(self, site):
         site.register_path_handler("post_epub", self.epub_path)
         return super(RenderPostsEpub, self).set_site(site)
+
+
+    def _get_filtered_posts(self, lang, show_untranslated_posts):
+        """Return a filtered list of all posts for the given language.
+
+        If show_untranslated_posts is True, will only include posts which
+        are translated to the given language. Otherwise, returns all posts.
+        """
+        if show_untranslated_posts:
+            return self.site.posts
+        else:
+            return [x for x in self.site.posts if x.is_translation_available(lang)]
 
 
     def epub_path(self, post, lang):
@@ -85,13 +98,18 @@ class RenderPostsEpub(Task):
             'uptodate': [utils.config_changed({1: kw['timeline']})],
         }
 
+        groups = defaultdict(set)
+
         for lang in kw["translations"]:
             deps_dict = copy(kw)
             deps_dict.pop('timeline')
+
             for post in kw['timeline']:
                 if not post.is_translation_available(lang) and not self.site.config['SHOW_UNTRANSLATED_POSTS']:
                     continue
                 # Extra config dependencies picked from config
+                groups[post.section_slug(lang)].add(post)
+
                 for p in post.fragment_deps(lang):
                     if p.startswith('####MAGIC####CONFIG:'):
                         k = p.split('####MAGIC####CONFIG:', 1)[-1]
@@ -110,7 +128,6 @@ class RenderPostsEpub(Task):
                     'file_dep': file_dep,
                     'targets': [dest],
                     'actions': [(epub_utils.make_epubs, ([post], lang, dest, self.site.config['BLOG_AUTHOR'](lang), )),
-                                (update_deps, (post, lang, )),
                                 ],
                     'clean': True,
                     'uptodate': [
@@ -135,6 +152,34 @@ class RenderPostsEpub(Task):
                     else:
                         flist.append(f)
                 yield utils.apply_filters(task, {os.path.splitext(dest)[-1]: flist})
+
+        for section_slug, post_list in groups.items():
+            epub_name = "{}.epub".format(section_slug)
+            post_list = sorted(post_list, key=lambda p: p.date, reverse=True)
+
+            if epub_name == ".epub":
+                continue
+
+            dest = os.path.join(kw['output_folder'], epub_name)
+
+            LOGGER.notice('Link epub index {}'.format(dest,))
+
+            file_dep = [p for p in post.fragment_deps(lang) if not p.startswith("####MAGIC####")]
+            task = {
+                'basename': self.name,
+                'name': dest,
+                'targets': [dest],
+                'actions': [(epub_utils.make_epubs, (post_list, lang, dest, self.site.config['BLOG_AUTHOR'](lang), )),
+                            ],
+                'clean': True,
+                'uptodate': [
+                    utils.config_changed(deps_dict, 'nikola.plugins.task.posts_epub'),
+                    lambda p=post, l=lang: self.dependence_on_timeline(p, l)
+                ] + post.fragment_deps_uptodate(lang),
+                'task_dep': ['render_posts_epub:timeline_changes']
+            }
+
+            yield task
 
     def dependence_on_timeline(self, post, lang):
         """Check if a post depends on the timeline."""
