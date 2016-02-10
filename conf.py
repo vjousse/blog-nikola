@@ -135,7 +135,8 @@ NAVIGATION_LINKS = {
 
     DEFAULT_LANG: (
         ("/", "Accueil"),
-        ("/blog/", "Blog"),
+        ("/blog/", "Articles"),
+        ("/tech/", "Tech"),
         ("/à-propos/", "À propos"),
         ("http://vimebook.com/fr", "Vim pour les humains "),
     ),
@@ -276,7 +277,7 @@ COMPILERS = {
 # If this is set to False, then posts that are not translated to a language
 # LANG will not be visible at all in the pages in that language.
 # Formerly known as HIDE_UNTRANSLATED_POSTS (inverse)
-# SHOW_UNTRANSLATED_POSTS = True
+SHOW_UNTRANSLATED_POSTS = True
 
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
@@ -333,6 +334,7 @@ POSTS_SECTION_NAME = {
    },
    'fr': {
        'tech': 'Blog technique',
+       'blog': 'Articles',
     }
 }
 

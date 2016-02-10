@@ -117,7 +117,7 @@ class RenderPostsEpub(Task):
                 if not post.is_translation_available(lang) and not self.site.config['SHOW_UNTRANSLATED_POSTS']:
                     continue
                 # Extra config dependencies picked from config
-                groups[post.section_slug(lang)].add(post)
+                groups[(lang, post.section_slug(lang))].add(post)
 
                 for p in post.fragment_deps(lang):
                     if p.startswith('####MAGIC####CONFIG:'):
@@ -126,7 +126,7 @@ class RenderPostsEpub(Task):
 
                 dest = post.translated_base_path(lang)
                 #LOGGER.notice('Dest 1 {}'.format(dest))
-                LOGGER.notice('Dest 2 {}'.format(post.translated_source_path(lang)))
+                #LOGGER.notice('Dest 2 {}'.format(post.translated_source_path(lang)))
                 dest = re.sub('html$', 'epub', dest)
 
                 if lang  is not kw['default_lang']:
@@ -170,7 +170,8 @@ class RenderPostsEpub(Task):
                 yield utils.apply_filters(task, {os.path.splitext(dest)[-1]: flist})
 
         for section_slug, post_list in groups.items():
-            epub_name = "{}.epub".format(section_slug)
+            lang, slug = section_slug
+            epub_name = "{}.epub".format(slug)
             post_list = sorted(post_list, key=lambda p: p.date, reverse=True)
 
             if epub_name == ".epub":
@@ -179,8 +180,6 @@ class RenderPostsEpub(Task):
             dest = os.path.join(kw['output_folder'], 
                                 self.site.config['TRANSLATIONS'][lang], 
                                 epub_name)
-
-            LOGGER.notice('Link epub index {}'.format(dest,))
 
             file_dep = [p for p in post.fragment_deps(lang) if not p.startswith("####MAGIC####")]
             task = {
