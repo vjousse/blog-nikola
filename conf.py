@@ -135,7 +135,7 @@ NAVIGATION_LINKS = {
 
     DEFAULT_LANG: (
         ("/", "Accueil"),
-        ("/blog/", "Articles"),
+        ("/blog/", "Blog"),
         ("/tech/", "Tech"),
         ("/à-propos/", "À propos"),
         ("http://vimebook.com/fr", "Vim pour les humains "),
