@@ -83,15 +83,18 @@ lang="{{ lang }}">
             <script src="/assets/js/jquery.js"></script>
         {% endif %}
         <script src="/assets/js/plugins.js"></script>
-    {% endif %}
-    {% if colorbox_locales[lang] %}
-        <script src="/assets/js/colorbox-i18n/jquery.colorbox-{{ colorbox_locales[lang] }}.js"></script>
+
+        {% if colorbox_locales[lang] %}
+            <script src="/assets/js/colorbox-i18n/jquery.colorbox-{{ colorbox_locales[lang] }}.js"></script>
+        {% endif %}
     {% endif %}
     {{ social_buttons_code }}
 {% endmacro %}
 
 
 {% macro html_stylesheets() %}
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+                <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     {% if use_bundles %}
         {% if use_cdn %}
             <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
@@ -107,11 +110,6 @@ lang="{{ lang }}">
             <link href="/assets/css/bootstrap.css" rel="stylesheet">
         {% endif %}
 
-
-        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-        <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-
-        <link href="/assets/css/bootstrap.css" rel="stylesheet">
         <link href="/assets/style.css" rel="stylesheet">
         <link href="/assets/custom.css" rel="stylesheet">
         <link href="/assets/css/flag-icon.min.css" rel="stylesheet">
