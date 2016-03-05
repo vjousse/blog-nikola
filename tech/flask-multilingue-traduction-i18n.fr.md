@@ -2,7 +2,7 @@
 .. title: Site multilingue avec python, Flask et Babel
 .. slug: flask-multilingue-traduction-i18n-babel-python
 .. date: 2016-03-05 22:49:20 UTC+02:00
-.. tags: flask, python, babel, i18n, private
+.. tags: flask, python, babel, i18n
 .. category: 
 .. link: 
 .. description: 
