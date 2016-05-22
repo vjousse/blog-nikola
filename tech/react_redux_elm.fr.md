@@ -1,6 +1,6 @@
 <!-- 
 .. title: Elm lang, le prochain react/redux/angularjs ?
-.. slug: trust-the-htype
+.. slug: elm-lang-prochain-react-redux-angular
 .. date: 2016-05-18 20:39:20 UTC+02:00
 .. tags: functional programming, javascript, elm
 .. category: 
