@@ -86,8 +86,6 @@
 	============================================= -->
 
 {{ base.late_load_js() }}
-	<script type="text/javascript" src="/assets/js/functions.js"></script>
-    <!-- end fancy dates -->
     {% block extra_js %}{% endblock %}
     {% if annotations and post and not post.meta('noannotations') %}
         {{ notes.code() }}
@@ -96,5 +94,24 @@
     {% endif %}
 {{ body_end }}
 {{ template_hooks['body_end']() }}
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.viserlalune.com","*.jousse.org"]]);
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.viserlalune.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//stats.viserlalune.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
 </body>
 </html>

@@ -135,7 +135,7 @@ NAVIGATION_LINKS = {
 
     DEFAULT_LANG: (
         ("/", "Accueil"),
-        ("/blog/", "Articles"),
+        ("/blog/", "Blog"),
         ("/tech/", "Tech"),
         ("/à-propos/", "À propos"),
         ("http://vimebook.com/fr", "Vim pour les humains "),
@@ -975,7 +975,7 @@ INDEX_DISPLAY_POST_COUNT = 20
 # RSS_TEASER option. RSS_LINKS_APPEND_QUERY is also respected. Atom feeds
 # are generated even for old indexes and have pagination link relations
 # between each other. Old Atom feeds with no changes are marked as archived.
-# GENERATE_ATOM = False
+GENERATE_ATOM = True
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
@@ -1100,10 +1100,10 @@ UNSLUGIFY_TITLES = True
 # If webassets is installed, bundle JS and CSS into single files to make
 # site loading faster in a HTTP/1.1 environment but is not recommended for
 # HTTP/2.0 when caching is used. Defaults to True.
-USE_BUNDLES = False
+USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
-# DISABLED_PLUGINS = ["render_galleries"]
+DISABLED_PLUGINS = ["render_galleries"]
 
 # Add the absolute paths to directories containing plugins to use them.
 # For example, the `plugins` directory of your clone of the Nikola plugins
