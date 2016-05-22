@@ -42,7 +42,7 @@ Elm est un langage de programmation fonctionnel (fonctions pures sans état) sta
 
 Elm a plein d'avantages :
 
-1. Par défaut, il force l'architecture vue plus haut avec React/Redux/Immtuble.js.
+1. Par défaut, il force l'architecture vue plus haut avec React/Redux/Immutable.js.
 2. Il dispose d'un compilateur convivial (oui c'est possible) qui affiche des conseils en plus des erreurs.
 3. Quand ça compile, ça marche. Plus de "undefined is not a function" au runtime.
 4. Le système de type et le compilateur permettent de refactorer sereinement. Besoin de moins de tests, et confiance dans le compilateur pour nous dire où on a fait une bêtise.
