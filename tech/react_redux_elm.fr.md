@@ -40,7 +40,7 @@ C'est alors que je me suis rappelé ce dont mes chers amis Twitteriens m'avaient
 
 Elm est un langage de programmation fonctionnel (fonctions pures sans état) statiquement typé (un compilateur qui vous dit avant où sont vos erreurs) pensé pour le frontend et les interfaces graphiques (HTML/CSS, SVG, …). Vous pouvez programmer votre interface entrièrement en Elm, ou alors la connecter avec du Javascript plus classique via un système de ports (qu'on peut voir comme du « Javascript as a service » lorsqu'on fait du Elm).
 
-Elm a plein d'avantages :
+Elm a plein d'__avantages__ :
 
 1. Par défaut, il force l'architecture vue plus haut avec React/Redux/Immutable.js.
 2. Il dispose d'un compilateur convivial (oui c'est possible) qui affiche des conseils en plus des erreurs.
@@ -49,7 +49,7 @@ Elm a plein d'avantages :
 5. Il est n00b friendly. C'est une des volontés du développeur principal : rendre [la programmation fonctionnelle « Mainstream »](http://www.elmbark.com/2016/03/16/mainstream-elm-user-focused-design). Et ça, c'est un gros plus.
 6. Il s'interface avec Javascript sans sacrifier ce qui fait de lui un bon langage (immuabilité, fonctions sans état, …)
 
-Il a aussi des défauts :
+Il a aussi des __défauts__ :
 
 1. L'écosystème est encore petit. Il faut souvent s'interfacer avec du javascript alors qu'on aimerait bien tout faire en Elm.
 2. Il est purement fonctionnel, il peut donc dérouter ceux qui viennent d'un langage plus impératif (comme javascript).
@@ -57,8 +57,8 @@ Il a aussi des défauts :
 
 ## Mon avis
 
-J'ai beaucoup été attiré par les langages fonctionnels ces dernières années, mais je n'ai encore jamais réussi à en utiliser un pour de vrai dans mes développements quotidiens. Il y avait souvent trop de contraintes : système de type trop contraignant, équipe réfractaire à la programmation fonctionnelle, langages et communautés d'« élites » pour des « élites ».
+J'ai beaucoup été attiré par les langages fonctionnels ces dernières années, mais je n'ai encore jamais réussi à en utiliser un pour de vrai dans mes développements quotidiens. Il y avait souvent trop de contraintes : système de type trop contraignant, équipe réfractaire à la programmation fonctionnelle, langages et communautés d'__« élites » pour des « élites »__.
 
-Avec Elm, c'est différent. J'ai l'impression que la communauté a compris ces soucis et que son but, c'est d'en faire un langage accessible et utile. Tirer partie des meilleures parties des langages fonctionnels sans amener tout ce dont on se passerait bien.
+Avec Elm, c'est différent. J'ai l'impression que la communauté a compris ces soucis et que son but, c'est d'en faire __un langage accessible et utile__. Tirer partie des meilleures parties des langages fonctionnels sans amener tout ce dont on se passerait bien.
 
-Avec le changement de mentalité qui se fait dans le monde javascript vers un peu plus de fonctionnel (immuabilité, React/Redux, ES6, …) et Elm qui fait tout pour être attirant, j'ai envie de croire qu'Elm peut être « the next big thing » … enfin, jusqu'à la prochaine :-)
+Avec le changement de mentalité qui se fait dans le monde javascript vers un peu plus de fonctionnel (immuabilité, React/Redux, ES6, …) et Elm qui fait tout pour être attirant, __j'ai envie de croire qu'Elm peut être « the next big thing »__ … enfin, jusqu'à la prochaine :-)
