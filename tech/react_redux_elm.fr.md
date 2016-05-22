@@ -15,19 +15,19 @@ Dans le monde du développement frontend, il y a une nouvelle techno tous les jo
 
 Un consensus semblait se former autour de React+Redux avec webpack pour la boîte à outils et [Immutable.js]() pour les structures de données immuables. Cool, j'avais mon point de départ. J'ai alors suivi deux tutos : [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) et [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) dont le premier s'inspirait.
 
-Ce qui m'a principalement séduit dans tout ça, c'est la nouvelle architecture que la communauté autour de ces outils/frameworks promeut. C'est à dire :
+Ce qui m'a principalement séduit dans tout ça, c'est la __nouvelle architecture__ que la communauté autour de ces outils/frameworks promeut. C'est à dire :
 
-1. Les composants de l'interface ne font qu'afficher. Aucun état (ou quasi pas) interne au composant. Les composants sont déclaratifs.
-2. L'état de l'application est représenté dans un arbre (state tree). Pour passer d'un état à un autre, on applique une fonction sur cet arbre qui nous donne un nouvel arbre (on ne mute pas l'ancien).
-3. Les composants ne font que refléter l'état immuable de l'arbre à l'instant T.
-4. Les fonctions sans état (pures) et les données immuables sont encouragées (on commence enfin à se rendre compte que raisonner sur des objets qui ont des états internes est très compliqué).
+1. Les composants de l'interface __ne font qu'afficher__. Aucun état (ou quasi pas) interne au composant. Les composants sont déclaratifs.
+2. L'état de l'application est __représenté dans un arbre__ (state tree). Pour passer d'un état à un autre, on applique une fonction sur cet arbre qui nous donne un nouvel arbre (on ne mute pas l'ancien).
+3. Les composants ne font que __refléter l'état immuable__ de l'arbre à l'instant T.
+4. Les __fonctions sans état (pures)__ et les __données immuables__ sont encouragées (on commence enfin à se rendre compte que raisonner sur des objets qui ont des états internes est très compliqué).
 
 Pourquoi c'est sexy ça ? Parce qu'enfin on peut :
 
-1. Tester les composants d'affichage simplement. On leur donne juste le sous-ensemble de l'arbre qui les concerne et on voit comment ils se comportent.
-2. Facilement débugger le code qui gère le rendu. On connait l'état de l'arbre à chaque interaction, et les composants ne font que refléter cet état. Isoler les soucis est alors plus facile. Pas d'état caché à l'intérieur d'un composant.
-3. Tester nos fonctions simplement. Beaucoup moins de choses à mocker/simuler, l'approche fonctionnelle de tout ça permet de n'agir que sur les entrées des fonctions pour tester leur résultat.
-4. Facilement réutiliser des composants : ils ne dépendent d'aucune business logic, juste des données passées en paramètre.
+1. __Tester les composants d'affichage simplement__. On leur donne juste le sous-ensemble de l'arbre qui les concerne et on voit comment ils se comportent.
+2. __Facilement débugger le code__ qui gère le rendu. On connait l'état de l'arbre à chaque interaction, et les composants ne font que refléter cet état. Isoler les soucis est alors plus facile. Pas d'état caché à l'intérieur d'un composant.
+3. __Tester nos fonctions simplement__. Beaucoup moins de choses à mocker/simuler, l'approche fonctionnelle de tout ça permet de n'agir que sur les entrées des fonctions pour tester leur résultat.
+4. __Facilement réutiliser des composants__ : ils ne dépendent d'aucune business logic, juste des données passées en paramètre.
 
 Comme diraient mes chers coworkers : trop de swag ! Mais quelque chose continuait de me chiffoner : javascript.
 
@@ -36,7 +36,7 @@ Zut, j'avais trouvé une architecture qui me plaisait (React/Redux/Immutable.js)
 
 ## Elm : les bons concepts, la petite communauté et le bon langage
 
-C'est alors que je me suis rappelé ce dont mes chers amis Twitteriens m'avaient parlé auparavant : [Elm](). Elm c'est React/Redux/Immutable.js mais avec un langage pensé pour.
+C'est alors que je me suis rappelé ce dont mes chers amis Twitteriens m'avaient parlé auparavant : [Elm](http://elm-lang.org/). Elm c'est React/Redux/Immutable.js mais avec un langage pensé pour.
 
 Elm est un langage de programmation fonctionnel (fonctions pures sans état) statiquement typé (un compilateur qui vous dit avant où sont vos erreurs) pensé pour le frontend et les interfaces graphiques (HTML/CSS, SVG, …). Vous pouvez programmer votre interface entrièrement en Elm, ou alors la connecter avec du Javascript plus classique via un système de ports (qu'on peut voir comme du « Javascript as a service » lorsqu'on fait du Elm).
 
@@ -46,7 +46,7 @@ Elm a plein d'avantages :
 2. Il dispose d'un compilateur convivial (oui c'est possible) qui affiche des conseils en plus des erreurs.
 3. Quand ça compile, ça marche. Plus de "undefined is not a function" au runtime.
 4. Le système de type et le compilateur permettent de refactorer sereinement. Besoin de moins de tests, et confiance dans le compilateur pour nous dire où on a fait une bêtise.
-5. Il est n00b friendly. C'est une des volontés du développeur principal : rendre [la programmation fonctionnelle « Mainstream »](TODO). Et ça, c'est un gros plus.
+5. Il est n00b friendly. C'est une des volontés du développeur principal : rendre [la programmation fonctionnelle « Mainstream »](http://www.elmbark.com/2016/03/16/mainstream-elm-user-focused-design). Et ça, c'est un gros plus.
 6. Il s'interface avec Javascript sans sacrifier ce qui fait de lui un bon langage (immuabilité, fonctions sans état, …)
 
 Il a aussi des défauts :
