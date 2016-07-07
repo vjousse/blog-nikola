@@ -30,7 +30,13 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo" class="nobottomborder text-center" style="height: 70px;">
-					<a href="/">Vince's</a>
+
+                    {% if lang == 'fr' %}
+                        <a href="/">
+                    {% else %}
+                        <a href="/en">
+                    {% endif %}
+					Vince's</a>
 					</div><!-- #logo end -->
 
 					<!-- Primary Navigation
