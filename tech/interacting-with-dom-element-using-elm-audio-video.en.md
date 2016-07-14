@@ -13,14 +13,26 @@ So, you want to write some [Elm](http://elm-lang.org/) code because you're a Hip
 
 <!-- TEASER_END -->
 
-# Preamble
+## Preamble
 
 The goal of the [@elm-lang organization](https://github.com/elm-lang) is to cover the entire [webplatform](https://platform.html5.org/) as described in [this blog post](http://elm-lang.org/blog/farewell-to-frp#what-is-next-). But in the meantine, how should we interact with basic elements such as the Audio element?  
-We could do everything using [JS ports](http://guide.elm-lang.org/interop/javascript.html). But as we want to stay in the Elm world as much as we can, we will _read_ the values of the element using __DOM events__ inside Elm. Unfortunately, for _writing_ values (calling functions and/or updating an element property) we have no choice but using __JavaScript port interop__.
+We could do everything using [JS ports](http://guide.elm-lang.org/interop/javascript.html). But as we want to stay in the Elm world as much as we can, we will _read_ the values of the element using __DOM events__ inside Elm. Unfortunately, for _writing/mutating_ values (calling functions and/or updating a DOM element property) we have no choice but using __JavaScript port interop__.
 
 _Note_: Another alternative would be writing [Native modules](https://github.com/elm-lang/core/tree/master/src/Native) to wrap the missing parts into some Elm greatness. But as doing so should be avoided (Native is subject to change and is not documented), this will not be covered here.
 
+# Basic example
+
 ## Reading element values: DOM events
+
+We will take the [`<audio />` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio) as an example for this blog post, but keep in mind that the techniques described here apply to every DOM element.
+
+Let's start with a minimal Elm program:
+
+```Elm
+
+```
 
 
 ## Calling functions : Javascript ports
+
+# Advanced example: components

@@ -59,3 +59,4 @@ cache/
 output/
 
 *.db
+elm-stuff/
