@@ -2,6 +2,9 @@ pre.code {
     font-family: 'Inconsolata';
     font-size: 14px;
 }
+.entry-content pre.code .err {
+    border: none;
+}
 
 .posttranslations ul{
     display: inline-block;

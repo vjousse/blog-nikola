@@ -3,8 +3,6 @@ module Main exposing (..)
 import Html exposing (Attribute, Html, audio, div, text)
 import Html.Attributes exposing (class, controls, type', src)
 import Html.App as App
-import Html.Events exposing (on)
-import Json.Decode as Json
 import Debug
 
 
@@ -24,7 +22,6 @@ main =
 type alias Model =
     { mediaUrl : String
     , mediaType : String
-    , currentTime : Float
     }
 
 
@@ -34,7 +31,6 @@ type alias Model =
 
 type Msg
     = NoOp
-    | TimeUpdate Float
 
 
 
@@ -45,7 +41,6 @@ init : ( Model, Cmd Msg )
 init =
     { mediaUrl = "http://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg"
     , mediaType = "audio/ogg"
-    , currentTime = 0.0
     }
         ! []
 
@@ -57,29 +52,8 @@ init =
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
     case msg of
-        TimeUpdate time ->
-            ( { model | currentTime = time }, Cmd.none )
-
         _ ->
             Debug.log "Unknown message" ( model, Cmd.none )
-
-
-
--- Custom event handler
-
-
-onTimeUpdate : (Float -> msg) -> Attribute msg
-onTimeUpdate msg =
-    on "timeupdate" (Json.map msg targetCurrentTime)
-
-
-
--- A `Json.Decoder` for grabbing `event.target.currentTime`.
-
-
-targetCurrentTime : Json.Decoder Float
-targetCurrentTime =
-    Json.at [ "target", "currentTime" ] Json.float
 
 
 
@@ -102,8 +76,6 @@ view model =
             [ src model.mediaUrl
             , type' model.mediaType
             , controls True
-            , onTimeUpdate TimeUpdate
             ]
             []
-        , div [] [ text (toString model.currentTime) ]
         ]
