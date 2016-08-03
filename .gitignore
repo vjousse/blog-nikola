@@ -60,4 +60,4 @@ output/
 
 *.db
 elm-stuff/
-code/elm-audio/elm.js
+elm.js
