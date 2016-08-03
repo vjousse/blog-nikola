@@ -1,9 +1,9 @@
-port module Main exposing (..)
+module Main exposing (..)
 
-import Html exposing (Attribute, Html, audio, div, text, button)
-import Html.Attributes exposing (class, controls, type', src, id)
+import Html exposing (Attribute, Html, audio, div, text)
+import Html.Attributes exposing (class, controls, type', src)
 import Html.App as App
-import Html.Events exposing (on, onClick)
+import Html.Events exposing (on)
 import Json.Decode as Json
 import Debug
 
@@ -35,7 +35,6 @@ type alias Model =
 type Msg
     = NoOp
     | TimeUpdate Float
-    | SetPlayerTime Float
 
 
 
@@ -60,9 +59,6 @@ update msg model =
     case msg of
         TimeUpdate time ->
             ( { model | currentTime = time }, Cmd.none )
-
-        SetPlayerTime newTime ->
-            ( model, setCurrentTime newTime )
 
         _ ->
             Debug.log "Unknown message" ( model, Cmd.none )
@@ -96,13 +92,6 @@ subscriptions model =
 
 
 
--- PORT
-
-
-port setCurrentTime : Float -> Cmd msg
-
-
-
 -- VIEW
 
 
@@ -111,12 +100,10 @@ view model =
     div [ class "elm-audio-player" ]
         [ audio
             [ src model.mediaUrl
-            , id "audio-player"
             , type' model.mediaType
             , controls True
             , onTimeUpdate TimeUpdate
             ]
             []
         , div [] [ text (toString model.currentTime) ]
-        , button [ onClick (SetPlayerTime 2.0) ] [ text "Set current time to 2s" ]
         ]
