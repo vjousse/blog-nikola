@@ -32,7 +32,9 @@ We will take the [`<audio />` tag](https://developer.mozilla.org/en-US/docs/Web/
 
 Let's start with a minimal Elm program:
 
-`Main.elm`
+`Main.elm` [(view code)](https://github.com/vjousse/blog-nikola/blob/master/code/elm-audio/skeleton/Main.elm) 
+
+
 ```Elm
 module Main exposing (..)
 
@@ -106,6 +108,7 @@ Compile it using:
 Open the generated `index.html` in your browser. You should see the default audio player of your browser showing up.
 
 ### Reading the currentTime property
+
 
 Let's say that we want to display the `currentTime` property of the audio element just below it. Let's add it to the model as a `Float`:
 
@@ -226,6 +229,8 @@ view model =
 
 Now, compile your file and you should see the `currentTime` value updating when you play the file.
 
+View the code of the resulting `Main.elm` [on github.](https://github.com/vjousse/blog-nikola/blob/master/code/elm-audio/reading-values/Main.elm) 
+
 ## Calling functions : Javascript ports
 
 Now that we can read values coming from DOM elements, let's interact with the DOM elements from Elm. As I said in the preamble, the goal of Elm is to cover all the Web Platform. But in the meantime, we need to use javascript ports to communicate with elements not covered by pure Elm.
@@ -309,7 +314,10 @@ This `setCurrentTime` function is actually a port, that we need to define somewh
 port setCurrentTime : Float -> Cmd msg
 ```
 
-This port is used to send information on the Javascript side. In our case, it will tell javascript that we want to set the current time of the player to some `Float` value. We will of course need to implement this behaviour on the JS side. Let do that now.
+This port is used to send information on the Javascript side. In our case, it will tell javascript that we want to set the current time of the player to some `Float` value. We will of course need to implement this behaviour on the JS side. Let's do that now.
+
+View the code of the resulting `Main.elm` [on github.](https://github.com/vjousse/blog-nikola/blob/master/code/elm-audio/ports/Main.elm) 
+
 
 ### Javascript side
 
@@ -348,14 +356,19 @@ Then we are using the special `setCurrentTime.subscribe` function created by our
 
 Open the `index.html` in your browser, and you should be able to force the current time to 2s using our newly created button.
 
+View the code of the resulting `index.html` [on github.](https://github.com/vjousse/blog-nikola/blob/master/code/elm-audio/ports/index.html) 
+
+
 # Example using components
 
 I'm always frustrated with blog posts (like this one) giving simple examples, but without showing how to integrate it in a *more complex application*. So I took the time to integrate the above code using child/parent components and the elm architecture.
 
-I will not discuss the child/parent communication because [other people like Brian Hicks are already doing it very well](https://www.brianthicks.com/post/2016/06/23/candy-and-allowances-parent-child-communication-in-elm/). I will just give you the link to the code so that you can play with it by yourself : [code example github]().
+I will not discuss the child/parent communication because [other people like Brian Hicks are already doing it very well](https://www.brianthicks.com/post/2016/06/23/candy-and-allowances-parent-child-communication-in-elm/). I will just give you the link to the code so that you can play with it by yourself : [code example on github](https://github.com/vjousse/blog-nikola/tree/master/code/elm-audio/ports-elm-arch).
 
 # Wrapping Up
 
-Citing @debois medium post about DOM manipulation
+We just saw how to communicate with an HTML audio tag using Elm and javascript ports. This technique can of course be applied to every DOM element. You will find a [nice article by Søren Debois](https://medium.com/@debois/elm-the-dom-8c9883190d20#.mcmenrms8) explaining how he is using it to get the dimensions of DOM elements on the page.
 
-@TODO: Adding code sample for every step.
+Of course if you have any question, feel free to ping me on Twitter [@vjousse](http://twitter.com/vjousse) or directly on the Elm slack channel.
+
+Have a nice day!
