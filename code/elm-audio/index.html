@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Main</title>
+    </head>
+    <body>
+        <div id="elm"></div>
+        <script src="elm.js"></script>
+        <script>
+        var node = document.getElementById('elm');
+        var app = Elm.Main.embed(node);
+        app.ports.setCurrentTime.subscribe(function(time) {
+            var audio = document.getElementById('audio-player');
+            audio.currentTime = time;
+        });
+        </script>
+
+    </body>
+</html>
+
