@@ -19,11 +19,11 @@
 
 <p></p><h2>Et maintenant, que vais-je faire ? (© Gilbert Bécaud)</h2><p></p>
 
-<p></p><p>C'est la question que l'on n'arrête pas de me poser. Et personnellement je pense que la question est mal posée. Peu importe ce que l'on fait, ce qui importe c'est ce que l'on est. Je suis intimement convaincu que si l'on aligne ses actions avec qui l'on souhaite être, on finira par trouver un moyen d'en vivre. Vous pouvez d'ailleurs lire l'article <a href="http://vincent.jousse.org/le-courage-de-vivre-consciemment-steve-pavlina/">« Le courage de vivre consciemment »</a> pour plus d'information là dessus.</p><p></p>
+<p></p><p>C'est la question que l'on n'arrête pas de me poser. Et personnellement je pense que la question est mal posée. Peu importe ce que l'on fait, ce qui importe c'est ce que l'on est. Je suis intimement convaincu que si l'on aligne ses actions avec qui l'on souhaite être, on finira par trouver un moyen d'en vivre. Vous pouvez d'ailleurs lire l'article <a href="http://vincent.jousse.org/blog/le-courage-de-vivre-consciemment-steve-pavlina/">« Le courage de vivre consciemment »</a> pour plus d'information là dessus.</p><p></p>
 
 <p></p><p>Au lieu de faire ce que j'ai toujours fait jusqu'ici, c'est à dire trouver quelque chose d'autre à faire avant de quitter un emploi sans me laisser le temps de souffler, j'ai décidé de faire l'inverse. J'ai décidé de trouver qui je voulais être d'abord, d'aligner ma vie avec mes valeurs et d'ensuite agir en fonction de cela.</p><p></p>
 
-<p></p><p>Reste à trouver comment gagner de l'argent maintenant, un détail qui, il est vrai, peut avoir son importance quand l'on a une famille avec trois enfants à nourrir. Je vais essayer de me constituer mon propre <a href="http://vincent.jousse.org/revenu-de-base-on-manque-enfin-de-travail/">« Revenu de base »</a> tout en faisant de consulting et/ou des conférences à côté. Je vous tiendrai au courant si ça marche, et si oui, comment je m'y suis pris ;)</p><p></p>
+<p></p><p>Reste à trouver comment gagner de l'argent maintenant, un détail qui, il est vrai, peut avoir son importance quand l'on a une famille avec trois enfants à nourrir. Je vais essayer de me constituer mon propre <a href="http://vincent.jousse.org/blog/revenu-de-base-on-manque-enfin-de-travail/">« Revenu de base »</a> tout en faisant de consulting et/ou des conférences à côté. Je vous tiendrai au courant si ça marche, et si oui, comment je m'y suis pris ;)</p><p></p>
 
 <p></p><h2>Mes valeurs</h2><p></p>
 
