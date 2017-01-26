@@ -1,14 +1,13 @@
 port module Main exposing (..)
 
 import Html exposing (div, h1, text, Html)
-import Html.App as App
 import AudioPlayer exposing (Msg(..))
 import Controls
 import Debug
 
 
 main =
-    App.program
+    Html.program
         { init = init
         , view = view
         , update = update
@@ -66,19 +65,19 @@ init =
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
     case msg of
-        MsgAudioPlayer msg' ->
+        MsgAudioPlayer msg_ ->
             let
                 ( audioPlayerModel, audioPlayerCmds ) =
-                    AudioPlayer.update msg' model.audioPlayer
+                    AudioPlayer.update msg_ model.audioPlayer
             in
                 ( { model | audioPlayer = audioPlayerModel }
                 , Cmd.map MsgAudioPlayer audioPlayerCmds
                 )
 
-        MsgControls msg' ->
+        MsgControls msg_ ->
             let
                 ( controlsModel, controlsCmds ) =
-                    Controls.update msg' model.controls
+                    Controls.update msg_ model.controls
             in
                 ( { model | controls = controlsModel }
                 , Cmd.map MsgControls controlsCmds
@@ -105,6 +104,6 @@ view : Model -> Html Msg
 view model =
     div []
         [ h1 [] [ text "Audio player" ]
-        , App.map MsgAudioPlayer (AudioPlayer.view model.audioPlayer)
-        , App.map MsgControls (Controls.view model.controls)
+        , Html.map MsgAudioPlayer (AudioPlayer.view model.audioPlayer)
+        , Html.map MsgControls (Controls.view model.controls)
         ]

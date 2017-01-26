@@ -1,9 +1,9 @@
 module AudioPlayer exposing (Model, Msg(..), init, update, view, subscriptions)
 
 import Html exposing (audio, button, div, h2, text, Attribute, Html)
-import Html.Attributes exposing (class, controls, id, type', src)
+import Html.Attributes exposing (class, controls, id, type_, src)
 import Html.Events exposing (on, onClick)
-import Json.Decode as Json exposing ((:=))
+import Json.Decode as Json exposing (Decoder, succeed, map, at, float)
 import Debug
 import Ports
 
@@ -121,7 +121,7 @@ view model =
         [ div [ class "elm-audio-player" ]
             [ audio
                 [ src model.mediaUrl
-                , type' model.mediaType
+                , type_ model.mediaType
                 , controls model.controls
                 , onTimeUpdate TimeUpdate
                 , onPause Paused
