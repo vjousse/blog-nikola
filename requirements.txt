@@ -55,3 +55,4 @@ webassets==0.11.1
 wheel==0.24.0
 ws4py==0.3.4
 Yapsy==1.11.223
+-e git+git@github.com:aerkalov/ebooklib.git@master#egg=ebooklib-master
