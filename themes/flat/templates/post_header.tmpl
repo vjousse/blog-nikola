@@ -69,6 +69,9 @@
             {% if not post.meta('nocomments') and site_has_comments %}
                 <li><i class="icon-comments"></i> {{ comments.comment_link(post.permalink(), post._base_path) }}</li>
             {% endif %}
+            <li>
+                <i class="icon-cc"></i> <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">License CC-BY</a>
+            </li>
 
             {{ html_translations(post) }}
         </ul><!-- .entry-meta end -->
