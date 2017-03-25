@@ -25,3 +25,11 @@ pre.code {
 .testi-content p {
     font-size: 15px;
 }
+
+.single-post .entry-title {
+    padding-bottom: 40px;
+}
+
+#page-title span.feedlink,  #page-title span.epublink {
+    display: inline;
+}

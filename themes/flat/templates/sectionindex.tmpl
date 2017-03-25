@@ -11,16 +11,15 @@
 {% block content %}
 <!-- Page Title
 ============================================= -->
-<section id="page-title" class="page-title-right">
+<section id="page-title">
 
-    <div class="container clearfix">
-        <h1>{{ posts[0].section_name() }}</h1>
-        <span class="feedlink"><a type="application/rss+xml" title="RSS" href="{{ _link('rss', None) }}"><i class="icon-rss"></i> {{ messages('RSS feed') }}</a></span>
-        
-        <span class="epublink"><a href="{{ _link('posts_epub', posts[0].section_slug()) }}"><i class="icon-book"></i> {{ messages('Download epub') }}</a></span>
-
-            
-    </div>
+		<div class="container clearfix">
+				<h1>{{ posts[0].section_name() }}</h1>
+				<ol class="breadcrumb">
+					<li><span class="feedlink"><a type="application/rss+xml" title="RSS" href="{{ _link('rss', None) }}"><i class="icon-rss"></i> {{ messages('RSS feed') }}</a></span></li>
+					<li><span class="epublink"><a href="{{ _link('posts_epub', posts[0].section_slug()) }}"><i class="icon-book"></i> {{ messages('Download epub') }}</a></span></li>
+				</ol>
+			</div>
 
 </section><!-- #page-title end -->
 <div class="sectionindex">

@@ -8,7 +8,7 @@
 {% endblock %}
 {{ template_hooks['extra_head']() }}
 </head>
-<body class="stretched side-header no-transition">
+<body class="no-transition">
 <a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
 
 
@@ -29,7 +29,7 @@
 
 					<!-- Logo
 					============================================= -->
-					<div id="logo" class="nobottomborder text-center" style="height: 70px;">
+					<div id="logo" class="nobottomborder text-center" style="height: 100px; line-height:100px;">
 
                     {% if lang == 'fr' %}
                         <a href="/">
@@ -53,6 +53,7 @@
 					    </ul>
 					</nav><!-- #primary-menu end -->
 
+<!--
 					<div class="clearfix visible-md visible-lg">
 						<a href="http://twitter.com/vjousse" class="social-icon si-small si-borderless si-twitter">
 							<i class="icon-twitter"></i>
@@ -69,6 +70,7 @@
 							<i class="icon-rss"></i>
 						</a>
 					</div>
+-->
 
 				</div>
 
