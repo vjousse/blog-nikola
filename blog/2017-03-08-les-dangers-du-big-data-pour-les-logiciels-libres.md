@@ -25,7 +25,7 @@ Rien de ce que l'on connait aujourd'hui n'aurait été possible sans le logiciel
 
 Mais qu'est-ce qu'un logiciel libre au juste ? C'est beaucoup de choses à la fois (notamment un logiciel que l'on peut librement modifier et dupliquer), mais de mon point de vue, c'est surtout une vision du monde : __croire que l'avenir se construit en partageant plutôt qu'en gardant pour soi__.
 
-J'aime cette vision du monde. J'aime me dire qu'__un jour chaque personne, chaque entreprise, aura plutôt intérêt à partager qu'à garder pour soi__. Notre modèle capitaliste actuel va totalement à l'encontre de ça, mais le logiciel libre est un exemple concrêt que c'est quelque chose de réalisable.
+J'aime cette vision du monde. J'aime me dire qu'__un jour chaque personne, chaque entreprise, aura plutôt intérêt à partager qu'à garder pour soi__. Notre modèle capitaliste actuel va totalement à l'encontre de ça, mais le logiciel libre est un exemple concret que ce n'est pas irréalisable.
 
 ## Le big data et l'apprentissage artificel
 
@@ -33,11 +33,17 @@ Vous allez me dire, que vient faire le big data ici ? Jusqu'ici, la __valeur ajo
 
 Ce type de logiciel dont toute la valeur ajoutée (ou presque) dépend uniquement des lignes de code tapées par le développeur se prête très bien au monde du libre. Il suffit d'__un développeur talentueux__ pour initier un projet et il est ensuite assez aisé de __contribuer à plusieurs__ à distance sur ce même logiciel.
 
-Ces dernières années, une __nouvelle vague de logiciels__ est en train de voir le jour. Une partie de la valeur ajoutée du logiciel se situe toujours dans le code source, mais la plus grosse partie se situe maintenant dans les données que traite ce logiciel pour vous fournir ses fonctionnalités. Et c'est là que le bât blesse.
+<div style="text-align:center;">
+    <img alt="Schéma développement logiciel Open-Source" src="/images/schema_dev_opensource.png" />
+</div>
+
+C'est aussi simple que ça.
+
+Mais ces dernières années, une __nouvelle vague de logiciels__ a vu le jour. Une partie de la valeur ajoutée du logiciel se situe toujours dans le code source, mais la plus grosse partie se situe maintenant dans les données que traite ce logiciel pour vous fournir ses fonctionnalités. Et c'est là que le bât blesse.
 
 ## Le monde des données
 
-Une grosse partie des logiciels fonctionnant avec des algorithmes de machine learning ont __besoin de beaucoup données__ pour être appris. Si l'on veut vulgariser un peu, il faut qu'un __humain annote des données manuellement__ pour dire à la machine ce qu'elle devrait trouver à partir de ces données. Pour la transcription de la parole par exemple, il faut fournir au système des centaines d'heures (à minima) d'enregistrements transcrits par des humains pour qu'il puisse apprendre comment produire lui-même ce type de transcription sur des données qu'il n'aura jamais vues.
+Une grosse partie des logiciels fonctionnant sur la base de machine learning ont __besoin de beaucoup données__. Si l'on veut vulgariser un peu, il faut qu'un __humain annote des données manuellement__ pour dire à la machine ce qu'elle devrait trouver à partir de ces données. Pour la transcription de la parole par exemple, il faut fournir au système des centaines d'heures (à minima) d'enregistrements transcrits par des humains pour qu'il puisse apprendre comment produire lui-même ce type de transcription sur des données qu'il n'aura jamais vues.
 
 En fonction du logiciel, ces données peuvent être de plusieurs natures :
 
@@ -52,6 +58,11 @@ En gros, seuls ceux qui peuvent payer ont le droit d'utiliser ces données. Ça 
 
 Mais dans le coup, __on risque d'avoir un sérieux problème non__ ? D'un côté on a des logiciels libres qui __contribuent depuis des décennies au bien commun__ et de l'autre côté __des données indispensables__ pour qu'ils fonctionnent, mais qui ne sont __pas disponibles librement__.
 
+
+<div style="text-align:center;">
+    <img alt="Schéma développement logiciel Open-Source données non libres" src="/images/schema_dev_opensource_donnees.png" />
+</div>
+
 ## Un cas concrêt : reconnaissance de la parole en français
 
 Prenons un cas concrêt que je connais bien de part mon parcours professionnel : la reconnaissance de la parole, et plus particulièrement la __reconnaissance de la parole en français__. Mais le principe est certainement généralisable à d'autres domaines similaires utilisant du « machine learning » et du « big data ».
@@ -62,7 +73,7 @@ Le souci est bien un souci de données. Pour apprendre un tel système, il faut 
 
 Nous pourrions partir du fait qu'avec une communauté open-source bien organisée, nous pourrions transcrire 300H d'audio à la main. Ça représente environ __2000H de travail avec des personnes très compétentes en français__, ce qui n'est quand même pas négligeable.
 
-Quand bien même il serait possible de transcrire ces 300H+ d'audio, il reste un souci : __la propriété des données__. Comme les images que vous trouvez sur internet, les vidéos et les audios que vous trouvez ne sont généralement __pas libres de droit__. Il est donc impossible d'apprendre un système de reconnaissance automatique de la parole avec.
+Quand bien même serait-il possible de transcrire ces 300H+ d'audio, il reste un souci : __la propriété des données__. Comme les images que vous trouvez sur internet, les vidéos et les audios que vous trouvez ne sont généralement __pas libres de droit__. Il est donc impossible d'apprendre un système de reconnaissance automatique de la parole avec.
 
 Exit donc la plupart des vidéos Youtube, des podcast de radio, des émissions de télé. Ça fait qu'il n'en reste pas lourd.
 
@@ -82,4 +93,4 @@ Peut-être contacter tous les laboratoires de recherche francophones des différ
 
 Même si la plupart d'entre nous sont nés dans un monde où le __logiciel libre était quelque chose de normal__, ça n'a pas toujours été le cas, et ça risque de ne plus l'être si l'on n'y prête pas suffisamment attention.
 
-__Intéressé pour en discuter ? N'hésitez pas à me contacter directement sur Twitter [@vjousse](https://twitter.com/vjousse).__
+__Intéressé pour en discuter ? N'hésitez pas à me contacter directement sur Twitter [@vjousse](https://twitter.com/vjousse) ou sur Mastodon [@vjousse](https://mastodon.social/@vjousse).__
