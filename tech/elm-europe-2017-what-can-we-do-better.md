@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Last week, I went to the first Elm only conference ever: Elm Europe 2017 in Paris. At first, I was very excited about it but, in the end, I couldn't help myself but thinking: __we can do better__ next year. Let's discuss why.
+Last week, I went to my first Elm-only conference ever: Elm Europe 2017 in Paris. At first, I was very excited about it but, in the end, I couldn't help myself but thinking: __we can do better__ next year. Let's discuss why.
 
 <!-- TEASER_END -->
 
