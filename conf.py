@@ -24,7 +24,7 @@ BLOG_TITLE = "Vince's"  # (translatable)
 SITE_URL = "http://localhost:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "http://vincent.jousse.org/"
+BASE_URL = "https://vincent.jousse.org/"
 BLOG_EMAIL = "vincent@jousse.org"
 BLOG_DESCRIPTION = "Personal blog of Vincent Jousse"  # (translatable)
 
