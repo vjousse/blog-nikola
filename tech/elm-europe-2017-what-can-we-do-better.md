@@ -42,7 +42,7 @@ Special mention to my favorites talks were (I've missed the last three of day 2)
 - "__Persistent collections: How they work, and when to use them.__": clear explanations (even for non-Elmers) about the force and weaknesses of some datastructure.
 - "__Date manipulation with Elm__": The talk was informative regarding the timezones and was fun :-)
 
-Thibault [@tibastral](http://twitter.com/tibastral) was a __great organizer, and what a showman__ "à la fançaise"! He added a lot of fun to the conference, and it's something that is really important to me.
+Thibault [@tibastral](http://twitter.com/tibastral) was a __great organizer, and what a showman__ "à la française"! He added a lot of fun to the conference, and it's something that is really important to me.
 
 Was it a good conference? For sure! Will I come back next year? Obviously! See you next year ;-)
 
