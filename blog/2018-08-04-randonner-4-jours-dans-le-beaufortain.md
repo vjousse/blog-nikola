@@ -20,7 +20,7 @@ Ahhhh le Beaufort… Un sacré fromage, mais aussi une sacrée région et de sac
 
 ## Matériel
 
-Au niveau des sacs à dos : Sac de 65 litres pour moi ([Baltoro 65 de chez Gregory](https://www.i-trekkings.net/test-outdoor/test-sac-a-dos-gregory-baltoro-65/)), 60 litres pour madame ([Deva 60 de chez Gregory aussi](https://eu.gregorypacks.com/fr-fr/deva-60-s/65033.html)). Ça représentait, avec les 2 kilos d'eau par jour, entre 12kg pour Jess et 14kg pour moi. Très contents de la qualité des sacs, portage très efficace, rien à redire.
+Au niveau des sacs à dos : __sac de 65 litres__ pour moi ([Baltoro 65 de chez Gregory](https://www.i-trekkings.net/test-outdoor/test-sac-a-dos-gregory-baltoro-65/)), __60 litres pour madame__ ([Deva 60 de chez Gregory aussi](https://eu.gregorypacks.com/fr-fr/deva-60-s/65033.html)). Ça représentait, avec les 2 kilos d'eau par jour, entre __12kg pour Jess et 14kg pour moi__. Très contents de la qualité des sacs, portage très efficace, rien à redire.
 
 Pour la tente nous avions commandé la [« Naturehike Cloud-up 3 personnes » sur Amazon](https://www.amazon.fr/gp/product/B074HWCDM6/). 2,3kg poids total emballé. Rapport qualité/prix imbattable je pense. En revanche, quand il fait froid dehors (nous avons dormi à environ 2600m d'altitude, aux alentours de 5°C de la nuit) ça condense sévère, preuves à l'appui :
 
@@ -41,3 +41,5 @@ Ensuite par personne :
 - Une batterie 5000 mah pour recharger le dit portable
 - Trousse de toilette : brosse à dents, dentifrice, savon (type savon d'Alep), crème solaire !
 - Un sac de couchage 0-5 °C
+
+Je pense avoir à peu prêt rien oublié. L'idée pour les vêtements c'est de jouer à l'oignon : très pratique d'avoir plusieurs couches que l'on peut mettre/enlever à loisir. Le temps est souvent changeant en montagne, et ça nous a été bien pratique.
