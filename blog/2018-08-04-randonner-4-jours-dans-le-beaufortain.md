@@ -103,6 +103,15 @@ Journée sympathique, même si tout le dénivelé se fait d'un coup et est assez
 
 ## Jour 2 : refuge du Plan de la Lai => Chapieux (Auberge de la Nova)
 
+Nous avons déposé notre voiture sur le parking du refuge (il y a plein de place) le soir du jour 1 et avons dormi dedans (possibilité de dormir au refuge, mais ya pas des masses de place). Nous voilà partis pour de vrai avec sac à dos, tente et tout le toutim : on retrouve la voiture dans 3 jours. Direction  le **refuge du col de la croix du bonhomme** en passant par le **Rocher du Vent**, puis direction les **Chapieux (Auberge de la Nova**. Le détour par le **Rocher du Vent** est facultatif mais ça rajoute pas beaucoup de temps et le paysage vaut le coup !
+
+Le départ du **Refuge du plan de la Lai** est plutôt sympa et verdoyant.
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/refuge_plan_de_la_lai_depart.jpg"><img src="/images/randonnee_beaufortain/refuge_plan_de_la_lai_depart_small.jpg" alt="Départ refuge de plan de la lai" /></a>
+</p>
+
  En revanche, quand il fait froid dehors (nous avons dormi à environ 2600m d'altitude, aux alentours de 5°C de la nuit) ça condense sévère, preuves à l'appui :
 
 <p style="text-align:center;">
