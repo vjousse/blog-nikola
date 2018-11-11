@@ -1,24 +1,26 @@
 {#  -*- coding: utf-8 -*- #}
 {% extends 'posts.tmpl' %}
 
-{% block content_header %}
-    {% if subcategories %}
-    {{ messages('Subcategories:') }}
-    <ul>
-        {% for name, link in subcategories %}
-        <li><a href="{{ link }}">{{ name|e }}</a></li>
-        {% endfor %}
-    </ul>
+{% block extra_head %}
+    {{ super() }}
+    {% if generate_atom %}
+        <link rel="alternate" type="application/atom+xml" title="Atom for the {# posts[0].section_name()|e #} section" href="{# _link('section_index_atom', posts[0].section_slug()) #}">
     {% endif %}
 {% endblock %}
 
-{% block extra_head %}
+{% block content %}
+<!-- Page Title
+============================================= -->
+<section id="page-title">
+  <div class="container clearfix">
+    <h1>{{ tag }}</h1>
+      <ol class="breadcrumb">
+        <li><span class="feedlink"><a type="application/rss+xml" title="RSS" href="{{ _link('rss', None) }}"><i class="icon-rss"></i> {{ messages('RSS feed') }}</a></span></li>
+      </ol>
+  </div>
+
+</section><!-- #page-title end -->
+<div class="sectionindex">
     {{ super() }}
-    {% if translations|length > 1 and generate_atom %}
-        {% for language in translations|sort %}
-            <link rel="alternate" type="application/atom+xml" title="Atom for the {{ tag|e }} section ({{ language }})" href="{{ _link(kind + "_atom", tag, language) }}">
-        {% endfor %}
-    {% elif generate_atom %}
-        <link rel="alternate" type="application/atom+xml" title="Atom for the {{ tag|e }} section" href="{{ _link("tag" + "_atom", tag) }}">
-    {% endif %}
+</div>
 {% endblock %}

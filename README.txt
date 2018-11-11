@@ -4,10 +4,6 @@ Installation and documentation at https://getnikola.com/
 
 Configuration file for the site is ``conf.py``.
 
-To automatically build and serve everything (on [http://localhost:8000](http://localhost:8000)):
-
-    nikola auto
-
 To build the site::
 
     nikola build

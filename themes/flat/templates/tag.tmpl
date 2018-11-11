@@ -1,5 +1,6 @@
 {#  -*- coding: utf-8 -*- #}
 {% extends 'list_post.tmpl' %}
+{% import 'index_helper.tmpl' as helper with context %}
 
 {% block extra_head %}
     {{ super() }}
@@ -34,30 +35,37 @@
 <section id="content">
 
     <div class="content-wrap">
-        <!-- Posts
-        ============================================= -->
-        <div id="posts" class="post-grid post-masonry post-masonry-full clearfix">
 
+
+        <div class="container clearfix">
+
+            <!-- Posts
+            ============================================= -->
+            <div id="posts">
             {% for post in posts %}
+                {% if post.text() != "<span></span>" and post.is_translation_available(lang) %}
 
-            <div class="entry clearfix post-{{ post.meta('type') }}">
-                <div class="entry-title">
-                    <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
-                </div>
-                <ul class="entry-meta clearfix">
-                    <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
-                </ul>
+                    <div class="entry clearfix post-{{ post.meta('type') }}">
+                        <div class="entry-title">
+                            <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+                        </div>
+                        <ul class="entry-meta clearfix">
+                            <li><i class="icon-calendar3"></i> <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time></li>
+                        </ul>
 
-                <div class="p-summary entry-content">
-                {{ post.text(teaser_only=True) }}
-                </div>
-            </div>
-        {% endfor %}
+                        <div class="p-summary entry-content">
+                        {{ post.text(teaser_only=True) }}
 
-        </div><!-- #posts end -->
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+
+            </div><!-- #posts end -->
+            {{ helper.html_pager() }}
+        </div><!-- .container end -->
     </div>
 
 </section><!-- #content end -->
-
 
 {% endblock %}

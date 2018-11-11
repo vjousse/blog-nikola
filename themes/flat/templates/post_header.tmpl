@@ -62,9 +62,6 @@
                 {% endfor %}
                 </li>
             {% endif %}
-            <li>
-                <a href="{{ _link('post_epub', post) }}"><i class="icon-book" style="color:#C0392B"></i> {{ messages('Download epub') }}</a>
-            </li>
 
             {% if not post.meta('nocomments') and site_has_comments %}
                 <li><i class="icon-comments"></i> {{ comments.comment_link(post.permalink(), post._base_path) }}</li>

@@ -3,7 +3,7 @@
 .. slug: randonner-4-jours-dans-le-beaufortain
 .. date: 2018-08-04 09:12:00+02:00
 .. tags: Randonnée, Nature
-.. category: 
+.. status: draft
 .. link: 
 .. description: 
 .. type: text
@@ -44,7 +44,7 @@ Je pense n'avoir rien oublié. L'idée pour les vêtements c'est de __jouer à l
 
 ## Le parcours
 
-Donc, __faire une boucle en 4 jours / 3 nuits__, tout en restant pas très loin du lac de Roseland. Après avoir étudié pas mal de possibilités, nous avons décidé de faire deux boucles : une sur la première journée et une autre sur les 3 jours restant. Aucun parcours (tout en restant pas trop loin des GRs) nous permettait de vraiment faire 4 jours complets en boucle dans le coin, donc nous avons improvisé. Et puis cette première journée avec retour à la voiture nous a permis de tester quelques trucs, notamment les chaussures, le poids dans le sac à dos et les volumes d'eau à emporter.
+Donc, __faire une boucle en 4 jours / 3 nuits__, tout en restant pas très loin du lac de Roseland. Après avoir étudié pas mal de possibilités, nous avons décidé de faire deux boucles : une sur la première journée et une autre sur les 3 jours restant. Aucun parcours (tout en restant pas trop loin des GRs) ne nous permettait de vraiment faire 4 jours complets en boucle dans le coin, donc nous avons improvisé. Et puis cette première journée avec retour à la voiture nous a permis de tester quelques trucs, notamment les chaussures, le poids dans le sac à dos et les volumes d'eau à emporter.
 
 Le parcours a donc donné ça :
 
@@ -74,7 +74,7 @@ Nous étions arrivé la veille et avons dormi dans le camion, ça nous a permis 
 <a href="/images/randonnee_beaufortain/lac_saint_guerin_chouche_soleil.jpg"><img src="/images/randonnee_beaufortain/lac_saint_guerin_couche_soleil_small.jpg" alt="Lac saint guérin" /></a>
 </p>
 
-Le départ se fait au pied du barrage. Il y un parking où l'on a laissé la voiture pour la journée. Le ciel était un peu chargé au départ, mais ça ne nous a pas empêché d'en prende plein les yeux 🙂
+Le départ se fait au pied du barrage. Il y un parking où l'on a laissé la voiture pour la journée. Le ciel était un peu chargé au départ, mais ça ne nous a pas empêché d'en prendre plein les yeux 🙂
 
 <p style="text-align:center;">
 <a href="/images/randonnee_beaufortain/lac_saint_guerin_2.jpg"><img src="/images/randonnee_beaufortain/lac_saint_guerin_2_small.jpg" alt="Lac saint guérin" /></a>
@@ -92,7 +92,7 @@ Nous avons ensuite pris la direction __col de la Louze__, et quand on y est et q
 <a href="/images/randonnee_beaufortain/lac_saint_guerin_3.jpg"><img src="/images/randonnee_beaufortain/lac_saint_guerin_3_small.jpg" alt="Lac saint guérin" /></a>
 </p>
 
-Du **col de la Louze**, nous avons pris direction les lacs de la tempête. On a fait le tour des premiers et nous sommes ensuite revenus sur nos pas.
+Du **col de la Louze**, nous avons pris direction les lacs de la tempête. Nous avons fait le tour des premiers et nous sommes ensuite revenus sur nos pas.
 
 <p style="text-align:center;">
 <a href="/images/randonnee_beaufortain/lacs_de_la_tempete.jpg"><img src="/images/randonnee_beaufortain/lacs_de_la_tempete_small.jpg" alt="Lacs de la tempête" /></a>
@@ -103,13 +103,36 @@ Journée sympathique, même si tout le dénivelé se fait d'un coup et est assez
 
 ## Jour 2 : refuge du Plan de la Lai => Chapieux (Auberge de la Nova)
 
-Nous avons déposé notre voiture sur le parking du refuge (il y a plein de place) le soir du jour 1 et avons dormi dedans (possibilité de dormir au refuge, mais ya pas des masses de place). Nous voilà partis pour de vrai avec sac à dos, tente et tout le toutim : on retrouve la voiture dans 3 jours. Direction  le **refuge du col de la croix du bonhomme** en passant par le **Rocher du Vent**, puis direction les **Chapieux (Auberge de la Nova**. Le détour par le **Rocher du Vent** est facultatif mais ça rajoute pas beaucoup de temps et le paysage vaut le coup !
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/refuge_plan_la_lai_trace.png"><img src="/images/randonnee_beaufortain/refuge_plan_la_lai_trace.png" alt="Refuge plan la lai tracé" /></a>
+</p>
+
+
+<p style="text-align:center;">
+<img src="/images/randonnee_beaufortain/refuge_plan_la_lai_denivele.png" alt="Refuge plan de la lai dénivelé" />
+</p>
+
+Nous avons déposé notre voiture sur le parking du refuge (il y a plein de place) le soir du jour 1 et avons dormi dedans (possibilité de dormir au refuge, mais il y a pas mal de monde, donc penser à réserver). Nous voilà partis pour de vrai avec sac à dos, tente et tout le toutim : on retrouve la voiture dans 3 jours. Direction  le **refuge du col de la croix du bonhomme** en passant par le **Rocher du Vent**, puis direction les **Chapieux (Auberge de la Nova**). Le détour par le **Rocher du Vent** est facultatif mais vaut le coup. Ça doit rajouter quelque chose comme 45mn/1H mais la vue du haut est magnifique.
 
 Le départ du **Refuge du plan de la Lai** est plutôt sympa et verdoyant.
 
 
 <p style="text-align:center;">
 <a href="/images/randonnee_beaufortain/refuge_plan_de_la_lai_depart.jpg"><img src="/images/randonnee_beaufortain/refuge_plan_de_la_lai_depart_small.jpg" alt="Départ refuge de plan de la lai" /></a>
+</p>
+
+On a normalement une très belle vue sur le Lac de la Gittaz en haut du Rocher du Vent, mais malheureusement pour nous il ne faisait franchement pas beau. Il y avait même de la neige (on était mi-juillet) !
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/rocher_du_vent.jpg"><img src="/images/randonnee_beaufortain/rocher_du_vent_small.jpg" alt="Rocher du vent" /></a>
+</p>
+
+En repartant vers le **refuge du col de la croix du bonhomme**, on a rencontré quelques habitants du coin plutôt sympathiques 🙂 :
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/marmotte.jpg"><img src="/images/randonnee_beaufortain/marmotte_small.jpg" alt="Marmotte" /></a>
 </p>
 
  En revanche, quand il fait froid dehors (nous avons dormi à environ 2600m d'altitude, aux alentours de 5°C de la nuit) ça condense sévère, preuves à l'appui :
