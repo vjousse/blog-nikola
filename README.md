@@ -1,4 +1,4 @@
-This folder contains the source used to generate a static site using Nikola.
+# Installation
 
 Installation and documentation at https://getnikola.com/
 
