@@ -264,3 +264,15 @@ Et biensûr, après l'effort le réconfort, nous finissons en beauté notre jour
 </p>
 
 ## Conclusion
+
+Le Beaufortain est une région magnifique et de ce que l'on a pu voir assez peu fréquentée. À part le passage du refuge du col de la croix du bonhomme à l'auberge de la nova (jour 2) qui emprunte une partie du tour du Mont Blanc où l'on a croisé beaucoup de monde, le reste est très tranquille et plutôt préservé.
+
+Ce fût une super expérience, et à refaire je changerai juste deux / trois trucs :
+
+- Emmener des bâtons (même si ça s'est bien fait sans, ça aurait été pratique de temps en temps)
+- Peut-être prévoir des crampons pour la neige au cas où
+- Prendre une tente plus aérée (nous avons la version avec jupe en bas, qui empêche l'air de circuler)
+
+En tout cas, c'était notre première randonnée en « autonomie » et je pense que 4 jours pour se tester c'est parfait. Même si devoir se trimballer 15 kg sur le dos peut sembler intimident, avec un bon sac ça se fait bien et le plaisir est au rendez-vous !
+
+N'hésitez pas à me joindre par mail ( vincent<span style="display:none;">tutututu</span>@jousse.org ) ou directement sur Twitter [@vjousse](https://twitter.com/vjousse) si vous avez des questions. Bonne rando !
