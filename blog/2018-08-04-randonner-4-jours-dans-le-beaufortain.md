@@ -215,3 +215,52 @@ Après un ravitaillement au __refuge de Presset__ (nous avons aussi acheté de q
 </p>
 
 ## Jour 4 : Lac d'amour => refuge du Plan de la Lai
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour4_trace.png"><img src="/images/randonnee_beaufortain/jour4_trace.png" alt="Lac d'amour => refuge du Plan de la Lai tracé" /></a>
+</p>
+
+
+<p style="text-align:center;">
+<img src="/images/randonnee_beaufortain/jour4_denivele.png" alt="Lac d'amour => refuge du Plan de la Lai dénivelé" />
+</p>
+
+_Vous pouvez visualiser la trace GPS directement sur [le site randogps](http://www.randogps.net/visutrace-topo.php?id=99283) ou télécharger les fichiers GPS : <a href="/resources/maps/jour4.gpx">jour4.gpx</a>, <a href="/resources/maps/jour4.tcx">jour4.tcx</a>, <a href="/resources/maps/jour4.tcx">jour4.kml</a>._
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour4_leve_soleil.jpg"><img src="/images/randonnee_beaufortain/jour4_leve_soleil_small.jpg" alt="Levé de soleil Lac d'amour" /></a>
+<br/>
+<em>Levé de soleil sur le Lac d'Amour</em>
+</p>
+
+Toutes les bonnes choses ont une fin et pour nous elle commence sur ce magnifique levé de soleil sur le Lac d'Amour. Ça a été la journée la plus facile, tout juste 5h30 de randonnée et principalement de la descente. Quelques km après notre départ du lac, la rando offre un panorama à couper le souffle.
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour4_panorama.jpg"><img src="/images/randonnee_beaufortain/jour4_panorama_small.jpg" alt="Panorama" /></a>
+</p>
+
+Le tracé passe ensuite en plein milieu de champs de vaches qui se demandent ce que vous faites là. Même si elles sont imposantes, elles sont occupées à brouter et donc ne vous embêtent pas. Par contre, ne comptez pas sur elles pour se pousser…
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour4_vaches.jpg"><img src="/images/randonnee_beaufortain/jour4_vaches_small.jpg" alt="Vaches" /></a>
+</p>
+
+Pour finir, on surplombe le lac de Roseland avec une vue sympathique (il faut faire un petit détour pour accéder au point de vue).
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour4_lac_roseland.jpg"><img src="/images/randonnee_beaufortain/jour4_lac_roseland_small.jpg" alt="Panoramique lac de Roseland" /></a>
+</p>
+
+Et biensûr, après l'effort le réconfort, nous finissons en beauté notre journée avec des crozets au Beaufort, histoire de goûter à la gastronomie locale 😋.
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour4_crozets.jpg"><img src="/images/randonnee_beaufortain/jour4_crozets_small.jpg" alt="Crozets au Beaufort" /></a>
+</p>
+
+## Conclusion
