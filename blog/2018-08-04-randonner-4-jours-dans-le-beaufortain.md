@@ -1,9 +1,8 @@
 <!-- 
 .. title: Randonner 4 jours dans le beaufortain
 .. slug: randonner-4-jours-dans-le-beaufortain
-.. date: 2018-08-04 09:12:00+02:00
+.. date: 2019-04-14 16:41:00+02:00
 .. tags: Randonnée, Nature
-.. status: draft
 .. link: 
 .. description: 
 .. type: text
