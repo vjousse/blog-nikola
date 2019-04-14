@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Ahhhh le Beaufort… Un sacré fromage, mais aussi une sacrée région et de sacrés paysages. Je vous propose ici un aperçu de __4 jours de randonnée dans le Beaufortain__ en presque autonomie avec ma petite femme Jess. Peut-être que quelques informations pourraient être utiles à certain.e.s d'entre vous, qui sait 🙂
+Ahhhh le Beaufort… Un sacré fromage, mais aussi une sacrée région et de sacrés paysages. Je vous propose ici un aperçu de __4 jours de randonnée dans le Beaufortain__ en presque autonomie avec ma petite femme Jess (rando effectuée mi-juillet 2018). Peut-être que quelques informations pourraient être utiles à certain.e.s d'entre vous, qui sait 🙂
 
 <!-- TEASER_END -->
 
@@ -39,12 +39,13 @@ Ensuite par personne :
 - Une **batterie** 5000 mah pour recharger le dit portable
 - **Trousse de toilette** : brosse à dents, dentifrice, savon (type savon d'Alep), crème solaire !
 - Un **sac de couchage** 0-5 °C
+- De **la monnaie** : lorsque que vous trouverez de quoi vous ravitailler, vous serez content d'avoir de quoi payer quand ils ne prennent pas la carte 🙂.
 
-Je pense n'avoir rien oublié. L'idée pour les vêtements c'est de __jouer à l'oignon__ : très pratique d'avoir plusieurs couches que l'on peut mettre/enlever à loisir. Le temps est souvent changeant en montagne, et ça nous a été bien pratique, même si nous étions en pleine « pépriode de canicule ».
+Je pense n'avoir rien oublié. L'idée pour les vêtements c'est de __jouer à l'oignon__ : très pratique d'avoir plusieurs couches que l'on peut mettre/enlever à loisir. Le temps est souvent changeant en montagne, et ça nous a été bien pratique, même si nous étions en pleine « période de canicule ».
 
 ## Le parcours
 
-Donc, __faire une boucle en 4 jours / 3 nuits__, tout en restant pas très loin du lac de Roseland. Après avoir étudié pas mal de possibilités, nous avons décidé de faire deux boucles : une sur la première journée et une autre sur les 3 jours restant. Aucun parcours (tout en restant pas trop loin des GRs) ne nous permettait de vraiment faire 4 jours complets en boucle dans le coin, donc nous avons improvisé. Et puis cette première journée avec retour à la voiture nous a permis de tester quelques trucs, notamment les chaussures, le poids dans le sac à dos et les volumes d'eau à emporter.
+Donc, __faire une boucle en 4 jours / 3 nuits__, tout en restant pas très loin du _lac de Roseland_. Après avoir étudié pas mal de possibilités, nous avons décidé de faire deux boucles : une sur la première journée et une autre sur les 3 jours restant. Aucun parcours (tout en restant pas trop loin des GRs) ne nous permettait de vraiment faire 4 jours complets en boucle dans le coin, donc nous avons improvisé. Et puis cette première journée avec retour à la voiture nous a permis de tester quelques trucs, notamment les chaussures, le poids dans le sac à dos et les volumes d'eau à emporter.
 
 Le parcours a donc donné ça :
 
@@ -67,7 +68,7 @@ Le parcours a donc donné ça :
 
 _Vous pouvez visualiser la trace GPS directement sur [le site randogps](https://www.randogps.net/visutrace-topo.php?id=74916) ou télécharger les fichiers GPS directement : <a href="/resources/maps/jour1.gpx">jour1.gpx</a>, <a href="/resources/maps/jour1.tcx">jour1.tcx</a>, <a href="/resources/maps/jour1.tcx">jour1.kml</a>._
 
-Nous étions arrivé la veille et avons dormi dans le camion, ça nous a permis d'admirer un beau couché de soleil (vue du pont de singe) :
+Nous étions arrivé la veille et avons dormi dans la « voiture » (un [spacetourer](https://www.citroen.fr/vehicules-neufs/citroen/citroen-spacetourer/description.html) dans lequel nous baissons les fauteuils et mettons un matelas), ça nous a permis d'admirer un beau couché de soleil (vue du pont de singe) :
 
 
 <p style="text-align:center;">
@@ -80,7 +81,7 @@ Le départ se fait au pied du barrage. Il y un parking où l'on a laissé la voi
 <a href="/images/randonnee_beaufortain/lac_saint_guerin_2.jpg"><img src="/images/randonnee_beaufortain/lac_saint_guerin_2_small.jpg" alt="Lac saint guérin" /></a>
 </p>
 
-En prenant la direction du sud du Lac, vous tomberez forcément sur cette sorte de passerelle himalayenne plutôt sympathique :
+En prenant la direction du sud du Lac, vous tomberez forcément sur cette sorte de passerelle (pont de singe) himalayenne plutôt sympathique :
 
 <p style="text-align:center;">
 <a href="/images/randonnee_beaufortain/lac_saint_passerelle.jpg"><img src="/images/randonnee_beaufortain/lac_saint_guerin_passerelle_small.jpg" alt="Lac saint guérin passerelle" /></a>
@@ -113,6 +114,8 @@ Journée sympathique, même si tout le dénivelé se fait d'un coup et est assez
 <img src="/images/randonnee_beaufortain/refuge_plan_la_lai_denivele.png" alt="Refuge plan de la lai dénivelé" />
 </p>
 
+_Vous pouvez visualiser la trace GPS directement sur [le site randogps](http://www.randogps.net/visutrace-topo.php?id=74932) ou télécharger les fichiers GPS directement : <a href="/resources/maps/jour2.gpx">jour2.gpx</a>, <a href="/resources/maps/jour2.tcx">jour2.tcx</a>, <a href="/resources/maps/jour2.tcx">jour2.kml</a>._
+
 Nous avons déposé notre voiture sur le parking du refuge (il y a plein de place) le soir du jour 1 et avons dormi dedans (possibilité de dormir au refuge, mais il y a pas mal de monde, donc penser à réserver). Nous voilà partis pour de vrai avec sac à dos, tente et tout le toutim : on retrouve la voiture dans 3 jours. Direction  le **refuge du col de la croix du bonhomme** en passant par le **Rocher du Vent**, puis direction les **Chapieux (Auberge de la Nova**). Le détour par le **Rocher du Vent** est facultatif mais vaut le coup. Ça doit rajouter quelque chose comme 45mn/1H mais la vue du haut est magnifique.
 
 Le départ du **Refuge du plan de la Lai** est plutôt sympa et verdoyant.
@@ -135,10 +138,80 @@ En repartant vers le **refuge du col de la croix du bonhomme**, on a rencontré 
 <a href="/images/randonnee_beaufortain/marmotte.jpg"><img src="/images/randonnee_beaufortain/marmotte_small.jpg" alt="Marmotte" /></a>
 </p>
 
- En revanche, quand il fait froid dehors (nous avons dormi à environ 2600m d'altitude, aux alentours de 5°C de la nuit) ça condense sévère, preuves à l'appui :
+Il y avait encore une fois des paysages et des crêtes qui valaient le détour.
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour2_crete_avant_refuge_bonhomme.jpg"><img src="/images/randonnee_beaufortain/jour2_crete_avant_refuge_bonhomme_small.jpg" alt="Crête avant refuge bonhomme" /></a>
+</p>
+
+On a décidé de planter la tente sur le versant avant d'arriver à l'auberge de la Nova et de profiter de notre premier repas déshydraté de chez Décathlon, un vrai bonheur 😅. Il y a une petite « épicerie » à côté de l'Auberge de la Nova qui permet d'acheter du pain et de faire les provisions nécessaires (pour le petit déjeuner dans notre cas).
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/tente_nova.jpg"><img src="/images/randonnee_beaufortain/tente_nova_small.jpg" alt="Tente refuge Nova" /></a>
+</p>
+
+## Jour 3 : Chapieux => Lac d'amour
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/chapieux_lac_amour_trace.png"><img src="/images/randonnee_beaufortain/chapieux_lac_amour_trace.png" alt="Chapieux => lac d'amour tracé" /></a>
+</p>
+
+
+<p style="text-align:center;">
+<img src="/images/randonnee_beaufortain/chapieux_lac_amour_denivele.png" alt="Chapieux => lac d'amour t dénivelé" />
+</p>
+
+_Vous pouvez visualiser la trace GPS directement sur [le site randogps](http://www.randogps.net/visutrace-topo.php?id=99271) ou télécharger les fichiers GPS directement : <a href="/resources/maps/jour3.gpx">jour3.gpx</a>, <a href="/resources/maps/jour3.tcx">jour3.tcx</a>, <a href="/resources/maps/jour3.tcx">jour3.kml</a>._
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_depart_matinal.jpg"><img src="/images/randonnee_beaufortain/jour3_depart_matinal_small.jpg" alt="Départ du Refuge de la Nova" /></a>
+</p>
+
+C'est personnellement la randonnée que j'ai préférée, le trajet le long du _ruisseau de la Neuva_ est splendide, avec vue sur le __massif du Mont Blanc__ derrière et des petites cascades un peu partout.
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_mont_blanc.jpg"><img src="/images/randonnee_beaufortain/jour3_mont_blanc_small.jpg" alt="Vue sur le massif du Mont Blanc" /></a>
+<br/>
+<em>Vue sur le massif du Mont Blanc</em>
+</p>
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_cascade.jpg"><img src="/images/randonnee_beaufortain/jour3_cascade_small.jpg" alt="Cascade ruisseau de la Neuva" /></a>
+</p>
+
+Par contre une fois arrivés au __col du Grand Fond__ à 2671m d'altitude, il y avait encore beaucoup de neige et nous étions clairement sous-équipés. Il nous aurait fallu a minima des bâtons ou alors des crampons à mettre sous les chaussures. Mine de rien, avec 15 kg sur le dos, on fait pas trop le malin sur de la neige dure qui si on chute, peut nous faire glisser plusieurs dizaines de mètres plus bas.
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_col_grand_fond.jpg"><img src="/images/randonnee_beaufortain/jour3_col_grand_fond_small.jpg" alt="Col du grand fond" /></a>
+<br/>
+<em>Col du Grand Fond 2671m</em>
+</p>
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_col_grand_fond_neige.jpg"><img src="/images/randonnee_beaufortain/jour3_col_grand_fond_neige_small.jpg" alt="Neige sur le Col du grand fond" /></a>
+</p>
+
+Après un ravitaillement au __refuge de Presset__ (nous avons aussi acheté de quoi manger le lendemain midi) nous avons repris notre route vers le __lac d'Amour__ où nous avons planté la tente pour la nuit. Nous étions presques seuls, et c'est magnifique comme endroit, même si le petit orage qui nous est tombé dessus là nuit était un peu moins drôle 😉.
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_lac_amour.jpg"><img src="/images/randonnee_beaufortain/jour3_lac_amour_small.jpg" alt="Lac d'amour" /></a>
+</p>
+
+
+<p style="text-align:center;">
+<a href="/images/randonnee_beaufortain/jour3_lac_amour_cascade.jpg"><img src="/images/randonnee_beaufortain/jour3_lac_amour_cascade_small.jpg" alt="Lac d'amour cascade" /></a>
+</p>
+
+ En revanche, quand il fait froid dehors (le lac d'Amour est à environ 2600m d'altitude, aux alentours de 5°C de la nuit) ça condense sévère dans la tente, et on mouille de l'intérieur ! Preuves à l'appui :
 
 <p style="text-align:center;">
 <a href="/images/randonnee_beaufortain/tente_humidite.jpg"><img src="/images/randonnee_beaufortain/tente_humidite_small.jpg" alt="Humidité tente" /></a>
 </p>
 
-
+## Jour 4 : Lac d'amour => refuge du Plan de la Lai
