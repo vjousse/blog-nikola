@@ -1998,11 +1998,11 @@
 
 	.container,
 	#header.full-header .container,
-	.container-fullwidth { width: 310px !important; }
+	.container-fullwidth { width: 95% !important; }
 
 	.container.vertical-middle { width: 100% !important; }
 
-	.full-screen:not(.force-full-screen) .container.vertical-middle { width: 310px !important; }
+	.full-screen:not(.force-full-screen) .container.vertical-middle { width: 95% !important; }
 
 	#top-cart { display: none; }
 
@@ -2019,7 +2019,7 @@
 	.swiper_wrapper .slider-caption h2 { font-size: 28px; }
 
 	#header.transparent-header.floating-header .container {
-		width: 310px;
+		width: 95%;
 		padding: 0 15px;
 	}
 
