@@ -37,3 +37,12 @@ pre.code {
 .testimonials-grid li {
   height: 188px;
 }
+
+
+#navbar-toggle-cbox {
+  display:none
+}
+
+#navbar-toggle-cbox:checked ~ #primary-menu > ul {
+    display: block;
+}
