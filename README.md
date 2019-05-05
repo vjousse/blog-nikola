@@ -8,9 +8,9 @@ To build the site::
 
     nikola build
 
-To see it::
+To automagically serve it on `http://localhost:8000` and enable autoreloading:
 
-    nikola serve -b
+    nikola auto
 
 To check all available commands::
 
