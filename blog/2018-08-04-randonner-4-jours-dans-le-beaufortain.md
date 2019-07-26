@@ -8,7 +8,7 @@
 .. type: text
 -->
 
-Ahhhh le Beaufort… Un sacré fromage, mais aussi une sacrée région et de sacrés paysages. Je vous propose ici un aperçu de __4 jours de randonnée dans le Beaufortain__ en presque autonomie avec ma petite femme Jess (rando effectuée mi-juillet 2018). Peut-être que quelques informations pourraient être utiles à certain.e.s d'entre vous, qui sait 🙂
+Ahhhh le Beaufort… Un sacré fromage, mais aussi une sacrée région et de sacrés paysages. Je vous propose ici un aperçu de __4 jours de randonnée dans le Beaufortain__ en presque autonomie avec ma femme Jess (rando effectuée mi-juillet 2018). Peut-être que quelques informations pourraient être utiles à certain.e.s d'entre vous, qui sait 🙂
 
 <!-- TEASER_END -->
 
