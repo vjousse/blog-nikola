@@ -35,6 +35,6 @@ Dès qu'un chapitre sera prêt, je vous le mettrai sur le blog. Je compilerai en
 16. [La 5ème compétence : voir la réalité](/blog/la-5eme-competence-voir-la-realite/), _temps de traduction : 25mn_
 17. [Pratiquer les compétences](/blog/pratiquer-les-competences/), _temps de traduction : 1h25_
 18. [Comment agir après le lâcher prise](/blog/comment-agir-apres-le-lacher-prise/), _temps de traduction : 15mn_
-19. Ce que le lâcher prise n'est pas
+19. [Ce que le lâcher prise n'est pas](/blog/ce-que-le-lacher-prise-n-est-pas/), _temps de traduction : 45 mn, merci [DeepL](https://www.deepl.com/home)_
 20. Exemples de lâcher prise
 21. Par où continuer ensuite
