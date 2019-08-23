@@ -34,7 +34,7 @@ Dès qu'un chapitre sera prêt, je vous le mettrai sur le blog. Je compilerai en
 15. [La 4ème compétence : lâcher prise avec amour](/blog/la-4eme-competence-lacher-prise-avec-amour/), _temps de traduction : 20mn_
 16. [La 5ème compétence : voir la réalité](/blog/la-5eme-competence-voir-la-realite/), _temps de traduction : 25mn_
 17. [Pratiquer les compétences](/blog/pratiquer-les-competences/), _temps de traduction : 1h25_
-18. Comment agir après le lâcher prise
+18. [Comment agir après le lâcher prise](/blog/comment-agir-apres-le-lacher-prise/), _temps de traduction : 15mn_
 19. Ce que le lâcher prise n'est pas
 20. Exemples de lâcher prise
 21. Par où continuer ensuite
