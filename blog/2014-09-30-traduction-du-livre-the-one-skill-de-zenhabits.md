@@ -37,5 +37,6 @@ Dès qu'un chapitre sera prêt, je vous le mettrai sur le blog. Je compilerai en
 18. [Comment agir après le lâcher prise](/blog/comment-agir-apres-le-lacher-prise/), _temps de traduction : 15mn_
 19. [Ce que le lâcher prise n'est pas](/blog/ce-que-le-lacher-prise-n-est-pas/), _temps de traduction : 45 mn, merci [DeepL](https://www.deepl.com/home)_
 20. [Exemples de lâcher prise](/blog/exemples-de-lacher-prise), _temps de traduction : 35 mn, merci [DeepL](https://www.deepl.com/home)_
-21. [Par où continuer ensuite](par-ou-continuer-ensuite), _temps de traduction : 10 mn, merci [DeepL](https://www.deepl.com/home)_
+21. [Par où continuer ensuite](/blog/par-ou-continuer-ensuite), _temps de traduction : 10 mn, merci [DeepL](https://www.deepl.com/home)_
 
+Ça y est, j'ai __fini la traduction du livre__ ! J'en tire les enseignements dans [un post dédié](/blog/fin-traduction-the-one-skill-de-zenhabits/).
