@@ -193,6 +193,12 @@ THEME_CONFIG = {
     }
 }
 
+
+FILTERS = {
+  ".css": ["filters.yui_compressor"],
+  ".js": ["filters.yui_compressor"],
+}
+
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
 #
