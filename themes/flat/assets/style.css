@@ -9407,10 +9407,11 @@ body:not(.device-touch) .clients-grid li a {
 .testi-content p:after { content: '"'; }
 
 .testi-meta {
-	margin-top: 10px;
-	font-size: 13px;
-	font-weight: bold;
-	text-transform: uppercase;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
 }
 
 .testi-meta:before { content: '\2013'; }
