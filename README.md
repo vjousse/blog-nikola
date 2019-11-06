@@ -15,3 +15,11 @@ To automagically serve it on `http://localhost:8000` and enable autoreloading:
 To check all available commands::
 
     nikola help
+
+# CSS
+
+- https://github.com/rbtech/css-purge
+
+Purge CSS : 
+
+    css-purge -i slim.css -o slim.purge.css
