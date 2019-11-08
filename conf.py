@@ -197,6 +197,7 @@ THEME_CONFIG = {
 FILTERS = {
   ".css": ["filters.yui_compressor"],
   ".js": ["filters.yui_compressor"],
+  ".html": ["filters.html_tidy_mini"],
 }
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
@@ -265,7 +266,7 @@ TIMEZONE = "Europe/Paris"
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'YYYY-MM-dd HH:mm'
+DATE_FORMAT = 'dd-MM-YYYY HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
