@@ -912,7 +912,7 @@ ol,ul {
 
 .entry-title h2 {
   margin: 0;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -3262,17 +3262,6 @@ body:not(.top-search-open) #header-wrap #logo,body:not(.top-search-open) #primar
   border-bottom: 2px solid #F5F5F5;
 }
 
-.entry-title h2 {
-  margin: 0;
-  font-size: 40px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.entry-title h2 a {
-  color: #333;
-}
 
 .entry-title h2 a:hover {
   color: #1ABC9C;
