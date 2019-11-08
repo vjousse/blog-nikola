@@ -511,7 +511,7 @@ CATEGORY_DESTPATH_FIRST_DIRECTORY_ONLY = True
 
 CATEGORY_DESTPATH_NAMES = {
    'en': {
-       'tech': 'Technical blog',
+       'tech': 'Tech',
        'uncategorized': 'Odds and Ends',
    },
    'fr': {
