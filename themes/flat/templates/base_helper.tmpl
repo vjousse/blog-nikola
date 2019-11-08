@@ -160,7 +160,7 @@ lang="{{ lang }}">
             {% if rel_link(permalink, url) == "#" %}
                 <li class="current"><a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
             {% else %}
-                <li><a{% if url.startswith("http://") %} target="_blank"{% endif %} href="{{ url }}">{{ text }}{% if url.startswith("http://") %} <i class="icon-external-link"></i>{% endif %}</a>
+                <li><a{% if url.startswith("http://") %} target="_blank"{% endif %} href="{{ url }}">{{ text }}{% if url.startswith("http://") %} ↗</i>{% endif %}</a>
             {% endif %}
         {% endif %}
     {% endfor %}
