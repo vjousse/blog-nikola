@@ -33,7 +33,7 @@ Et c'est tout ? Oui, enfin presque. Vous ajoutez une liste de tâches à faire a
 - Si la tâche est estimée prendre moins d'un pomodoro, __on la groupe__ avec d'autres.
 - Ça __ira mieux au prochain pomodoro__.
 
-Grosso modo, on a fait le tour. Pour de vrai vous avez un [livre d'une 60 aine de pages qui est disponible en français gratuitement](http://data.jousse.org/pomodoro/TechniquePomodoro.pdf) et qui explique tout en détails. La dernière version est payante sur [le site de l'auteur](http://pomodorotechnique.com/) et uniquement en anglais, mais pour l'avoir achetée, je peux vous dire qu'il n'y a rien de nouveau par rapport à l'ancienne.
+Grosso modo, on a fait le tour. Pour de vrai vous avez un [livre d'une 60 aine de pages qui est disponible en français gratuitement](https://data.jousse.org/pomodoro/TechniquePomodoro.pdf) et qui explique tout en détails. La dernière version est payante sur [le site de l'auteur](http://pomodorotechnique.com/) et uniquement en anglais, mais pour l'avoir achetée, je peux vous dire qu'il n'y a rien de nouveau par rapport à l'ancienne.
 
 Tout ça pour vous dire quoi ? Tout simplement pour vous faire part de mon enthousiasme vis à vis de cette technique. Je l'ai découverte il y a plusieurs années et elle me rend toujours de très grands services. Ses effets magiques sont :
 
@@ -48,8 +48,8 @@ Pour les personnes comme moi qui ont un rapport au temps un peu problématique e
 
 Quelques __liens pratiques__ :
 
-- la feuille [à faire aujourd'hui](http://data.jousse.org/pomodoro/pomodoro-todotoday-A4.pdf)
-- la feuille [d'enegistrement de votre activité (records)](http://data.jousse.org/pomodoro/pomodoro-records-A4.pdf)
-- la feuille [d'inventaire](http://data.jousse.org/pomodoro/pomodoro-inventory-A4.pdf)
-- [le livre en français](http://data.jousse.org/pomodoro/TechniquePomodoro.pdf)
-- [le livre original en anglais](http://data.jousse.org/pomodoro/ThePomodoroTechnique_v1-3.pdf)
+- la feuille [à faire aujourd'hui](https://data.jousse.org/pomodoro/pomodoro-todotoday-A4.pdf)
+- la feuille [d'enegistrement de votre activité (records)](https://data.jousse.org/pomodoro/pomodoro-records-A4.pdf)
+- la feuille [d'inventaire](https://data.jousse.org/pomodoro/pomodoro-inventory-A4.pdf)
+- [le livre en français](https://data.jousse.org/pomodoro/TechniquePomodoro.pdf)
+- [le livre original en anglais](https://data.jousse.org/pomodoro/ThePomodoroTechnique_v1-3.pdf)
