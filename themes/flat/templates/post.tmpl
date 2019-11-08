@@ -32,8 +32,6 @@
 ============================================= -->
 <section id="content">
 
-    <div class="content-wrap">
-
         <div class="container clearfix">
 
             <div class="single-post nobottommargin">
@@ -57,24 +55,12 @@
                             <span>Share this Post:</span>
                             <div>
 
-                                <a class="social-icon si-borderless si-facebook" href="http://www.facebook.com/sharer.php?u={{ abs_link(post.permalink()) }}&t={{ blog_title|e }}" target="_blank"> 
-
-                                    <i class="icon-facebook"></i>
-                                    <i class="icon-facebook"></i>
+                                <a href="http://www.facebook.com/sharer.php?u={{ abs_link(post.permalink()) }}&t={{ blog_title|e }}" target="_blank"> 
+                                  Facebook
                                 </a>
 
-                                <a class="social-icon si-borderless si-twitter" href="https://twitter.com/share?url={{ abs_link(post.permalink()) }}&text={{ post.title()|e }}{{ ' | '|e }}{{ blog_title|e }}{{ ' via @vjousse'|e }}" target="_blank">
-
-                                    <i class="icon-twitter"></i>
-                                    <i class="icon-twitter"></i>
-                                </a>
-                                <a class="social-icon si-borderless si-gplus" href="https://plus.google.com/share?url={{ abs_link(post.permalink()) }}" target="_blank">
-                                    <i class="icon-gplus"></i>
-                                    <i class="icon-gplus"></i>
-                                </a>
-                                <a class="social-icon si-borderless si-rss" title="RSS" href="{{ _link('rss', None) }}">
-                                    <i class="icon-rss"></i>
-                                    <i class="icon-rss"></i>
+                                <a href="https://twitter.com/share?url={{ abs_link(post.permalink()) }}&text={{ post.title()|e }}{{ ' | '|e }}{{ blog_title|e }}{{ ' via @vjousse'|e }}" target="_blank">
+                                  Twitter
                                 </a>
                             </div>
                         </div><!-- Post Single - Share End -->
@@ -89,8 +75,6 @@
 
             </div><!-- .single-post end -->
         </div><!-- .container end -->
-    </div>
-
 </section><!-- #content end -->
 
 {{ comments.comment_link_script() }}
