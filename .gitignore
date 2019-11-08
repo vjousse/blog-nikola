@@ -61,3 +61,4 @@ output/
 *.db
 elm-stuff/
 elm.js
+themes/flat/assets/slim.purge.css
