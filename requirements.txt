@@ -26,7 +26,7 @@ jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-core==4.4.0
 Logbook==1.5.3
-lxml==4.3.3
+lxml==4.6.5
 Mako==1.0.8
 Markdown==2.6.11
 MarkupSafe==1.1.1
